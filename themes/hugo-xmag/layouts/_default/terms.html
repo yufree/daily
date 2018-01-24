@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+
+<div class="container">
+<article>
+<main>
+<h1>{{ $.Scratch.Get "Title" }}</h1>
+
+<ul class="terms">
+  {{ range $key, $value := .Data.Terms }}
+  <li>
+    <a href="{{ (print "/" $.Data.Plural "/" $key) | relURL }}">
+      {{ $key }}
+    </a>
+    ({{ len $value }})
+  </li>
+  {{ end }}
+</ul>
+</main>
+</article>
+</div>
+
+{{ partial "footer.html" . }}
