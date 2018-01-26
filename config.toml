@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Hugo XMag"
+title = "Daily R"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""
@@ -11,9 +11,6 @@ hasCJKLanguage = true
 enableEmoji = true
 paginate = 6
 
-[permalinks]
-    post = "/post/:year/:month/:day/:slug/"
-
 [[menu.main]]
     name = "Home"
     url = "/"
@@ -22,14 +19,6 @@ paginate = 6
     name = "About"
     url = "/about/"
     weight = 2
-[[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
 [[menu.main]]
     name = "Subscribe"
     url = "/index.xml"

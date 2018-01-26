@@ -1,0 +1,16 @@
+language: r
+sudo: false
+latex: false
+pandoc: false
+cache: packages
+
+before_install:
+  - git config --global user.email "yufree@live.cn"
+  - git config --global user.name "yufree"
+script:
+  - Rscript R/fetch.R
+
+after_success:
+  - git add --all *
+  - git commit -m "Daily update"
+  - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
