@@ -16,9 +16,8 @@ after_success:
 - git commit -m "Daily update"
 - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
 - curl --include --request POST --data '{"title":"Created via API","body":"daily update","head":"yufree:master","base":"master"}' "https://api.github.com/repos/jpgroup/daily/pulls?access_token=${GITHUB_PAT}"
-- git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git docs
-cd docs
-cp -r ../public/* ./
-git add --all *
-git commit -m "Update the book" || true
-git push origin gh-pages
+- mkdir docs
+- cp -r ./public/* ./docs/
+- git add --all *
+- git commit -m "Update the book" || true
+- git push origin master
