@@ -3,7 +3,6 @@
 "www.pzhao.org/en/index.xml","2018-01-01"
 "feeds.feedburner.com/ProfessorRobJHyndman","2018-01-01"
 "simplystatistics.org/index.xml","2018-01-22"
-"www.r-users.com/feed/","2018-01-26"
 "yihui.name/index.xml","2018-01-26"
 "andrewgelman.com/feed/","2018-01-26"
 "ropensci.org/blog/index.xml", "2018-01-01"
