@@ -3,17 +3,18 @@ sudo: false
 latex: false
 pandoc: false
 cache: packages
-
 r_github_packages:
-  - cran/yaml
-  - yufree/scifetch
+- cran/yaml
+- yufree/scifetch
 before_install:
-  - git config --global user.email "yufree@live.cn"
-  - git config --global user.name "yufree"
+- git config --global user.email "yufree@live.cn"
+- git config --global user.name "yufree"
 script:
-  - Rscript R/fetch.R
-
+- Rscript R/fetch.R
 after_success:
-  - git add --all *
-  - git commit -m "Daily update"
-  - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
+- git add --all *
+- git commit -m "Daily update"
+- git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
+env:
+  global:
+    secure: X0bigLQgPYLqXqsRQUyAlvtAfuURcSekk5V6fqd++8kO1taLI/zDgc5NDYK7FW7TLdJXiFBV2xnmXGNlRHfg7OlinPeMULAyNic5xwlqsukr6QYP1vvJXlrLoQbVuRjLWFrucLMQW82QcikI4rlLUTdiUgVjkvbY6/7aLj58VHV5O6XmVPjc+i1Vr07WkWZxtXAkIsK43ZLEr54I3parIoJoTFNNEhDIlqyOwo67slqSqUqXOAPHz5RMr40Cru09nVU8hHnxIXU4Ni3brEnJpXtVnfLZ4dutyzG4W7GrVfNXGiwutSjq46Cs8yC+qD0rGILpuC41OHGYzLkjJeox/KE722XYePPV2wHgLm1eNjeItFuxd2Jg81vmDq9e+LpUg3CwNZQhMi8tLgFxbLv4kpQEMxJaorNr6dDzhWT0fomYXyEpf4PH86CdWTGj39o27KRndC5Eb6Q+hY2in8aS9dLQRIuSA/DC0TaM8kXoRk4EO7nbrVJJ2FtiI1hqc99qZZEqiN+rUO4000hv1gs1b/ac4eYnuzKUnrudBQHD6xYwx0sZ/aPo2T9mEPmdiJwGzEELiHXI1egoWrutSHe0vFKV2N49+8D7Y2EuG6nyEjwvFdq298+HI/r7A6oFo1uF/hI8RnmpjloReye0pfL3sl7nKtXrGj7Wgvw92XQHcks=
