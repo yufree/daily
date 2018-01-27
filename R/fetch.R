@@ -13,12 +13,12 @@ n = 0
 
 for (i in 1:NROW(m)) {
         a <- scifetch::getrss(m[i,1])
-        n <- sum(as.POSIXct(a$date[1:10])>as.POSIXct(m[i,2]))
+        n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
         if(n>0){
                 temp <- a[1:n,]
                 x <- rbind(temp,x)
                 ## update date
-                m[i,2] <- as.character(max(as.POSIXct(a$date[1:10])))
+                m[i,2] <- as.character(max(as.POSIXct(a$date[1:NROW(a)])))
         }
 }
 if(NROW(x)>0){
