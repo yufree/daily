@@ -4,6 +4,9 @@ latex: false
 pandoc: false
 cache: packages
 
+r_github_packages:
+  - cran/yaml
+  - yufree/scifetch
 before_install:
   - git config --global user.email "yufree@live.cn"
   - git config --global user.name "yufree"
