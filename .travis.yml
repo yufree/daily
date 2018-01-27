@@ -15,6 +15,3 @@ after_success:
 - git add --all *
 - git commit -m "Daily update"
 - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
-env:
-  global:
-  - secure: ANWsi/ckAiGooVBTfuaW0F5LnPKVwB+vUftXQHkfXfOe+SOw4bJqun/T0+fGTelCh69eOmimGhHH4kTdQKRGBV8A8EKyp6snBuQoonoqwhwHKHhPggXIpRjNkFQyI9KvgIjXzJJEmbTQY/a2kiPrYUhYinidYYq15HHQb0l8no5FUOp3+7dMi3agzGzXPz+1mPu92Yk+Pp9iOO0z9Lsd7PRHSWrozyXy8MZ2x4DJ3ZcDudKv/zfKda6+S0+i7P2bJO++9zM1FXG5OjaPXaBnlm2Fx68j9cr/wpxT8lrSRBX/JPrKQiAYY9ivOPrdx8Rv+fjJV6060N7/tgIdJt9uVNnWY+hx/6Vypz0yqDyV3tIcsznE73MGNPPc05HCcO2sCjQmSomI2bNWflV/9my6hiLuElBqtTGp8IkRZ6ZemnnNjK/rzOFTKvS2O0q1ZxKBEcNRvh1jBlsSnixEZkVdAosEQJvoelRGuD4iPA8zsQWM7mRU92NYl6GFy4wU8A1E/hWtoPydtqETumzOZyxd/bKYx9dFSLSd+gLq7OZQc0z65F0lFX7xnKyXDcqeByg2/iLohYcJf4ID+dUwOzEa3yeCXWhZ87rJg2xuUcDBDH8di0tEmvN1+OgskfYN2F4hegAr6i+ZuzoRdtml6Io5iU6dJtUU5wWHfmRd23kU8+k=
