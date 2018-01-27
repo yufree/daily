@@ -18,7 +18,7 @@ for (i in 1:NROW(m)) {
                 temp <- a[1:n,]
                 x <- rbind(temp,x)
                 ## update date
-                m[i,2] <- as.character(max(as.POSIXct(a$date[1:NROW(a)])))
+                m[i,2] <- d
         }
 }
 if(NROW(x)>0){
