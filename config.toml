@@ -24,10 +24,10 @@ paginate = 6
     url = "/index.xml"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "light news/blog aggregator website for R"
     summary_length = 300
     github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [Miao YU](https://yufree.cn) 2018 | [Github](https://github.com/yufree) | [Twitter](https://twitter.com/yu_free)"
 
 [params.text]
     back = "&larr; Back to Home"

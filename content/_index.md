@@ -1,3 +1,3 @@
 ---
-title: Hugo XMag
+title: Daily R
 ---
