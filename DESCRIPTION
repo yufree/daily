@@ -1,5 +1,5 @@
 Package: placeholder
 Title: DailyR
 Version: 0.0.1
-Imports: yaml
+Imports: yaml, blogdown
 Remotes: yufree/scifetch
