@@ -9,6 +9,8 @@ author: Miao Yu
 
 - No AD
 
+- Remove the author to make more contents focused
+
 - Update everyday via a automated process
 
 - Use Github PR to control posts
@@ -16,6 +18,8 @@ author: Miao Yu
 - Re-direct to the orginal pages by click title in the homepage
 
 - Add comments by click description in the homepage using disqus
+
+- Support RSS
 
 # Recipe 
  
