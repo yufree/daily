@@ -20,7 +20,7 @@
     <span class="date">{{ .Date.Format "2006-01-02" }}</span>
   </div>
   <div class="summary">
-    <a href="{{ .LinkTitle  }}">
+    <a href="{{ .URL  }}">
     {{ with .Params.thumbnail }}
     <div class="thumbnail"><img src="{{ relURL . }}" alt="Thumbnail" /></div>
     {{ else }}
