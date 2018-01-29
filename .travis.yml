@@ -6,6 +6,7 @@ cache: packages
 r_github_packages:
 - cran/yaml
 - yufree/scifetch
+- rstudio/blogdown
 before_install:
 - git config --global user.email "yufree@live.cn"
 - git config --global user.name "yufree"
@@ -16,8 +17,12 @@ after_success:
 - git commit -m "Daily update"
 - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
 - curl --include --request POST --data '{"title":"Created via API","body":"daily update","head":"yufree:master","base":"master"}' "https://api.github.com/repos/jpgroup/daily/pulls?access_token=${GITHUB_PAT}"
+- Rscript -e 'blogdown::install_hugo();blogdown::build_site()'
+- rm -r docs
 - mkdir docs
 - cp -r ./public/* ./docs/
+- cd docs
+- touch .nojekyll
 - git add --all *
-- git commit -m "Update the book" || true
-- git push origin master
+- git commit -m "Update the demo"
+- git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
