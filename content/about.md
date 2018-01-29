@@ -11,7 +11,11 @@ author: Miao Yu
 
 - Update everyday via a automated process
 
-- Re-direct to the orginal pages
+- Use Github PR to control posts
+
+- Re-direct to the orginal pages by click title in the homepage
+
+- Add comments by click description in the homepage using disqus
 
 # Recipe 
  
