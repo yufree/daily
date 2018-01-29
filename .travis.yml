@@ -18,6 +18,7 @@ after_success:
 - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
 - curl --include --request POST --data '{"title":"Created via API","body":"daily update","head":"yufree:master","base":"master"}' "https://api.github.com/repos/jpgroup/daily/pulls?access_token=${GITHUB_PAT}"
 - Rscript -e 'blogdown::install_hugo();blogdown::build_site()'
+- rm -r docs
 - mkdir docs
 - cp -r ./public/* ./docs/
 - git add --all *
