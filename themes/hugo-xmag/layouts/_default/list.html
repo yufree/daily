@@ -5,15 +5,6 @@
 {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "") }}
 {{ range $paginator.Pages }}
 <section class="article-list">
-  <div class="categories">
-  {{ with .Params.categories }}
-  {{ range first 1 . }}
-    <a href="{{ relURL (print "/categories/" . | urlize) }}">{{ . }}</a>
-  {{ end }}
-  {{ else }}
-    <a>{{ default "Uncategorized" .Site.Params.text.uncategorized }}</a>
-  {{ end }}
-  </div>
   <h1><a href="{{ .LinkTitle  }}">{{ .Title }}</a></h1>
   <div class="date-author">
     {{ if .Params.author }}<span class="author">{{ partial "author_names.html" . }}</span> / {{ end }}
