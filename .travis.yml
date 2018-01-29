@@ -22,5 +22,5 @@ after_success:
 - mkdir docs
 - cp -r ./public/* ./docs/
 - git add --all *
-- git commit -m "Update the demo" || true
+- git commit -m "Update the demo"
 - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
