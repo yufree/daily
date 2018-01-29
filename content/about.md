@@ -1,11 +1,16 @@
 ---
 title: Daily R
 author: Miao Yu
+description: " "
+linkTitle: https://yufree.github.io/daily/
+source: R Bloggers
 ---
 
 **Daily R** is a light news/blog aggregator website for R. 
 
 # Features
+
+- Real Daily and you could use RSS reader to find entry of the old posts
 
 - No AD
 
@@ -18,8 +23,6 @@ author: Miao Yu
 - Re-direct to the orginal pages by click title in the homepage
 
 - Add comments by click description in the homepage using disqus
-
-- Support RSS
 
 # Recipe 
  
