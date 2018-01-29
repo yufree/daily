@@ -24,8 +24,8 @@ author: Miao Yu
 # Recipe 
  
 - [Blogdown](https://github.com/rstudio/blogdown) to build the site from @yihui
-- [xmag](https://github.com/yihui/hugo-xmag) layout also from @yihui
-- [scifetch](https://github.com/yufree/scifetch) to analysis RSS(support xml, atom and json) from @yufree, modified from [tidyRSS](https://cran.r-project.org/web/packages/tidyRSS/index.html)
+- [xmag](https://github.com/yihui/hugo-xmag) layout also from @yihui and I made some modification [here](https://github.com/yufree/hugo-xmag)
+- [scifetch](https://github.com/yufree/scifetch) to analysis RSS(support xml, atom and json) from @yufree, modified from [tidyRSS](https://cran.r-project.org/web/packages/tidyRSS/index.html) from @RobertMyles
 - [twitter-blogdown](https://t.yihui.name) by @yihui was the template to be hacked
 - [Github API](https://developer.github.com/v3/pulls/)
 - [Travis Cron Job](https://docs.travis-ci.com/user/cron-jobs/)
