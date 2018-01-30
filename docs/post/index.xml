@@ -6,10 +6,55 @@
     <description>Recent content in Posts on Daily R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2018 19:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 01:41:34 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Postdoc opening on subgroup analysis and risk-benefit analysis at Merck pharmaceuticals research lab</title>
+      <link>/post/2018-01-30-1/</link>
+      <pubDate>Tue, 30 Jan 2018 01:41:34 +0000</pubDate>
+      
+      <guid>/post/2018-01-30-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My suggested project for the MIT Better Science Ideathon:  assessing the reasonableness of missing-data imputations.</title>
+      <link>/post/2018-01-30-2/</link>
+      <pubDate>Mon, 29 Jan 2018 21:42:24 +0000</pubDate>
+      
+      <guid>/post/2018-01-30-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Objects of the class “Verbal Behavior”</title>
+      <link>/post/2018-01-30-3/</link>
+      <pubDate>Mon, 29 Jan 2018 14:53:48 +0000</pubDate>
+      
+      <guid>/post/2018-01-30-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I just signed my first referee report</title>
+      <link>/post/2018-01-30-4/</link>
+      <pubDate>Mon, 29 Jan 2018 10:50:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-30-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer</title>
+      <link>/post/2018-01-30-5/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-01-30-5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New Stan case studies: NNGP and Lotka-Volterra</title>
