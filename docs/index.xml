@@ -6,355 +6,570 @@
     <description>Recent content on Daily R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2018 19:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2018 01:41:34 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postdoc opening on subgroup analysis and risk-benefit analysis at Merck pharmaceuticals research lab</title>
+      <link>/post/2018-01-30-1/</link>
+      <pubDate>Tue, 30 Jan 2018 01:41:34 +0000</pubDate>
+      <guid>/post/2018-01-30-1/</guid>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/29/postdoc-opening-subgroup-analysis-risk-benefit-analysis-merck-pharmaceuticals-research-lab/">Postdoc opening on subgroup analysis and risk-benefit analysis at Merck pharmaceuticals research lab</a></p>
+        <p>&lt;p&gt;Richard Baumgartner writes: We are looking for a strong postdoctoral fellow for a very interesting cutting edge project. The project requires expertise in statistical modeling and machine learning. Here is the official job ad. We are looking for candidates that are strong both analytically and computationally (excellent coding skills). In the project, we are interested [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://andrewgelman.com/2018/01/29/postdoc-opening-subgroup-analysis-risk-b</p>
+      </description>
+    </item>
     
+    <item>
+      <title>My suggested project for the MIT Better Science Ideathon:  assessing the reasonableness of missing-data imputations.</title>
+      <link>/post/2018-01-30-2/</link>
+      <pubDate>Mon, 29 Jan 2018 21:42:24 +0000</pubDate>
+      <guid>/post/2018-01-30-2/</guid>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/29/suggested-project-mit-better-science-ideathon-assessing-reasonableness-missing-data-imputations/">My suggested project for the MIT Better Science Ideathon:  assessing the reasonableness of missing-data imputations.</a></p>
+        <p>&lt;p&gt;Leo Celi writes: We are 3 months away from the MIT Better Science Ideathon on April 23. We would like to request your help with mentoring a team or 2 during the ideathon. During the ideathon, teams discuss a specific issue (lack of focus on reproducibility across majority of journals) or problem that arose from [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://andrewgelman.com/2018/01/29/suggested-project-mit-better-science-ideathon-assessing-reasonableness-missing-data-imputations/&#34;&gt;M</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Objects of the class “Verbal Behavior”</title>
+      <link>/post/2018-01-30-3/</link>
+      <pubDate>Mon, 29 Jan 2018 14:53:48 +0000</pubDate>
+      <guid>/post/2018-01-30-3/</guid>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/29/objects-class-verbal-behavior/">Objects of the class “Verbal Behavior”</a></p>
+        <p>&lt;p&gt;Steve Shulman-Laniel writes: My nominee for a new &amp;#8220;objects of the class&amp;#8221; would be B. F. Skinner&amp;#8217;s &amp;#8220;Verbal Behavior&amp;#8221; &amp;#8212; i.e., the criticisms of the thing are more widely read than the thing itself. Hmmm . . . I&amp;#8217;ve heard of Skinner but not of &amp;#8220;Verbal Behavior,&amp;#8221; let alone its criticism. But the general idea [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://andrewgelman.com/2018/01/29/objects-class-verbal-behavior/&#34;&gt;Objects of the class </p>
+      </description>
+    </item>
+    
+    <item>
+      <title>I just signed my first referee report</title>
+      <link>/post/2018-01-30-4/</link>
+      <pubDate>Mon, 29 Jan 2018 10:50:00 +0000</pubDate>
+      <guid>/post/2018-01-30-4/</guid>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/i-just-signed-my-first-referee-report">I just signed my first referee report</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;p&gt;
+I once received a referee report for a journal submission that said, “In fact, in my view its contribution to science is negative…” The report continued with comments about how the paper lacked “proper and sound scientific inquiry” and was “…unsuitable for publication pretty much anywhere, I think.” Just in case the four-page assault was not sufficient, the</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer</title>
+      <link>/post/2018-01-30-5/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/post/2018-01-30-5/</guid>
+      <description>
+        <p>Source: rOpenSci Blog on rOpenSci - open tools for open science</p>
+        <p>Link: <a href="https://ropensci.org/blog/2018/01/29/rse-ma%C3%ABlle-salmon/">Introducing Maëlle Salmon, rOpenSci’s new Research Software Engineer</a></p>
+        <p>
+        
+        
+
+&lt;p&gt;We’re very pleased to be introducing someone who needs no introduction in the R community. Join us in welcoming Maëlle Salmon to rOpenSci as a Research Software Engineer (part time, working from Nancy, France). We’d like to formally introduce her here and share a bit about the kinds of things she’ll be working on.&lt;/p&gt;
+
+&lt;p&gt;Maëlle did a B.Sc. in Biology with an emphasis on maths and quantitative work, two Masters degrees - one in Ecology and one in Public Health -  and a Ph.</p>
+      </description>
+    </item>
     
     <item>
       <title>New Stan case studies: NNGP and Lotka-Volterra</title>
       <link>/post/2018-01-29-1/</link>
       <pubDate>Sun, 28 Jan 2018 19:15:37 +0000</pubDate>
-      
       <guid>/post/2018-01-29-1/</guid>
-      <description></description>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/28/stan-case-studies-nngp-lotka-volterra/">New Stan case studies: NNGP and Lotka-Volterra</a></p>
+        <p>&lt;p&gt;It&amp;#8217;s only January and we already have two new case studies up on the Stan site. Two new case studies Lu Zhang of UCLA contributed a case study on nearest neighbor Gaussian processes. Bob Carpenter (that&amp;#8217;s me!) of Columbia Uni contributed one on Lotka-Volterra population dynamics. Mitzi Morris of Columbia Uni has been updating her [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://andrewgelman.com/2018/01/28/stan-case-studies-nngp-lotka-volterra/&#34;&gt;New Stan case studies: NNGP </p>
+      </description>
     </item>
     
     <item>
       <title>Looking at all possible comparisons at once:  It’s not “overfitting” if you put it in a multilevel model</title>
       <link>/post/2018-01-29-2/</link>
       <pubDate>Sun, 28 Jan 2018 14:44:20 +0000</pubDate>
-      
       <guid>/post/2018-01-29-2/</guid>
-      <description></description>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/28/looking-possible-comparisons-not-overfitting-put-multilevel-model/">Looking at all possible comparisons at once:  It’s not “overfitting” if you put it in a multilevel model</a></p>
+        <p>&lt;p&gt;Rémi Gau writes: The human brain mapping conference is on these days and heard via tweeter about this Overfitting toolbox for fMRI studies that helps explore the multiplicity of analytical pipelines in a more systematic fashion. Reminded me a bit of your multiverse analysis: thought you might like the idea. The link is to a [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://andrewgelman.com/2018/01/28/looking-possible-comparisons-not-overfitting-put-multilevel-model/&#34;&gt;Looking at all pos</p>
+      </description>
     </item>
     
     <item>
       <title>Stacking and multiverse</title>
       <link>/post/2018-01-28-33/</link>
       <pubDate>Sat, 27 Jan 2018 15:00:30 +0000</pubDate>
-      
       <guid>/post/2018-01-28-33/</guid>
-      <description></description>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/27/stacking-and-multiverse/">Stacking and multiverse</a></p>
+        <p>&lt;p&gt;It&amp;#8217;s a coincidence that there is another multiverse posting today. Recently Tim Disher asked in Stan discussion forum a question &amp;#8220;Multiverse analysis &amp;#8211; concatenating posteriors?&amp;#8221; Tim refers to a paper &amp;#8220;Increasing Transparency Through a Multiverse Analysis&amp;#8221; by Sara Steegen, Francis Tuerlinckx, Andrew Gelman, and Wolf Vanpaemel. The abstract says Empirical research inevitably includes constructing a [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://and</p>
+      </description>
     </item>
     
     <item>
       <title>The multiverse in action!</title>
       <link>/post/2018-01-28-34/</link>
       <pubDate>Sat, 27 Jan 2018 14:33:49 +0000</pubDate>
-      
       <guid>/post/2018-01-28-34/</guid>
-      <description></description>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/27/the-multiverse-in-action/">The multiverse in action!</a></p>
+        <p>&lt;p&gt;In a recent paper, &amp;#8220;Degrees of Freedom in Planning, Running, Analyzing, and Reporting Psychological Studies: A Checklist to Avoid p-Hacking,&amp;#8221; Jelte Wicherts, Coosje Veldkamp, Hilde Augusteijn, Marjan Bakker, Robbie van Aert, and Marcel van Assen write: The designing, collecting, analyzing, and reporting of psychological studies entail many choices that are often arbitrary. The opportunistic use [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://andrewgelman.com/2018/01/27/th</p>
+      </description>
     </item>
     
     <item>
       <title>IPA’s weekly links</title>
       <link>/post/2018-01-28-1/</link>
       <pubDate>Fri, 26 Jan 2018 19:00:28 +0000</pubDate>
-      
       <guid>/post/2018-01-28-1/</guid>
-      <description></description>
+      <description>
+        <p>Source: Chris Blattman</p>
+        <p>Link: <a href="https://chrisblattman.com/2018/01/26/ipas-weekly-links-145/">IPA’s weekly links</a></p>
+        <p>&lt;p&gt;Guest post by Jeff Mosenkis of Innovations for Poverty Action. I mentioned last week that Cape Town is set to run out of water, now in less than 80 days, and users there don&amp;#8217;t seem to be adhering to the &amp;#8230; &lt;a href=&#34;https://chrisblattman.com/2018/01/26/ipas-weekly-links-145/&#34;&gt;Continue reading &lt;span class=&#34;meta-nav&#34;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;https://chrisblattman.com/2018/01/26/ipas-weekly-links-145/&#34;&gt;IPA&amp;#8217;s weekly links&lt;/a&gt; appeared first on &lt;a </p>
+      </description>
     </item>
     
     <item>
       <title>Another bivariate multivariate dependence measure!</title>
       <link>/post/2018-01-28-35/</link>
       <pubDate>Fri, 26 Jan 2018 14:28:10 +0000</pubDate>
-      
       <guid>/post/2018-01-28-35/</guid>
-      <description></description>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="http://andrewgelman.com/2018/01/26/another-bivariate-dependence-measure/">Another bivariate multivariate dependence measure!</a></p>
+        <p>&lt;p&gt;Joshua Vogelstein writes: Since you&amp;#8217;ve posted much on various independence test papers (e.g., Reshef et al., and then Simon &amp;#038; Tibshirani criticism, and then their back and forth), I thought perhaps you&amp;#8217;d post this one as well. Tibshirani pointed out that distance correlation (Dcorr) was recommended, we proved that our oracle multiscale generalized correlation (MGC, [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;http://andrewgelman.com/2018/01/26/another-bivariate-dependenc</p>
+      </description>
     </item>
     
     <item>
       <title>Weekly links January 26: learn to machine learn, that wellness program might only help with your multiple testing correction, working beats saving, and more...</title>
       <link>/post/2018-01-28-10/</link>
       <pubDate>Fri, 26 Jan 2018 12:54:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-10/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/weekly-links-january-26-learn-machine-learn-wellness-program-might-only-help-your-multiple-testing">Weekly links January 26: learn to machine learn, that wellness program might only help with your multiple testing correction, working beats saving, and more...</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;ul&gt;&lt;li&gt;
+&lt;a href=&#34;https://www.aeaweb.org/conference/cont-ed/2018-webcasts&#34; rel=&#34;nofollow&#34;&gt;AEA continuing education videos and slides are now up&lt;/a&gt;, including the machine learning course taught by Athey and Imbens.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.theguardian.com/education/2018/jan/21/better-maternity-leave-could-help-universities-retain-women-study&#34; rel=&#34;nofollo</p>
+      </description>
     </item>
     
     <item>
       <title>Briefly</title>
       <link>/post/2018-01-28-20/</link>
       <pubDate>Thu, 25 Jan 2018 22:47:07 +0000</pubDate>
-      
       <guid>/post/2018-01-28-20/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/9Ch7suLNMyU/">Briefly</a></p>
+        <p>&amp;#8220;Are bigoted, irrational robots hurting humans?&amp;#8221; (Herald, from the Daily Mail). From 538: &amp;#8221; If I had a magic wand, I’d develop an algorithm that: a) draws the shortest possible line(s) necessary to split a state into equally populous districts and b) requires that only as many pre-existing jurisdictions be split as necessary to achieve equally [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>What do we measure when we measure food consumption?   </title>
       <link>/post/2018-01-28-11/</link>
       <pubDate>Wed, 24 Jan 2018 13:38:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-11/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/what-do-we-measure-when-we-measure-food-consumption">What do we measure when we measure food consumption?   </a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;em&gt;guest post by &lt;a href=&#34;https://www.waikato.ac.nz/staff-profiles/people/jkgibson&#34; rel=&#34;nofollow&#34;&gt;John Gibson&lt;/a&gt; and &lt;a href=&#34;http://www.worldbank.org/en/about/people/a/alberto-zezza&#34; rel=&#34;nofollow&#34;&gt;Alberto Zezza&lt;/a&gt;&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</p>
+      </description>
     </item>
     
     <item>
       <title>The Ihaka Lectures</title>
       <link>/post/2018-01-28-5/</link>
       <pubDate>Tue, 23 Jan 2018 00:21:08 +0000</pubDate>
-      
       <guid>/post/2018-01-28-5/</guid>
-      <description></description>
+      <description>
+        <p>Source: Biased and Inefficient</p>
+        <p>Link: <a href="http://notstatschat.tumblr.com/post/170018017986">The Ihaka Lectures</a></p>
+        <p>&lt;p&gt;They’re back!&lt;/p&gt;&lt;p&gt;This year our theme is visualisation. The lectures will again run on Wednesday evenings in March. The three speakers work in different areas of data visualisation: collect the complete set!&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/pmur002&#34;&gt;Paul Murrell&lt;/a&gt; is an Associate Professor in Statistics here in Auckland. He’s a member of the R Core Development Team, and responsible for a lot of graphics infrastructure in R. The ‘grid’ graphics system grew out of his PhD thesis with Ross Ihaka. &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://www.dicook.org/&#34;&gt;Di Cook&lt;/a&gt; is Professor of Business Analytics at Monash University, and was previously a Professor at Iowa State University. She’s an expert in visualisation for data analysis: using graphics, especially interactive and dynamic graphics, to learn from data. &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;http://www.thefunctionalart.com/&#34;&gt;Alberto Cairo&lt;/a&gt; is the Knight Chair in Visual Journalism at the University of Miami. His focus is in data visualisation for communication, especially with non-specialists.  He led the creation of the Interactive Infographics Department at El Mundo (&lt;b&gt;&lt;a href=&#34;http://elmundo.es/&#34;&gt;elmundo.es&lt;/a&gt;&lt;/b&gt;, Spain), in 2000.&lt;/p&gt;&lt;p&gt;More details to follow.&lt;/p&gt;</p>
+      </description>
     </item>
     
     <item>
       <title>More tests for survey data</title>
       <link>/post/2018-01-28-6/</link>
       <pubDate>Mon, 22 Jan 2018 23:43:59 +0000</pubDate>
-      
       <guid>/post/2018-01-28-6/</guid>
-      <description></description>
+      <description>
+        <p>Source: Biased and Inefficient</p>
+        <p>Link: <a href="http://notstatschat.tumblr.com/post/170016876851">More tests for survey data</a></p>
+        <p>&lt;p&gt;If you know about design-based analysis of survey data, you probably know about the Rao-Scott tests, at least in contingency tables.  The tests started off in the 1980s as “ok, people are going to keep doing Pearson $X^2$ tests on estimated population tables, can we work out how to get $p$-values that aren’t ludicrous?” Subsequently, they turned out to have better operating characteristics than the Wald-type tests that were the obvious thing to do &amp;ndash; mostly by accident.  Finally, they’ve been adapted to regression models in general, and reinterpreted as tests in a marginal working model of independent sampling, where they are distinctive in that they weight different directions of departure from the null in a way that doesn’t depend on the sampling design. &lt;/p&gt;&lt;p&gt;The Rao&amp;ndash;Scott test statistics are asymptotically equivalent to $(\hat\beta-\beta_0)^TV_0^{-1}(\hat\beta-\beta_0)$, where $\hat\beta$ is the estimate of $\beta_0$, and $V_0$ is the variance matrix you’d get with full population data. The standard Wald tests are targetting  $(\hat\beta-\beta_0)^TV^{-1}(\hat\beta-\beta_0)$, where $V$ is the actual variance matrix of $\hat\beta$.  One reason the Rao&amp;ndash;Scott score and likelihood ratio tests work better in small samples is just that score and likelihood ratio tests seem to work better in small samples than Wald tests. But there’s another reason. &lt;/p&gt;&lt;p&gt;The actual Wald-type test statistic (up to degree-of-freedom adjustments) is $(\hat\beta-\beta_0)^T\hat V^{-1}(\hat\beta-\beta_0)$. In small samples $\hat V$ is often poorly estimated, and in particular its condition number is, on average, larger than the condition number of $V$, so its inverse is wobblier. The Rao&amp;ndash;Scott tests obviously can’t avoid this problem completely: $\hat V$ must be involved somewhere. However, they use $\hat V$ via the eigenvalues of $\hat V_0^{-1}\hat V$; in the original Satterthwaite approximation, the mean and variance of these eigenvalues.  In the typical survey settings, $V_0$ is fairly well estimated, so inverting it isn’t a problem. The fact that $\hat V$ is more ill-conditioned than $V$ translates as fewer degrees of freedom for the Satterthwaite approximation, and so to a more conservative test.  This conservative bias happens to cancel out a lot of the anticonservative bias and the tests work relatively well.  &lt;/p&gt;&lt;p&gt;Here’s an example of qqplots of $-\log_{10} p$-values simulated  in a Cox model: the Wald test is the top panel and the Rao&amp;ndash;Scott LRT is the bottom panel. The clusters are of size 100; the orange tests use the design degrees of freedom minus the number of parameters as the denominator degrees of freedom in an $F$ test. &lt;/p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;1462&#34; data-orig-width=&#34;1732&#34;&gt;&lt;img src=&#34;http://78.media.tumblr.com/f9970ca528f7ed8067b48b9f781f8ab6/tumblr_inline_p2zaz9LnDD1s1hdxy_540.png&#34; data-orig-height=&#34;1462&#34; data-orig-width=&#34;1732&#34;/&gt;&lt;/figure&gt;&lt;p&gt;So, what’s new? SUDAAN has tests they call “Satterthwaite Adjusted Wald Tests”, which are based on $(\hat\beta-\beta_0)^T\hat V_0^{-1} (\hat\beta-\beta_0)$.  I’ve added similar tests to version 3.33 of the survey package (which I hope will be on CRAN soon).  These new tests are (I think) asymptotically locally equivalent to the Rao&amp;ndash;Scott LRT and score tests. I’d expect them to be slightly inferior in operating characteristics just based on traditional folklore about score and likelihood ratio tests being better. But you can do the simulations yourself and find out. &lt;/p&gt;&lt;p&gt;The implementation is in the regTermTest() function, and I’m calling these “working Wald tests” rather than “Satterthwaite adjusted”, because the important difference is the substitution of $V_0$ for $V$, and because I don’t even use the Satterthwaite approximation to the asymptotic distribution by default. &lt;/p&gt;</p>
+      </description>
     </item>
     
     <item>
       <title>Low-flying rocks</title>
       <link>/post/2018-01-28-21/</link>
       <pubDate>Mon, 22 Jan 2018 21:50:46 +0000</pubDate>
-      
       <guid>/post/2018-01-28-21/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/xlhklzPmDpM/">Low-flying rocks</a></p>
+        <p>From Stuff The Herald:  &amp;#8216;Potentially hazardous&amp;#8217; asteroid heading towards Earth at 108,800km/h, and in the story It is the largest space rock to brush past our planet this year and previous research has found a rock of this size could plunge Earth into a mini-ice age if it hit. The impact would cause average temperatures around [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>Can predicting successful entrepreneurship go beyond “choose smart guys in their 30s”? Comparing machine learning and expert judge predictions</title>
       <link>/post/2018-01-28-12/</link>
       <pubDate>Mon, 22 Jan 2018 12:29:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-12/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/can-predicting-successful-entrepreneurship-go-beyond-choose-smart-guys-their-30s-comparing-machine">Can predicting successful entrepreneurship go beyond “choose smart guys in their 30s”? Comparing machine learning and expert judge predictions</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;p&gt;
+Business plan competitions have increasingly become one policy option used to identify and support high-growth potential businesses. For example, the World Bank has helped design and support these programs in a number of sub-Saharan African countries, including Côte d’Ivoire, Gabon, Guinea-Bissau, Kenya, Nigeria, Rwanda, Senegal, Somalia, South Sudan, Tanza</p>
+      </description>
     </item>
     
     <item>
       <title>As far as it goes</title>
       <link>/post/2018-01-28-7/</link>
       <pubDate>Sun, 21 Jan 2018 03:39:16 +0000</pubDate>
-      
       <guid>/post/2018-01-28-7/</guid>
-      <description></description>
+      <description>
+        <p>Source: Biased and Inefficient</p>
+        <p>Link: <a href="http://notstatschat.tumblr.com/post/169945333636">As far as it goes</a></p>
+        <p>&lt;p&gt;I’ve been reading two somewhat depressing documents today.&lt;/p&gt;&lt;p&gt;The American Statistical Association has put out a&lt;a href=&#34;http://www.amstat.org/asa/files/pdfs/POL-Statistics-as-a-Scientific-Discipline.pdf&#34;&gt; position pape&lt;/a&gt;r titled “Overview of Statistics as a Scientific Discipline and Practical Implications for the Evaluation of Faculty Excellence“. It says, in the executive summary&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Statistics is at the same time a dynamic, stand-alone science with its own core research agenda and an inherently collaborative discipline, developing in response to scientific needs. In this sense, statistics fundamentally differs from many other domain-specific disciplines in science. This difference poses unique challenges for defining the standards by which faculty excellence is evaluated across the teaching, research, and service components.&lt;/p&gt;&lt;p&gt;This document strives to provide a conceptual framework and practical guidelines to facilitate such evaluations. To that end, the intended audience includes all participants in the evaluation process—provosts and deans with faculty members in statistics positions; chairs and heads of statistics, biostatistics, and non-statistics departments; and the promotion and tenure evaluation committees in academic institutions.Furthermore, this document seeks to assist statistical scientists in the negotiation of faculty positions and the articulation of their collaborative role with the subject-matter sciences.&lt;br/&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The position paper references a &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4653084/&#34;&gt;paper&lt;/a&gt; from a few years ago called “Evaluating Academic Scientists Collaborating in Team-Based Research: A Proposed Framework”. The latter is by people in biostatistics/epi (the former, rather notably, has no names from biostatistics departments).  They both deal with the question of how to get people promoted when they do a lot of collaborative research rather than sitting in an office proving theorems.&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Both papers are good as far as they go. But, as &lt;a href=&#34;https://twitter.com/askdrstats/status/954773643564847104&#34;&gt;Di Cook&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/JennyBryan/status/954800417166082048&#34;&gt;others&lt;/a&gt; pointed out on Twitter, one of the places they don’t go is where most modern statistics lives. There is no mention of “computing”, “programming”, or “software”,  “open” or “reproducible”. Twenty years ago, this lack would have been unfortunate but unremarkable. Today, it’s bizarre. &lt;/p&gt;&lt;p&gt;So, what should the position paper say about computing? Here’s a start:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Statistical software development and publishing is also “a legitimate and essential scholarly activity” for the discipline.&lt;br/&gt;&lt;/li&gt;&lt;li&gt;Data analysis is part of statistics, so that research on the theory, practice, and teaching of data analysis is statistics research&lt;/li&gt;&lt;li&gt;Software may be important either because it contributes to the discipline of statistical computing, or because it improves the quality of research in other areas of science (or both). &lt;/li&gt;&lt;li&gt;Software often develops over time: peer review before initial publication may be neither necessary nor sufficient&lt;/li&gt;&lt;li&gt;Some statistical computing is crap; knowledgeable evaluation is necessary.&lt;/li&gt;&lt;li&gt;Recognising that expertise may be hard to find, the ASA (or other relevant bodies) should assist departments in finding reviewers to evaluate statistical computing and data science research&lt;/li&gt;&lt;li&gt;Department chairs should make sure expectations and criteria are clear.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;[Two clarifications: &lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;for 6. A set of explicit criteria would be much better, but i think it’s easier to get agreement on particular cases than to get agreement on a set of criteria &amp;ndash; a workshop in 2001 didn’t manage.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;for 7: what the expectations and criteria are, not what they should be&amp;ndash; if your department is not going to promote someone without an Annals paper, you need to know that]&lt;/i&gt;&lt;/p&gt;</p>
+      </description>
     </item>
     
     <item>
       <title>IPA’s weekly links</title>
       <link>/post/2018-01-28-2/</link>
       <pubDate>Fri, 19 Jan 2018 18:35:57 +0000</pubDate>
-      
       <guid>/post/2018-01-28-2/</guid>
-      <description></description>
+      <description>
+        <p>Source: Chris Blattman</p>
+        <p>Link: <a href="https://chrisblattman.com/2018/01/19/ipas-weekly-links-144/">IPA’s weekly links</a></p>
+        <p>&lt;p&gt;Guest post by Jeff Mosenkis of Innovations for Poverty Action. &amp;#160; A quick housekeeping item, if you haven&amp;#8217;t seen. Chris migrated his site to new servers so had some downtime this week, but all the content should be back up &amp;#8230; &lt;a href=&#34;https://chrisblattman.com/2018/01/19/ipas-weekly-links-144/&#34;&gt;Continue reading &lt;span class=&#34;meta-nav&#34;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;https://chrisblattman.com/2018/01/19/ipas-weekly-links-144/&#34;&gt;IPA&amp;#8217;s weekly links&lt;/</p>
+      </description>
     </item>
     
     <item>
       <title>Weekly links Jan 19: soft skills and maybe a robot can’t take your job after all,  the Starbucks indicator of Indian middle class growth, high fees are deterring citizenship, and more...</title>
       <link>/post/2018-01-28-13/</link>
       <pubDate>Fri, 19 Jan 2018 13:23:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-13/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/weekly-links-jan-19-soft-skills-and-maybe-robot-can-t-take-your-job-after-all-starbucks-indicator">Weekly links Jan 19: soft skills and maybe a robot can’t take your job after all,  the Starbucks indicator of Indian middle class growth, high fees are deterring citizenship, and more...</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;ul&gt;&lt;li&gt;
+On VoxEU, &lt;a href=&#34;http://voxeu.org/article/measuring-local-economy-yelp-data&#34; rel=&#34;nofollow&#34;&gt;using Yelp data to track the local economy&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+Ted Miguel on &lt;a href=&#34;https://medium.com/center-for-effective-global-action/ted-miguel-on-the-merits-of-long-run-impact-evaluation-6d8ab7ec933b&#34; rel=&#34;nofollow&#34;&gt;plans for long-term follow-ups of child h</p>
+      </description>
     </item>
     
     <item>
       <title>Briefly</title>
       <link>/post/2018-01-28-22/</link>
       <pubDate>Fri, 19 Jan 2018 00:16:49 +0000</pubDate>
-      
       <guid>/post/2018-01-28-22/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/20A_jZG3CjY/">Briefly</a></p>
+        <p>On herd immunity, from Quanta magazine &amp;#8220;The necessary level of immunity in the population isn’t the same for every disease. For measles, a very high level of immunity needs to be maintained to prevent its transmission because the measles virus is possibly the most contagious known organism.&amp;#8221; Pornhub, as is its habit, has an interesting [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>IPA’s weekly links</title>
       <link>/post/2018-01-28-3/</link>
       <pubDate>Thu, 18 Jan 2018 20:32:11 +0000</pubDate>
-      
       <guid>/post/2018-01-28-3/</guid>
-      <description></description>
+      <description>
+        <p>Source: Chris Blattman</p>
+        <p>Link: <a href="https://chrisblattman.com/2018/01/18/ipas-weekly-links-143/">IPA’s weekly links</a></p>
+        <p>&lt;p&gt;Guest post by Jeff Mosenkis of Innovations for Poverty Action. Pardon our remodeling! Chris is migrating his site to new servers, our apologies for any recent downtime. FYI that we&amp;#8217;re still getting SSL worked out so your browser might warn &amp;#8230; &lt;a href=&#34;https://chrisblattman.com/2018/01/18/ipas-weekly-links-143/&#34;&gt;Continue reading &lt;span class=&#34;meta-nav&#34;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;https://chrisblattman.com/2018/01/18/ipas-weekly-links-143/&#34;&gt;IPA&amp;#8217;s w</p>
+      </description>
     </item>
     
     <item>
       <title>Predicting the future</title>
       <link>/post/2018-01-28-23/</link>
       <pubDate>Thu, 18 Jan 2018 03:02:11 +0000</pubDate>
-      
       <guid>/post/2018-01-28-23/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/4902TkevLy4/">Predicting the future</a></p>
+        <p>As you&amp;#8217;ve heard if you&amp;#8217;re in NZ, the Treasury got the wrong numbers for predicted impact on child poverty of Labour&amp;#8217;s policies (and as you might not have heard, similarly wrong numbers for the previous government&amp;#8217;s policies). Their &amp;#8216;technical note&amp;#8216; is useful In late November and early December 2017, a module was developed to further [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>Measuring what you care about</title>
       <link>/post/2018-01-28-24/</link>
       <pubDate>Thu, 18 Jan 2018 00:19:45 +0000</pubDate>
-      
       <guid>/post/2018-01-28-24/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/AF_pab4yPu0/">Measuring what you care about</a></p>
+        <p>There&amp;#8217;s a story in the Guardian saying The credibility of a computer program used for bail and sentencing decisions has been called into question after it was found to be no more accurate at predicting the risk of reoffending than people with no criminal justice experience provided with only the defendant’s age, sex and criminal [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>Maps and models</title>
       <link>/post/2018-01-28-25/</link>
       <pubDate>Wed, 17 Jan 2018 23:02:16 +0000</pubDate>
-      
       <guid>/post/2018-01-28-25/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/MDDhaPtrUPE/">Maps and models</a></p>
+        <p>This spectacular map from the National Geospatial-Intelligence Agency was circulating yesterday on Twitter. I got it from Christopher Jackson (@seis_matters). It shows antineutrino emissions from around the earth Our local (sub)continent of Zealandia shows up nicely at the bottom right. The black dots are nuclear reactors, and the dark smudge is just the immense rock mass [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>Better or worse?</title>
       <link>/post/2018-01-28-26/</link>
       <pubDate>Wed, 17 Jan 2018 22:24:38 +0000</pubDate>
-      
       <guid>/post/2018-01-28-26/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/DjSn8ZkmxLc/">Better or worse?</a></p>
+        <p>There was some controversy about the difficulty of the NCEA level 1 maths and stats exam last year.  As Stuff reports It prompted the NZQA to release the exam to the public, and now the authority is taking the extra step to share the exam outcome before the consolidated results are released in April. &amp;#8220;NZQA has taken the unusual step of [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>What do we learn from increasing teacher salaries in Indonesia? More than the students did.</title>
       <link>/post/2018-01-28-14/</link>
       <pubDate>Wed, 17 Jan 2018 11:44:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-14/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/what-do-we-learn-increasing-teacher-salaries-indonesia-more-students-did">What do we learn from increasing teacher salaries in Indonesia? More than the students did.</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;Money matters in education. Recent evidence from the United States shows that &lt;a href=&#34;https://academic.oup.com/qje/article/131/1/157/2461148&#34; rel=&#34;nofollow&#34;&gt;increased education spending results&lt;/a&gt; in more completed years of schooling and higher subsequent wages for adults. Spending cuts during the Great Recession – also in the U.S. – &lt;a href=&#34;http://www.nber.</p>
+      </description>
     </item>
     
     <item>
       <title>breakInNamespace</title>
       <link>/post/2018-01-28-8/</link>
       <pubDate>Tue, 16 Jan 2018 05:27:20 +0000</pubDate>
-      
       <guid>/post/2018-01-28-8/</guid>
-      <description></description>
+      <description>
+        <p>Source: Biased and Inefficient</p>
+        <p>Link: <a href="http://notstatschat.tumblr.com/post/169761989606">breakInNamespace</a></p>
+        <p>&lt;p&gt;&lt;i&gt;Attention Conservation Notice: I’m putting this in a blog post in the hope it makes it easier for other people to find when they encounter the problem. &lt;/i&gt;&lt;/p&gt;&lt;p&gt;The !! and !!! quasiquotation syntax in R’s tidyverse will break if you run them through the parser and deparser. This means:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Printing out the code of a function at the command line may give the wrong code&lt;br/&gt;&lt;/li&gt;&lt;li&gt;Functions like&lt;b&gt; fix()&lt;/b&gt;, &lt;b&gt;fixInNamespace()&lt;/b&gt;, and &lt;b&gt;edit()&lt;/b&gt; may break functions using quasiquotation.&lt;/li&gt;&lt;li&gt;When you’re stepping through a function in the debugger, the code the debugger displays may be wrong&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;I say “may” because it depends on your settings for saving the source code of functions. By default, the problems occur with code loaded in packages but not for code loaded by &lt;b&gt;source()&lt;/b&gt;.&lt;/p&gt;&lt;p&gt;The symptom is that you get bizarre-looking nested calls to the ! operator. For example, from the &lt;b&gt;tidypredict&lt;/b&gt; package&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;reg &amp;lt;- expr(!(!syms(reg)))&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;and&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;reduce(set, function(l, r) expr((!(!(!l))) * (!(!(!r)))))&lt;br/&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;The output from these functions ends up with lots of exclamation marks in it, and doesn’t work. &lt;/p&gt;&lt;p&gt;Tracking this down is quite hard &amp;ndash; especially when you’ve been trained over the years that “it’s never the compiler”.  Sometimes it is (or, rather, the interpreter).&lt;/p&gt;&lt;p&gt;What’s happening under the hood? The tidyeval system has a special magic interpreter to treat !! and !!! as single operators. This is possible because R does, in fact, distinguish !!x from !(!x)) at the level of the parse tree. Things break because the deparser doesn’t distinguish.&lt;/p&gt;&lt;p&gt;Why does the deparser not distinguish? I don’t know for sure, but I suspect it’s because the operator precedence of ! is not what many people would expect: it binds relatively loosely, so that &lt;b&gt;!x %in% y&lt;/b&gt; is the same as&lt;b&gt; !(x %in% y)&lt;/b&gt;. Putting in the implied parenthesis (previously) made code more readable, and it wouldn’t cause any problems under the built-in definition of ! as the logical not operator. With tidyeval, we have problems. &lt;/p&gt;&lt;p&gt;Now,  I like quasiquotation. I’m responsible for the previous step in this direction, the &lt;b&gt;bquote()&lt;/b&gt; function. I don’t want to get into the fight over whether !! is an abomination or a brilliantly creative work-around.&lt;/p&gt;&lt;p&gt;The fact that C&#43;&#43; overloads the bitwise left shift operator to do printing is probably a supporting argument that could be used in the fight &amp;ndash; but I’m not sure by which side.   &lt;/p&gt;</p>
+      </description>
     </item>
     
     <item>
       <title>5 Things I Learned Making a Package to Work with Hydrometric Data in R</title>
       <link>/post/2018-01-28-30/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-30/</guid>
-      <description></description>
+      <description>
+        <p>Source: rOpenSci Blog on rOpenSci - open tools for open science</p>
+        <p>Link: <a href="https://ropensci.org/blog/2018/01/16/tidyhydat/">5 Things I Learned Making a Package to Work with Hydrometric Data in R</a></p>
+        <p>
+        
+        
+
+&lt;p&gt;One of the best things about learning R is that no matter your skill level, there is always someone who can benefit from your experience. Topics in R ranging from complicated machine learning approaches to calculating a mean all find their relevant audiences. This is particularly true when writing R packages. With an ever evolving R package development landscape (R, GitHub, external data, CRAN, continuous integration, users), there is a strong possibility that you will be </p>
+      </description>
     </item>
     
     <item>
       <title>Briefly</title>
       <link>/post/2018-01-28-27/</link>
       <pubDate>Sun, 14 Jan 2018 04:37:43 +0000</pubDate>
-      
       <guid>/post/2018-01-28-27/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/4hA6t39Rvy4/">Briefly</a></p>
+        <p>Metropolitan Museum of Art President &amp;#8220;For various reasons, over the past 10 or 12 years, the pay-as-you-wish policy has failed. It has declined by 71% in the amount people pay.&amp;#8221; Felix Salmon &amp;#8220;It’s worth fact-checking this, because it turns out that it’s not really true&amp;#8221; Cloudflare, a company that distributes websites across the world, has [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>Weekly links Jan 12: Big Thinkers brought down to size, can you beat the World Bank at predicting poverty? Chinese minimum wage rises all get spent, three job openings, and more…</title>
       <link>/post/2018-01-28-15/</link>
       <pubDate>Fri, 12 Jan 2018 12:56:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-15/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/weekly-links-jan-12-big-thinkers-brought-down-size-can-you-beat-world-bank-predicting-poverty">Weekly links Jan 12: Big Thinkers brought down to size, can you beat the World Bank at predicting poverty? Chinese minimum wage rises all get spent, three job openings, and more…</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;ul&gt;&lt;li&gt;
+Duncan Green summarizes Stefan Dercon’s view of &lt;a href=&#34;http://oxfamblogs.org/fp2p/10-top-thinkers-on-development-summarized-in-700-words-by-stefan-dercon/&#34; rel=&#34;nofollow&#34;&gt;10 top thinkers in development&lt;/a&gt;. E.g. on Acemoglu and Robinson “their policy advice is just ‘buy yourself a better history/don’t start from here’. Not very useful for aid”. Alice</p>
+      </description>
     </item>
     
     <item>
       <title>.rprofile: Karthik Ram</title>
       <link>/post/2018-01-28-31/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-31/</guid>
-      <description></description>
+      <description>
+        <p>Source: rOpenSci Blog on rOpenSci - open tools for open science</p>
+        <p>Link: <a href="https://ropensci.org/blog/2018/01/12/rprofile-karthik-ram/">.rprofile: Karthik Ram</a></p>
+        <p>
+        
+        &lt;p&gt;&lt;img src=&#34;https://ropensci.org/img/blog-images/2018-01-12-rprofile-karthik-ram/karthik-ram.png&#34; alt=&#34;Karthik Ram&#34; style=&#34;margin: 0px 20px; width: 250px;&#34; align=&#34;left&#34;&gt;
+&lt;em&gt;Karthik Ram is a Data Scientist at the Berkeley Institute for Data Science and Berkeley Institute for Global Change Biology. He is a co-founder of rOpenSci, a collective to support the development of R-based tools which facilitate open science and access to open data. In this interview, Karthik and I discu</p>
+      </description>
     </item>
     
     <item>
       <title>Six Questions with Mark Rosenzweig</title>
       <link>/post/2018-01-28-16/</link>
       <pubDate>Wed, 10 Jan 2018 12:36:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-16/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/six-questions-mark-rosenzweig">Six Questions with Mark Rosenzweig</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;a href=&#34;https://economics.yale.edu/people/mark-rosenzweig&#34; rel=&#34;nofollow&#34;&gt;Mark Rosenzweig&lt;/a&gt; is Frank Altschul Professor of International Economics at Yale University, and was one of the original leaders in bringing theory and micro-level data to addressing development questions. We caught up with him after a recent &lt;a href=&#34;https://egcenter.economics.yale.ed</p>
+      </description>
     </item>
     
     <item>
       <title>Complete balls</title>
       <link>/post/2018-01-28-28/</link>
       <pubDate>Wed, 10 Jan 2018 03:11:18 +0000</pubDate>
-      
       <guid>/post/2018-01-28-28/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/rMTYSWCeqOc/">Complete balls</a></p>
+        <p>The UK&amp;#8217;s Metro magazine has a dramatic story under the headline Popping ibuprofen could make your balls shrivel up Got a pounding headache? You might just want to give a big glass of water and a nap a go before reaching for the painkillers. Scientists warn that ibuprofen could be wrecking men’s fertility by making their balls shrivel [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>Finding packages</title>
       <link>/post/2018-01-28-9/</link>
       <pubDate>Tue, 09 Jan 2018 19:02:08 +0000</pubDate>
-      
       <guid>/post/2018-01-28-9/</guid>
-      <description></description>
+      <description>
+        <p>Source: Biased and Inefficient</p>
+        <p>Link: <a href="http://notstatschat.tumblr.com/post/169511429631">Finding packages</a></p>
+        <p>&lt;p&gt;R, as I’ve pointed out before, has a package discovery problem.&lt;/p&gt;&lt;p&gt;There’s a new package, &lt;a href=&#34;https://github.com/clauswilke/colorblindr&#34;&gt;colorblindr&lt;/a&gt;, which lets you see the impact of various sorts of colour-blindness on a colour palette, a very useful thing for designing good graphics. When it’s mentioned on Twitter, you see lots of people glad that such a tool is now available for R. &lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/dichromat/index.html&#34;&gt;A similar tool&lt;/a&gt; has been available on CRAN for fifteen years. &lt;/p&gt;&lt;p&gt;Now, the new package looks to have a better representation of colour vision. The dichromat package used colour-matching experiments from the 1990s and interpolates with loess; colorblindr seems to have a unified colour model.   It would be nice to see a comparison of the two packages, and maybe it would show everyone should move to the new one.  That’s what’s happened to a lot of my contributions to R. Progress is good.&lt;/p&gt;&lt;p&gt;But my point right now is there are a lot of people excited about colorblindr who didn’t know dichromat existed. Most of these are people who would have been interested in dichromat but didn’t know about it.  I haven’t exactly been quiet about the package &amp;ndash;for example, it’s in the R courses that Ken Rice and I teach around the world, and I wrote about it for the ASA Computing and Graphics newletter.  It’s not hard to get me to talk about color spaces; some people would say it’s hard to get me to stop.&lt;/p&gt;&lt;p&gt;CRAN Task Views have helped a bit with the package discovery problem &amp;ndash; but dichromat is in the Graphics task view. It helps if a popular package suggests yours &amp;ndash; but dichromat is a dependency of a dependency of ggplot2. It helps if the package author is reasonably well known or the package was on CRAN early &amp;ndash; but again. It would help to give a clearer name, perhaps?&lt;/p&gt;&lt;p&gt;There must be lots of people out there who would be excited to find there was a package doing just what they needed. But there isn’t an easy way for them to notice. &lt;br/&gt;&lt;/p&gt;</p>
+      </description>
     </item>
     
     <item>
       <title>Election maps: what’s the question?</title>
       <link>/post/2018-01-28-29/</link>
       <pubDate>Tue, 09 Jan 2018 00:12:47 +0000</pubDate>
-      
       <guid>/post/2018-01-28-29/</guid>
-      <description></description>
+      <description>
+        <p>Source: Stats Chat</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/StatsChat/~3/Mq4u7Sfc0XU/">Election maps: what’s the question?</a></p>
+        <p>XKCD has come out with a new map of the 2016 US election In about 2008 I made a less-artistic one of the 2004 elections on similar principles These maps show some useful things about the US vote: the proportions for the two parties are pretty close, but most of the land area has very [&amp;#8230;]</p>
+      </description>
     </item>
     
     <item>
       <title>Statistical Power and the Funnel of Attribution</title>
       <link>/post/2018-01-28-17/</link>
       <pubDate>Mon, 08 Jan 2018 13:34:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-17/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/statistical-power-and-funnel-attribution">Statistical Power and the Funnel of Attribution</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;p&gt;
+Often there are many steps or stages between the starting point of some intervention and its ultimate goal, and at each step, people can drop out. The result can be extremely low power to measure impacts on this end outcome, even though we might be able to detect impacts on the intermediate steps. This post illustrates this point, with the goal of making cl</p>
+      </description>
     </item>
     
     <item>
       <title>IPA’s weekly links</title>
       <link>/post/2018-01-28-4/</link>
       <pubDate>Fri, 05 Jan 2018 17:37:14 +0000</pubDate>
-      
       <guid>/post/2018-01-28-4/</guid>
-      <description></description>
+      <description>
+        <p>Source: Chris Blattman</p>
+        <p>Link: <a href="https://chrisblattman.com/2018/01/05/ipas-weekly-links-142/">IPA’s weekly links</a></p>
+        <p>&lt;p&gt;Guest post by Jeff Mosenkis of Innovations for Poverty Action. &amp;#160; Two Ebola survivors are suing the government of Sierra Leone in international court to discover what happened to missing millions of dollars meant to compensate and support survivors like &amp;#8230; &lt;a href=&#34;https://chrisblattman.com/2018/01/05/ipas-weekly-links-142/&#34;&gt;Continue reading &lt;span class=&#34;meta-nav&#34;&gt;&amp;#8594;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;https://chrisblattman.com/2018/01/05/ipas-weekly-links-142/&#34;&gt;I</p>
+      </description>
     </item>
     
     <item>
       <title>Top Ten Development Impact Blog Posts of 2017</title>
       <link>/post/2018-01-28-18/</link>
       <pubDate>Fri, 05 Jan 2018 13:57:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-18/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/top-ten-development-impact-blog-posts-2017">Top Ten Development Impact Blog Posts of 2017</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;div&gt;
+&lt;img alt=&#34;&#34; height=&#34;356&#34; src=&#34;http://blogs.worldbank.org/impactevaluations/files/impactevaluations/top_ten_-_ten.png&#34; title=&#34;&#34; width=&#34;750&#34; /&gt;&lt;/div&gt;
+&lt;br /&gt;
+Before we begin new posts next week, here are the 2017 Development Impact posts that were most popular over the last year. In this case, popular = most page views.
+&lt;ol&gt;&lt;li&gt;
+&lt;a href=&#34;http://blogs.worldba</p>
+      </description>
     </item>
     
     <item>
       <title>Weekly links Jan 5: papers you should have read last year, how to measure early childhood development 147 ways, move people to where the jobs are, and more…</title>
       <link>/post/2018-01-28-19/</link>
       <pubDate>Thu, 04 Jan 2018 15:12:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-19/</guid>
-      <description></description>
+      <description>
+        <p>Source: Impact Evaluations - News, views, methods, and insights from the world of impact evaluation</p>
+        <p>Link: <a href="http://blogs.worldbank.org/impactevaluations/weekly-links-jan-5-papers-you-should-have-read-last-year-how-measure-early-childhood-development-147">Weekly links Jan 5: papers you should have read last year, how to measure early childhood development 147 ways, move people to where the jobs are, and more…</a></p>
+        <p>&lt;div class=&#34;field field-name-body field-type-text-with-summary field-label-hidden&#34;&gt;&lt;div class=&#34;field-items&#34;&gt;&lt;div class=&#34;field-item even&#34;&gt;&lt;ul&gt;&lt;li&gt;
+Lia Fernald and co-authors have &lt;a href=&#34;https://openknowledge.worldbank.org/handle/10986/29000&#34; rel=&#34;nofollow&#34;&gt;a toolkit for measuring early childhood development&lt;/a&gt; – “The ECD Measurement Inventory that accompanies this Toolkit contains 147 measurement tools for children under 8 years. For each test it reports the domains assessed, age range for whi</p>
+      </description>
     </item>
     
     <item>
       <title>Community Call - Writing Packages to Support Research Communities - zoon &amp; greta</title>
       <link>/post/2018-01-28-32/</link>
       <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/post/2018-01-28-32/</guid>
-      <description></description>
+      <description>
+        <p>Source: rOpenSci Blog on rOpenSci - open tools for open science</p>
+        <p>Link: <a href="https://ropensci.org/blog/2018/01/03/comm-call-v15/">Community Call - Writing Packages to Support Research Communities - zoon &amp; greta</a></p>
+        <p>
+        
+        
+
+&lt;p&gt;&lt;strong&gt;Join our &lt;a href=&#34;http://communitycalls.ropensci.org/&#34;&gt;Community Call on Tuesday, January 30th&lt;/a&gt;&lt;/strong&gt; (January 31 for our Australian friends)&lt;/p&gt;
+
+&lt;p&gt;Nick Golding, 2017 rOpenSci Fellow, will talk about two R packages he has developed recently. &lt;a href=&#34;https://github.com/zoonproject/zoon&#34;&gt;zoon&lt;/a&gt; aims to promote open and reproducible research in ecological modeling by helping researchers share their code in a modular way and produce reproducible research art</p>
+      </description>
     </item>
     
     <item>
       <title>Daily R</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/about/</guid>
-      <description> Daily R is a light news/blog aggregator website for R.
-Features  No AD
- Update everyday via a automated process
- Re-direct to the orginal pages
-  Recipe  Blogdown to build the site from @yihui xmag layout also from @yihui scifetch to analysis RSS from @yufree Github API Travis Cron Job Your PR to RSS list  </description>
+      <description>
+        <p>Source: R Bloggers</p>
+        <p>Link: <a href="https://yufree.github.io/daily/">Daily R</a></p>
+        <p> </p>
+      </description>
     </item>
     
   </channel>
