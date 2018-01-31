@@ -8,5 +8,5 @@
 "chrisblattman.com/feed/","2018-01-28"
 "ropensci.org/blog/index.xml","2018-01-30"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-01-30"
-"yihui.name/index.xml","2018-01-31"
-"andrewgelman.com/feed/","2018-01-31"
+"yihui.name/index.xml","2018-01-30"
+"andrewgelman.com/feed/","2018-01-30"
