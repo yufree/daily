@@ -10,6 +10,7 @@ r_github_packages:
 before_install:
 - git config --global user.email "yufree@live.cn"
 - git config --global user.name "yufree"
+- git checkout waiting
 script:
 - Rscript R/fetch.R
 after_success:
