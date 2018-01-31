@@ -1,6 +1,6 @@
-# Daily R
+# Daily RSS
 
-News/Blog aggregator website for R and you could use this website as a template to create you own public rss daily reader by adding you own rss addresses collection in `R/list.txt` .
+Daily News/Blog aggregator website and you could use this website as a template to create you own public rss daily reader by adding you own rss addresses collection in `R/list.txt` .
 
 # Features
 
