@@ -10,7 +10,7 @@ source: R Bloggers
 
 # Features
 
-- Real Daily and you could use RSS reader to find entry of the old posts
+- Real daily update and you could use RSS reader to find entry of the old posts
 
 - No AD
 
