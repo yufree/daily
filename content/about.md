@@ -18,7 +18,7 @@ source: R Bloggers
 
 - Update everyday via a automated process
 
-- Use Github PR to control posts
+- Use Github PR API to control posts
 
 - Re-direct to the orginal pages by click title in the homepage
 
