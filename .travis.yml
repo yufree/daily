@@ -8,6 +8,8 @@ r_github_packages:
 - yufree/scifetch
 - rstudio/blogdown
 before_install:
+- export TZ=Etc/GMT+12
+- date
 - git config --global user.email "yufree@live.cn"
 - git config --global user.name "yufree"
 script:
