@@ -1,6 +1,7 @@
 # Daily RSS
 
 Daily News/Blog aggregator website and you could use this website as a template to create you own public rss daily reader by adding you own rss addresses collection in `R/list.txt` .
+**Daily R** is a light news/blog aggregator website for R. 
 
 # Features
 
@@ -16,7 +17,7 @@ Daily News/Blog aggregator website and you could use this website as a template 
 
 - Re-direct to the orginal pages by click title in the homepage
 
-- Add comments by click description in the homepage using disqus
+- Add comments by click description in the homepage using [gitment](https://github.com/imsun/gitment)
 
 # Recipe 
  
@@ -26,4 +27,5 @@ Daily News/Blog aggregator website and you could use this website as a template 
 - [twitter-blogdown](https://t.yihui.name) by @yihui was the template to be hacked
 - [Github API](https://developer.github.com/v3/pulls/)
 - [Travis Cron Job](https://docs.travis-ci.com/user/cron-jobs/)
+- [Gitment](https://github.com/imsun/gitment)
 - [Your PR to RSS list](https://github.com/yufree/daily/edit/master/R/list.txt)
