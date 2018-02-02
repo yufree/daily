@@ -1,1 +1,14 @@
-{{ template "_internal/disqus.html" . }}
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: 'yufree',
+  repo: 'daily',
+  oauth: {
+    client_id: 'e85e26891e27a971c2a8',
+    client_secret: '75394d3d25dbc264a72ef96244bee2c5ca7042db',
+  },
+})
+gitment.render('container')
+</script>

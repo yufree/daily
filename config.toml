@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Daily R"
 theme = "hugo-xmag"
 googleAnalytics = ""
-disqusShortname = "yufree"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
