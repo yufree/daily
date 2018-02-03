@@ -14,8 +14,8 @@ paginate = 9
   enable = true
   owner = "yufree"
   repo = "daily"
-  client_id = "e85e26891e27a971c2a8" # Client ID
-  client_secret = "75394d3d25dbc264a72ef96244bee2c5ca7042db"" # Client secret
+  client_id = "e85e26891e27a971c2a8"
+  client_secret = "75394d3d25dbc264a72ef96244bee2c5ca7042db"
 
 [[menu.main]]
     name = "Home"
