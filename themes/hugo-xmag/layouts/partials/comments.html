@@ -1,17 +1,14 @@
-<% if ($.Site.Params.gitment.client_id && $.Site.Params.gitment.client_secret && $.Site.Params.gitment.enable ){ %>
-    <div id="gitment_container"></div>
-    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-    <script>
-    var gitment = new Gitment({
-        id: '<%= page.title %>',
-        owner: '<%= $.Site.Params.gitment.owner %>',
-        repo: '<%= $.Site.Params.gitment.repo %>',
-        oauth: {
-            client_id: '<%= $.Site.Params.gitment.client_id %>',
-            client_secret: '<%= $.Site.Params.gitment.client_secret %>',
-        },
-    })
-    gitment.render('gitment_container')
-    </script>
-<% } %>
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  owner: 'yufree',
+  repo: 'enviRSS',
+  oauth: {
+    client_id: 'e85e26891e27a971c2a8',
+    client_secret: '75394d3d25dbc264a72ef96244bee2c5ca7042db',
+  },
+})
+gitment.render('container')
+</script>
