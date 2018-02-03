@@ -1,15 +1,15 @@
-<% if (theme.gitment.client_id && theme.gitment.client_secret && theme.gitment.enable ){ %>
+<% if ($.Site.Params.gitment.client_id && $.Site.Params.gitment.client_secret && $.Site.Params.gitment.enable ){ %>
     <div id="gitment_container"></div>
     <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
     <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
     <script>
     var gitment = new Gitment({
         id: '<%= page.title %>',
-        owner: '<%= theme.gitment.owner %>',
-        repo: '<%= theme.gitment.repo %>',
+        owner: '<%= $.Site.Params.gitment.owner %>',
+        repo: '<%= $.Site.Params.gitment.repo %>',
         oauth: {
-            client_id: '<%= theme.gitment.client_id %>',
-            client_secret: '<%= theme.gitment.client_secret %>',
+            client_id: '<%= $.Site.Params.gitment.client_id %>',
+            client_secret: '<%= $.Site.Params.gitment.client_secret %>',
         },
     })
     gitment.render('gitment_container')

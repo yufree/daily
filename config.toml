@@ -10,7 +10,7 @@ hasCJKLanguage = true
 enableEmoji = true
 paginate = 9
 
-[[gitment]]
+[gitment]
   enable = true
   owner = "yufree"
   repo = "daily"
