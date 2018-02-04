@@ -9,4 +9,4 @@
 "chrisblattman.com/feed/","2018-02-02"
 "yihui.name/index.xml","2018-02-02"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-02-02"
-"andrewgelman.com/feed/","2018-02-02"
+"andrewgelman.com/feed/","2018-02-03"
