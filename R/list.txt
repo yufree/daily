@@ -9,4 +9,4 @@
 "chrisblattman.com/feed/","2018-02-09"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-02-09"
 "ropensci.org/blog/index.xml","2018-02-09"
-"andrewgelman.com/feed/","2018-02-09"
+"andrewgelman.com/feed/","2018-02-10"
