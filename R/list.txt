@@ -9,4 +9,4 @@
 "feeds.feedburner.com/StatsChat","2018-02-27"
 "chrisblattman.com/feed/","2018-03-02"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-03-02"
-"andrewgelman.com/feed/","2018-03-03"
+"andrewgelman.com/feed/","2018-03-04"
