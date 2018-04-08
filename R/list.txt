@@ -8,5 +8,5 @@
 "feeds.feedburner.com/StatsChat","2018-04-05"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-04-06"
 "ropensci.org/blog/index.xml","2018-04-06"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-04-06"
-"andrewgelman.com/feed/","2018-04-06"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-04-07"
+"andrewgelman.com/feed/","2018-04-07"
