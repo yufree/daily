@@ -22,7 +22,7 @@ source: R Bloggers
 
 - Re-direct to the orginal pages by click title in the homepage
 
-- Add comments by click description in the homepage using [gitment](https://github.com/imsun/gitment)
+- Add comments by click description in the homepage using Disqus
 
 # Recipe 
  
@@ -32,5 +32,4 @@ source: R Bloggers
 - [twitter-blogdown](https://t.yihui.name) by @yihui was the template to be hacked
 - [Github API](https://developer.github.com/v3/pulls/)
 - [Travis Cron Job](https://docs.travis-ci.com/user/cron-jobs/)
-- [Gitment](https://github.com/imsun/gitment)
 - [Your PR to RSS list](https://github.com/yufree/daily/edit/master/R/list.txt)

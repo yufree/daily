@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Daily R"
 theme = "hugo-xmag"
 googleAnalytics = ""
+disqusShortname = "yufree"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -27,12 +28,7 @@ paginate = 9
     summary_length = 300
     github_edit = "https://github.com/yufree/daily/edit/master/content/"
     footer = "&copy; [Miao YU](https://yufree.cn) 2018 | [Github](https://github.com/yufree) | [Twitter](https://twitter.com/yu_free)"
-    enable = true
-    owner = "yufree"
-    repo = "daily"
-    client_id = "e85e26891e27a971c2a8"
-    client_secret = "75394d3d25dbc264a72ef96244bee2c5ca7042db"
-
+    
 [params.text]
     back = "&larr; Back to Home"
     edit = "Edit this page &rarr;"
