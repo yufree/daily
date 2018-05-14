@@ -9,4 +9,4 @@
 "feeds.feedburner.com/StatsChat","2018-05-10"
 "ropensci.org/blog/index.xml","2018-05-10"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-05-10"
-"andrewgelman.com/feed/","2018-05-12"
+"andrewgelman.com/feed/","2018-05-13"
