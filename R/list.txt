@@ -9,4 +9,4 @@
 "yihui.name/index.xml","2018-06-01"
 "chrisblattman.com/feed/","2018-06-01"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-06-01"
-"andrewgelman.com/feed/","2018-06-01"
+"andrewgelman.com/feed/","2018-06-02"
