@@ -1,4 +1,5 @@
 "website","update"
+"varianceexplained.org/feed","2018-06-06"
 "support.rbind.io/index.xml","2018-02-26"
 "www.pzhao.org/en/index.xml","2018-03-20"
 "yihui.name/index.xml","2018-06-01"
