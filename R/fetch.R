@@ -16,8 +16,10 @@ for (i in 1:NROW(m)) {
         # control the abs length
         if(NROW(a)>0){
                 a$description <- substr(a$description,start=1, stop=500)
+                n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
+        }else{
+                n <- 0
         }
-        n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
         if(n>0){
                 temp <- a[1:n,]
                 x <- rbind(temp,x)
