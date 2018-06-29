@@ -56,4 +56,4 @@
 "ropensci.org/blog/index.xml","2018-06-26"
 "tc.rbind.io/index.xml","2018-06-27"
 "simplystatistics.org/index.xml","2018-06-27"
-"andrewgelman.com/feed/","2018-06-27"
+"andrewgelman.com/feed/","2018-06-28"
