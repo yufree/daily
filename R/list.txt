@@ -55,5 +55,5 @@
 "tc.rbind.io/index.xml","2018-06-27"
 "shanmdphd.rbind.io/index.xml","2018-06-29"
 "likan.info/index.xml","2018-06-29"
-"simplystatistics.org/index.xml","2018-06-29"
-"andrewgelman.com/feed/","2018-06-29"
+"simplystatistics.org/index.xml","2018-06-30"
+"andrewgelman.com/feed/","2018-06-30"
