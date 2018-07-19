@@ -56,4 +56,4 @@
 "ropensci.org/blog/index.xml","2018-07-17"
 "yihui.name/index.xml","2018-07-17"
 "tc.rbind.io/index.xml","2018-07-17"
-"andrewgelman.com/feed/","2018-07-17"
+"andrewgelman.com/feed/","2018-07-18"
