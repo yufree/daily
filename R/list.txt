@@ -55,5 +55,5 @@
 "ropensci.org/blog/index.xml","2018-08-28"
 "r2website.rbind.io/index.xml","2018-08-30"
 "yihui.name/index.xml","2018-08-31"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-09-01"
-"andrewgelman.com/feed/","2018-09-01"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-09-02"
+"andrewgelman.com/feed/","2018-09-02"
