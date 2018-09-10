@@ -55,5 +55,5 @@
 "simplystatistics.org/index.xml","2018-09-07"
 "www.brodrigues.co/index.xml","2018-09-08"
 "yihui.name/index.xml","2018-09-08"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-09-08"
-"andrewgelman.com/feed/","2018-09-08"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-09-09"
+"andrewgelman.com/feed/","2018-09-09"
