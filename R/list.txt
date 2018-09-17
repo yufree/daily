@@ -55,5 +55,5 @@
 "shanmdphd.rbind.io/index.xml","2018-09-14"
 "simplystatistics.org/index.xml","2018-09-14"
 "www.brodrigues.co/index.xml","2018-09-15"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-09-15"
-"andrewgelman.com/feed/","2018-09-15"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-09-16"
+"andrewgelman.com/feed/","2018-09-16"
