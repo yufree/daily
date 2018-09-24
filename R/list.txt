@@ -56,4 +56,4 @@
 "lcolladotor.github.io/index.xml","2018-09-19"
 "ropensci.org/blog/index.xml","2018-09-21"
 "yihui.name/index.xml","2018-09-22"
-"andrewgelman.com/feed/","2018-09-22"
+"andrewgelman.com/feed/","2018-09-23"
