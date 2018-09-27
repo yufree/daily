@@ -56,4 +56,4 @@
 "nanhung.rbind.io/index.xml","2018-09-24"
 "yihui.name/index.xml","2018-09-24"
 "ropensci.org/blog/index.xml","2018-09-25"
-"andrewgelman.com/feed/","2018-09-25"
+"andrewgelman.com/feed/","2018-09-26"
