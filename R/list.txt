@@ -55,5 +55,5 @@
 "yihui.name/index.xml","2018-09-24"
 "ropensci.org/blog/index.xml","2018-09-25"
 "simplystatistics.org/index.xml","2018-09-28"
-"lcolladotor.github.io/index.xml","2018-09-28"
-"andrewgelman.com/feed/","2018-09-28"
+"lcolladotor.github.io/index.xml","2018-09-29"
+"andrewgelman.com/feed/","2018-09-29"
