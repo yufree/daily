@@ -56,4 +56,4 @@
 "ewenme.rbind.io/index.xml","2018-10-26"
 "www.robinlovelace.net/index.xml","2018-10-27"
 "www.brodrigues.co/index.xml","2018-10-28"
-"andrewgelman.com/feed/","2018-10-28"
+"andrewgelman.com/feed/","2018-10-29"
