@@ -56,4 +56,4 @@
 "www.robinlovelace.net/index.xml","2018-10-27"
 "www.brodrigues.co/index.xml","2018-10-28"
 "maraaverick.rbind.io/index.xml","2018-10-30"
-"andrewgelman.com/feed/","2018-10-30"
+"andrewgelman.com/feed/","2018-10-31"
