@@ -56,4 +56,4 @@
 "ropensci.org/blog/index.xml","2018-11-01"
 "ewenme.rbind.io/index.xml","2018-11-01"
 "www.brodrigues.co/index.xml","2018-11-01"
-"andrewgelman.com/feed/","2018-11-01"
+"andrewgelman.com/feed/","2018-11-02"
