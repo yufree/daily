@@ -12,10 +12,17 @@ x = NULL
 n = 0 
 
 for (i in 1:NROW(m)) {
+        print(i)
         a <- scifetch::getrss(m[i,1])
         # control the abs length
         if(NROW(a)>0){
-                a$description <- substr(a$description,start=1, stop=500)
+                description = paste(
+                        c(a$description, '[...]'), collapse = ' '
+                )
+                description = gsub('\\s{2,}', ' ', a$description)
+                # fewer characters for wider chars
+                description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
+                a$description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
                 n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
         }else{
                 n <- 0
@@ -37,6 +44,7 @@ if(NROW(x)>0){
                 cat('---\n')
                 cat(yaml::as.yaml(x[i,]))
                 cat('---\n')
+                cat(as.character(x[i,5]))
                 sink()
         }
 }
