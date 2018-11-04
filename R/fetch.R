@@ -47,9 +47,6 @@ if(NROW(x)>0){
                 cat('disable_comments: true\n')
                 cat('---\n')
                 cat(as.character(x[i,5]))
-                cat('<script>
-setTimeout(function() { window.location.href = {{ .LinkTitle }} }, 10000);
-</script>')
                 sink()
         }
 }

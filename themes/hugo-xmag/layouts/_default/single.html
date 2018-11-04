@@ -29,6 +29,12 @@
 
 <main>
 {{ .Content }}
+<script>
+var url = {{ .LinkTitle }};
+var strReg = "http|https";
+var re = new RegExp(strReg);
+setTimeout(function() { if(re.test(url)) {window.location.href = url} }, 10000);
+</script>
 </main>
 {{ partial "author.html" . }}
 {{ partial "info.html" . }}
