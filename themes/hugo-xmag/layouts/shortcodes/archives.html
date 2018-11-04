@@ -3,7 +3,7 @@
 <ul>
   {{ range .Pages }}
   <li>
-    <span class="date">{{ .Date.Format "2006/01/02" }}</span>{{ .Params.source }}
+    <span class="date">{{ .Date.Format "2006/01/02" }}</span> {{ .Params.source }}
     <br>
     <a href="{{ .URL }}">{{ .Title }}</a>
   </li>
