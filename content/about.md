@@ -1,6 +1,7 @@
 ---
 title: Daily R
 author: Miao Yu
+type: about
 ---
 
 **Daily R** is a light news/blog aggregator website for R. 
