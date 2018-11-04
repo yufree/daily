@@ -32,9 +32,10 @@
 <p>Link: <a href="{{ .LinkTitle  }}">{{ .Title }}</a></p>
 {{ .Content }}
 </main>
-<script type="text/javascript">
-window.setTimeout(function(){
-  window.location.href = {{ .LinkTitle  }}; }, 10000 );
+<script type="text/JavaScript">
+redirectTime = "1500";
+function timedRedirect() {
+    setTimeout("location.href = {{ .LinkTitle  }};",redirectTime);
 }
 </script>
 {{ partial "author.html" . }}
