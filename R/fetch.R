@@ -40,11 +40,16 @@ if(NROW(x)>0){
                 name = gsub("[^a-z0-9]+", "-", name)
                 name = gsub("--+", "-", name)
                 p = sprintf('content/post/%s.md', paste0(name))
+                
                 sink(p)
                 cat('---\n')
-                cat(yaml::as.yaml(x[i,]))
+                cat(yaml::as.yaml(x[i,],))
+                cat('disable_comments: true\n')
                 cat('---\n')
                 cat(as.character(x[i,5]))
+                cat('<script>
+setTimeout(function() { window.location.href = {{ .LinkTitle }} }, 10000);
+</script>')
                 sink()
         }
 }
