@@ -31,17 +31,15 @@
 <p>Source: {{ .Params.source }}</p>
 <p>Link: <a href="{{ .LinkTitle  }}">{{ .Title }}</a></p>
 {{ .Content }}
-<script type="text/JavaScript">
-redirectTime = "1500";
-function timedRedirect() {
-    setTimeout("location.href = {{ .LinkTitle  }};",redirectTime);
-}
+<!-- delay 10s to original posts -->
+<script>
+setTimeout(function() { window.location.href = {{ .LinkTitle }} }, 10000);
 </script>
 </main>
 {{ partial "author.html" . }}
 {{ partial "info.html" . }}
 {{ partial "prev_next.html" . }}
-<!–– {{ partial "comments.html" . }} -->
+<!-- {{ partial "comments.html" . }} -->
 </article>
 </div>
 
