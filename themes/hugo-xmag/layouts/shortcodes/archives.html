@@ -5,7 +5,7 @@
   <li>
     <span class="date">{{ .Date.Format "2006/01/02" }}</span> {{ .Params.source }}
     <br>
-    <a href="{{ .URL }}">{{ .Title }}</a>
+    <a href="{{ .LinkTitle  }}">{{ .Title }}</a>
   </li>
   {{ end }}
 </ul>
