@@ -20,6 +20,10 @@ paginate = 9
     url = "/about/"
     weight = 2
 [[menu.main]]
+    name = "Archive"
+    url = "/archives/"
+    weight = 2
+[[menu.main]]
     name = "Subscribe"
     url = "/index.xml"
 
