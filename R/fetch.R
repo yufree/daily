@@ -29,7 +29,10 @@ for (i in 1:NROW(m)) {
 }
 if(NROW(x)>0){
         for (i in 1:NROW(x)){
-                p = sprintf('content/post/%s.md', paste0(d,'-',i))
+                name = gsub("^http[s]?://|/$", "", tolower(x[i,'linkTitle']))
+                name = gsub("[^a-z0-9]+", "-", name)
+                name = gsub("--+", "-", name)
+                p = sprintf('content/post/%s.md', paste0(name))
                 sink(p)
                 cat('---\n')
                 cat(yaml::as.yaml(x[i,]))
