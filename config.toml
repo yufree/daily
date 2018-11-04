@@ -9,7 +9,6 @@ preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
-paginate = 9
 
 [[menu.main]]
     name = "Home"

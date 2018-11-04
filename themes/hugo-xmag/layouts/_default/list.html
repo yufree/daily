@@ -2,8 +2,7 @@
 
 <div class="container">
 <main class="list">
-{{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "") }}
-{{ range where $paginator.Pages "Date" "ge" (now.AddDate 0 0 -1) }}
+{{ range where .Site.RegularPages "Date" "ge" (now.AddDate 0 0 -1) }}
 <section class="article-list">
   <h1><a href="{{ .LinkTitle  }}">{{ .Title }}</a></h1>
   <div class="date-author">
