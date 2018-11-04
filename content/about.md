@@ -24,6 +24,8 @@ source: R Bloggers
 
 - Add comments by click description in the homepage using Disqus
 
+- We reserve the right to delete any inappropriate posts
+
 # Recipe 
  
 - [Blogdown](https://github.com/rstudio/blogdown) to build the site from @yihui
