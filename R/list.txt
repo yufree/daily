@@ -56,4 +56,4 @@
 "feeds.feedburner.com/ProfessorRobJHyndman","2018-11-04"
 "ewenme.rbind.io/index.xml","2018-11-04"
 "www.brodrigues.co/index.xml","2018-11-04"
-"andrewgelman.com/feed/","2018-11-04"
+"andrewgelman.com/feed/","2018-11-05"
