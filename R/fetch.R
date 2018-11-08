@@ -1,10 +1,6 @@
 dir.create('content/post', showWarnings = FALSE)
 d = Sys.Date()
 
-p = list.files('content/post/', '^\\d{4,}-\\d{2}-\\d{2}-\\d{1,}[.]md$')
-p = max(as.Date(gsub('-\\d{1,}.md$', '', p)))
-if (length(p) && d <= p && !interactive()) q('no')
-
 if (!file.exists(f <- 'R/list.txt')) writeLines('website, update', f)
 m = read.csv(f, colClasses = "character")
 d = as.character(d)
