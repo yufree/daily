@@ -54,6 +54,6 @@
 "support.rbind.io/index.xml","2018-11-13"
 "ropensci.org/blog/index.xml","2018-11-13"
 "andriy.rbind.io/index.xml","2018-11-14"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-11-16"
 "www.brodrigues.co/index.xml","2018-11-16"
-"andrewgelman.com/feed/","2018-11-16"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-11-17"
+"andrewgelman.com/feed/","2018-11-17"
