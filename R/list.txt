@@ -55,5 +55,5 @@
 "tc.rbind.io/index.xml","2018-12-04"
 "ropensci.org/blog/index.xml","2018-12-06"
 "www.pzhao.org/en/index.xml","2018-12-07"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-12-08"
-"andrewgelman.com/feed/","2018-12-08"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-12-09"
+"andrewgelman.com/feed/","2018-12-09"
