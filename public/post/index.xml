@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daily R</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Daily R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The purported CSI effect and the retroactive precision fallacy</title>
+      <link>/post/andrewgelman-com-2018-11-05-purported-csi-effect-retroactive-precision-fallacy/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-05-purported-csi-effect-retroactive-precision-fallacy/</guid>
+      <description>Regarding our recent post on the syllogism that ate science, someone points us to this article, &amp;#8220;The CSI Effect: Popular Fiction About Forensic Science Affects Public Expectations About Real Forensic Science,&amp;#8221; by N. J. Schweitzer and Michael J. Saks. We&amp;#8217;ll get to the CSI Effect in a bit, but first I want to share the [&amp;#8230;]
+The post The purported CSI effect and the retroactive precision fallacy appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why it can be rational to vote</title>
+      <link>/post/andrewgelman-com-2018-11-05-why-it-can-be-rational-to-vote-2/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-05-why-it-can-be-rational-to-vote-2/</guid>
+      <description>Just a reminder.
+The post Why it can be rational to vote appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>进化之一点点-3</title>
+      <link>/post/-cn-2018-11-evo-3/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-cn-2018-11-evo-3/</guid>
+      <description>早期的进化思想 生活在公元前六世纪的阿拉克西曼德觉得,人在远古时代应该不是现在这个样子，因为和别的动物刚出生就能又跑又跳的幼崽相比，在野外人没</description>
+    </item>
+    
+    <item>
+      <title>Analyzing NetHack data, part 1: What kills the players</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-03-nethack-analysis/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-11-03-nethack-analysis/</guid>
+      <description>Abstract In this post, I will analyse the data I scraped and put into an R package, which I called {nethack}. NetHack is a roguelike game; for more context, read my previous blog post. You can install the {nethack} package and play around with the &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“We are reluctant to engage in post hoc speculation about this unexpected result, but it does not clearly support our hypothesis”</title>
+      <link>/post/andrewgelman-com-2018-11-03-reluctant-engage-post-hoc-speculation-unexpected-result-not-clearly-support-hypothesis/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-03-reluctant-engage-post-hoc-speculation-unexpected-result-not-clearly-support-hypothesis/</guid>
+      <description>Brendan Nyhan and Thomas Zeitzoff write: The results do not provide clear support for the lack-of control hypothesis. Self-reported feelings of low and high control are positively associated with conspiracy belief in observational data (model 1; p
+The post &amp;#8220;We are reluctant to engage in post hoc speculation about this unexpected result, but it does not clearly support our hypothesis&amp;#8221; appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ewenthemes (AKA how to mod hrbrthemes)</title>
+      <link>/post/ewen-io-2018-11-03-ewenthemes/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ewen-io-2018-11-03-ewenthemes/</guid>
+      <description>Achieve ggplot + website &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A framework for automated anomaly detection in high frequency water-quality data from in situ sensors</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-g3skvf-f1me/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-g3skvf-f1me/</guid>
+      <description>River water-quality monitoring is increasingly conducted using automated in situ sensors, enabling timelier identification of unexpected values. However, anomalies caused by technical issues confound these data, while the volume and velocity of data prevent manual detection. We present a framework for automated anomaly detection in high-frequency water-quality data from in situ sensors, using turbidity, conductivity and river level data. After identifying end-user needs and defining anomalies, we ranked their importance and selected suitable detection methods.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Sediment and Nutrient Concentrations in Rivers Using High Frequency Water Quality Surrogates</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-3xl3oq4siqc/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-3xl3oq4siqc/</guid>
+      <description>A particular focus of water-quality monitoring is the concentrations of sediments and nutrients in rivers, constituents that can smother biota and cause eutrophication. However, the physical and economic constraints of manual sampling prohibit data collection at the frequency required to capture adequately the variation in concentrations through time. Here, we developed models to predict total suspended solids (TSS) and oxidized nitrogen (NOx) concentrations based on high-frequency time series of turbidity, conductivity and river level data from low-cost in situ sensors in rivers flowing into &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

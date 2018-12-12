@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily R</title>
+    <link>/</link>
+    <description>Recent content on Daily R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The purported CSI effect and the retroactive precision fallacy</title>
+      <link>/post/andrewgelman-com-2018-11-05-purported-csi-effect-retroactive-precision-fallacy/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/andrewgelman-com-2018-11-05-purported-csi-effect-retroactive-precision-fallacy/</guid>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="https://andrewgelman.com/2018/11/05/purported-csi-effect-retroactive-precision-fallacy/">The purported CSI effect and the retroactive precision fallacy</a></p>
+        <p>&lt;p&gt;Regarding our recent post on the syllogism that ate science, someone points us to this article, &amp;#8220;The CSI Effect: Popular Fiction About Forensic Science Affects Public Expectations About Real Forensic Science,&amp;#8221; by N. J. Schweitzer and Michael J. Saks. We&amp;#8217;ll get to the CSI Effect in a bit, but first I want to share the [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;https://andrewgelman.com/2018/11/05/purported-csi-effect-retroactive-precision-fallacy/&#34;&gt;The purported CSI effect and the retroactive precision fallacy&lt;/a&gt; appeared first on &lt;a rel=&#34;nofollow&#34; ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Why it can be rational to vote</title>
+      <link>/post/andrewgelman-com-2018-11-05-why-it-can-be-rational-to-vote-2/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/andrewgelman-com-2018-11-05-why-it-can-be-rational-to-vote-2/</guid>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="https://andrewgelman.com/2018/11/05/why-it-can-be-rational-to-vote-2/">Why it can be rational to vote</a></p>
+        <p>&lt;p&gt;Just a reminder.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;https://andrewgelman.com/2018/11/05/why-it-can-be-rational-to-vote-2/&#34;&gt;Why it can be rational to vote&lt;/a&gt; appeared first on &lt;a rel=&#34;nofollow&#34; href=&#34;https://andrewgelman.com&#34;&gt;Statistical Modeling, Causal Inference, and Social ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>进化之一点点-3</title>
+      <link>/post/-cn-2018-11-evo-3/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/-cn-2018-11-evo-3/</guid>
+      <description>
+        <p>Source: Homepage on Liechi | 張列弛</p>
+        <p>Link: <a href="/cn/2018/11/evo-3/">进化之一点点-3</a></p>
+        <p>早期的进化思想 生活在公元前六世纪的阿拉克西曼德觉得,人在远古时代应该不是现在这个样子，因为和别的动物刚出生就能又跑又跳的幼崽相比，在野外人没 ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Analyzing NetHack data, part 1: What kills the players</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-03-nethack-analysis/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/www-brodrigues-co-blog-2018-11-03-nethack-analysis/</guid>
+      <description>
+        <p>Source: Econometrics and Free Software</p>
+        <p>Link: <a href="http://www.brodrigues.co/blog/2018-11-03-nethack_analysis/">Analyzing NetHack data, part 1: What kills the players</a></p>
+        <p>&lt;div style=&#34;text-align:center;&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dpM2o4dRLto&#34;&gt;
+&lt;img src=&#34;./img/deepfried_loss.png&#34; title = &#34;Click here to listen to epic music while reading&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;abstract&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this post, I will analyse the data I scraped and put into an R package, which I called &lt;code&gt;{nethack}&lt;/code&gt;.
+NetHack is a roguelike game; for more context, read my previous blog
+&lt;a href=&#34;https://www.brodrigues.co/blog/2018-11-01-nethack/&#34;&gt;post&lt;/a&gt;.
+You can install the &lt;code&gt;{nethack}&lt;/code&gt; package and play around with the ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>“We are reluctant to engage in post hoc speculation about this unexpected result, but it does not clearly support our hypothesis”</title>
+      <link>/post/andrewgelman-com-2018-11-03-reluctant-engage-post-hoc-speculation-unexpected-result-not-clearly-support-hypothesis/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/andrewgelman-com-2018-11-03-reluctant-engage-post-hoc-speculation-unexpected-result-not-clearly-support-hypothesis/</guid>
+      <description>
+        <p>Source: Statistical Modeling, Causal Inference, and Social Science</p>
+        <p>Link: <a href="https://andrewgelman.com/2018/11/03/reluctant-engage-post-hoc-speculation-unexpected-result-not-clearly-support-hypothesis/">“We are reluctant to engage in post hoc speculation about this unexpected result, but it does not clearly support our hypothesis”</a></p>
+        <p>&lt;p&gt;Brendan Nyhan and Thomas Zeitzoff write: The results do not provide clear support for the lack-of control hypothesis. Self-reported feelings of low and high control are positively associated with conspiracy belief in observational data (model 1; p&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&#34;nofollow&#34; href=&#34;https://andrewgelman.com/2018/11/03/reluctant-engage-post-hoc-speculation-unexpected-result-not-clearly-support-hypothesis/&#34;&gt;&amp;#8220;We are reluctant to engage in post hoc speculation about this unexpected result, but it does not clearly support our hypothesis&amp;#8221;&lt;/a&gt; appeared first on &lt;a rel=&#34;nofollow&#34; ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>ewenthemes (AKA how to mod hrbrthemes)</title>
+      <link>/post/ewen-io-2018-11-03-ewenthemes/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/ewen-io-2018-11-03-ewenthemes/</guid>
+      <description>
+        <p>Source: ewen</p>
+        <p>Link: <a href="https://ewen.io/2018/11/03/ewenthemes/">ewenthemes (AKA how to mod hrbrthemes)</a></p>
+        <p>Achieve ggplot &#43; website ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>A framework for automated anomaly detection in high frequency water-quality data from in situ sensors</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-g3skvf-f1me/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-g3skvf-f1me/</guid>
+      <description>
+        <p>Source: Rob J Hyndman</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/g3SKvf_F1ME/">A framework for automated anomaly detection in high frequency water-quality data from in situ sensors</a></p>
+        <p>River water-quality monitoring is increasingly conducted using automated in situ sensors, enabling timelier identification of unexpected values. However, anomalies caused by technical issues confound these data, while the volume and velocity of data prevent manual detection. We present a framework for automated anomaly detection in high-frequency water-quality data from in situ sensors, using turbidity, conductivity and river level data. After identifying end-user needs and defining anomalies, we ranked their importance and selected suitable detection methods.&lt;img src=&#34;http://feeds.feedburner. ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Predicting Sediment and Nutrient Concentrations in Rivers Using High Frequency Water Quality Surrogates</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-3xl3oq4siqc/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-3xl3oq4siqc/</guid>
+      <description>
+        <p>Source: Rob J Hyndman</p>
+        <p>Link: <a href="http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/3xL3oq4SIqc/">Predicting Sediment and Nutrient Concentrations in Rivers Using High Frequency Water Quality Surrogates</a></p>
+        <p>A particular focus of water-quality monitoring is the concentrations of sediments and nutrients in rivers, constituents that can smother biota and cause eutrophication. However, the physical and economic constraints of manual sampling prohibit data collection at the frequency required to capture adequately the variation in concentrations through time. Here, we developed models to predict total suspended solids (TSS) and oxidized nitrogen (NOx) concentrations based on high-frequency time series of turbidity, conductivity and river level data from low-cost in situ sensors in rivers flowing into  ...</p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Daily R</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>
+        <p>Source: </p>
+        <p>Link: <a href="Daily%20R">Daily R</a></p>
+        <p></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Daily R</title>
+      <link>/contributor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/contributor/</guid>
+      <description>
+        <p>Source: </p>
+        <p>Link: <a href="Daily%20R">Daily R</a></p>
+        <p></p>
+      </description>
+    </item>
+    
+    <item>
+      <title>Daily R Archives</title>
+      <link>/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/archives/</guid>
+      <description>
+        <p>Source: </p>
+        <p>Link: <a href="Daily%20R%20Archives">Daily R Archives</a></p>
+        <p></p>
+      </description>
+    </item>
+    
+  </channel>
+</rss>
