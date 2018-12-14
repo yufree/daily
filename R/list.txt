@@ -56,4 +56,4 @@
 "simplystatistics.org/index.xml","2018-12-12"
 "ropensci.org/blog/index.xml","2018-12-12"
 "feeds.feedburner.com/ProfessorRobJHyndman","2018-12-12"
-"andrewgelman.com/feed/","2018-12-12"
+"andrewgelman.com/feed/","2018-12-13"
