@@ -1,0 +1,16 @@
+---
+title: Early classification of spatio-temporal events using time-varying models
+date: '2018-12-19'
+linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/-PxtyytqWCo/
+source: Rob J Hyndman
+description: This paper investigates early event classification in spatio-temporal
+  data streams. We propose a framework for early classification that considers the
+  relationship between the features of an event and its age. The framework incorporates
+  an event extraction algorithm as well as two early event classification algorithms,
+  which use a series of logistic regression classifiers with penalty terms and state
+  space models. We apply this framework to synthetic and real world problems and demonstrate
+  its reliability and broad applicability.<img src="http://feeds.feedburner.com/~r/ProfessorRobJHyndman/~4/
+  ...
+disable_comments: true
+---
+This paper investigates early event classification in spatio-temporal data streams. We propose a framework for early classification that considers the relationship between the features of an event and its age. The framework incorporates an event extraction algorithm as well as two early event classification algorithms, which use a series of logistic regression classifiers with penalty terms and state space models. We apply this framework to synthetic and real world problems and demonstrate its reliability and broad applicability.<img src="http://feeds.feedburner.com/~r/ProfessorRobJHyndman/~4/ ...
