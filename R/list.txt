@@ -47,6 +47,7 @@
 "lcolladotor.github.io/index.xml","2018-11-21"
 "yutani.rbind.io/index.xml","2018-11-23"
 "www.liechi.org/index.xml","2018-11-28"
+"emitanaka.rbind.io/index.xml","2018-12-01"
 "tc.rbind.io/index.xml","2018-12-04"
 "www.pzhao.org/en/index.xml","2018-12-07"
 "www.choyang.me/zh/index.xml","2018-12-22"
@@ -57,3 +58,5 @@
 "feeds.feedburner.com/ProfessorRobJHyndman","2018-12-22"
 "www.brodrigues.co/index.xml","2018-12-22"
 "andrewgelman.com/feed/","2018-12-22"
+"divingintogeneticsandgenomics.rbind.io/index.xml","2018-12-22"
+"www.datascienceblog.net/post/index.xml","2018-12-22"
