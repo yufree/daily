@@ -59,4 +59,4 @@
 "www.datascienceblog.net/post/index.xml","2018-12-22"
 "deleeuw.rbind.io/index.xml","2018-12-23"
 "www.brodrigues.co/index.xml","2018-12-24"
-"andrewgelman.com/feed/","2018-12-24"
+"andrewgelman.com/feed/","2018-12-25"
