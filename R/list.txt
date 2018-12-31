@@ -58,5 +58,5 @@
 "yihui.name/index.xml","2018-12-27"
 "divingintogeneticsandgenomics.rbind.io/index.xml","2018-12-28"
 "maraaverick.rbind.io/index.xml","2018-12-29"
-"www.brodrigues.co/index.xml","2018-12-29"
-"andrewgelman.com/feed/","2018-12-29"
+"www.brodrigues.co/index.xml","2018-12-30"
+"andrewgelman.com/feed/","2018-12-30"
