@@ -60,3 +60,5 @@
 "maraaverick.rbind.io/index.xml","2018-12-29"
 "www.brodrigues.co/index.xml","2018-12-30"
 "andrewgelman.com/feed/","2019-01-01"
+"rmhogervorst.nl/cleancode/index.xml","2018-05-29"
+"blog.sellorm.com/index.xml","2018-12-20"
