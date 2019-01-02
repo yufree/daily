@@ -59,4 +59,4 @@
 "divingintogeneticsandgenomics.rbind.io/index.xml","2018-12-28"
 "maraaverick.rbind.io/index.xml","2018-12-29"
 "www.brodrigues.co/index.xml","2018-12-30"
-"andrewgelman.com/feed/","2018-12-31"
+"andrewgelman.com/feed/","2019-01-01"
