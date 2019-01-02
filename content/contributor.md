@@ -1,4 +1,4 @@
 ---
 title: Daily R
-author: Miao Yu, Yihui Xie, Leiming Dong 
+author: Miao Yu, Yihui Xie, Leiming Dong, Xiangyun Huang 
 ---
