@@ -61,4 +61,4 @@
 "www.brodrigues.co/index.xml","2019-01-04"
 "likan.info/index.xml","2019-01-04"
 "www.choyang.me/zh/index.xml","2019-01-06"
-"andrewgelman.com/feed/","2019-01-06"
+"andrewgelman.com/feed/","2019-01-07"
