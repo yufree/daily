@@ -1,6 +1,6 @@
 ---
 title: Macroeconomic forecasting for Australia using a large number of predictors
-date: '2018-12-09'
+date: '2019-01-01'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/slb0tIhveEg/
 source: Rob J Hyndman
 description: A popular approach to forecasting macroeconomic variables is to utilize
