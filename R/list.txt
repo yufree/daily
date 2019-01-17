@@ -61,4 +61,4 @@
 "www.brodrigues.co/index.xml","2019-01-13"
 "joongsup.rbind.io/index.xml","2019-01-14"
 "ropensci.org/blog/index.xml","2019-01-14"
-"andrewgelman.com/feed/","2019-01-15"
+"andrewgelman.com/feed/","2019-01-16"
