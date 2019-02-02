@@ -59,6 +59,6 @@
 "feeds.feedburner.com/ProfessorRobJHyndman","2019-01-30"
 "www.brodrigues.co/index.xml","2019-01-31"
 "www.pzhao.org/en/index.xml","2019-01-31"
-"ropensci.org/blog/index.xml","2019-01-31"
 "likan.info/index.xml","2019-01-31"
-"andrewgelman.com/feed/","2019-01-31"
+"ropensci.org/blog/index.xml","2019-02-01"
+"andrewgelman.com/feed/","2019-02-01"
