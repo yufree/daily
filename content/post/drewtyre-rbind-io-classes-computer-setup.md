@@ -2,7 +2,7 @@
 title: Computer Setup
 date: '2017-11-02'
 linkTitle: https://drewtyre.rbind.io/classes/computer-setup/
-source: A few cheap shots on A few cheap shots
+source: EnTyrely Too Much on EnTyrely Too Much
 description: ' <h3 id="r">R</h3> <p>Download and install the <a href="http://cran.rstudio.com/"
   target="_blank">R base system</a> for your operating system. I assume you use the
   <a href="http://www.rstudio.com/products/rstudio/download/" target="_blank">Rstudio
