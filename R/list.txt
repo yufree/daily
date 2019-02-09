@@ -61,4 +61,4 @@
 "www.brodrigues.co/index.xml","2019-02-04"
 "divingintogeneticsandgenomics.rbind.io/index.xml","2019-02-06"
 "feeds.feedburner.com/ProfessorRobJHyndman","2019-02-06"
-"andrewgelman.com/feed/","2019-02-07"
+"andrewgelman.com/feed/","2019-02-08"
