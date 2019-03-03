@@ -60,5 +60,5 @@
 "ropensci.org/blog/index.xml","2019-02-26"
 "lcolladotor.github.io/index.xml","2019-02-28"
 "r-podcast.org/index.xml","2019-02-28"
-"feeds.feedburner.com/ProfessorRobJHyndman","2019-03-01"
-"andrewgelman.com/feed/","2019-03-01"
+"feeds.feedburner.com/ProfessorRobJHyndman","2019-03-02"
+"andrewgelman.com/feed/","2019-03-02"
