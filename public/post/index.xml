@@ -6,10 +6,1979 @@
     <description>Recent content in Posts on Daily R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hilary Parker</title>
+      <link>/post/www-r-podcast-org-guest-hparker/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-r-podcast-org-guest-hparker/</guid>
+      <description>Hilary Parker is a data scientist at StitchFix as well as co-host of the excellent Not So Standard Deviations podcast. She is an R and statistics enthusiast determined to bring rigor to analysis wherever she goes. At Stitch Fix she works on teasing apart correlation from causation, with a strong dose of reproducibility. Formerly a Senior Data Analyst at Etsy, she received a PhD in Biostatistics from the Johns Hopkins Bloomberg School of Public &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Nick Tierney</title>
+      <link>/post/www-r-podcast-org-guest-ntierney/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-r-podcast-org-guest-ntierney/</guid>
+      <description>Nick Tierney is a Research Fellow in statistics at Monash University working with Rob Hyndman and Di Cook, as well as co-host of the insightful Credibly Curious podcast. Nick earned his PhD from Queensland University of Technology in 2018. His research aims to improve an overall data analysis workflow, especially towards understand a data set effectively with his visdat package in addition to exploring and modeling missing data with his naniar package.</description>
+    </item>
+    
+    <item>
+      <title>Julia Child (2) vs. Ira Glass; Dorothy Parker advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-20-julia-child-2-vs-ira-glass-dorothy-parker-advances/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-20-julia-child-2-vs-ira-glass-dorothy-parker-advances/</guid>
+      <description>Yesterday we got this argument from Manuel in favor of Biles: After suffering so many bad gymnastics (mathematical, logical, statistical, you name it) at seminars, to have some performed by a true champion would be a welcome change. But Parker takes it away, based on this formidable contribution of Dzhaughn: Things I Have Learned From &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Moneyball for evaluating community colleges</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-20-moneyball-evaluating-community-colleges/</link>
+      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-20-moneyball-evaluating-community-colleges/</guid>
+      <description>From an interesting statistics-laden piece by &amp;#8220;Dean Dad&amp;#8221;: Far more community college students transfer prior to completing the Associate’s degree than actually complete first. According to a new report from the National Student Clearinghouse Research Center, about 350,000 transfer before completion, compared to about 60,000 who complete first. That matters in several ways. Most basically, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Dorothy Parker (2) vs. Simone Biles;  Liebling advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-19-dorothy-parker-2-vs-simone-biles-liebling-advances/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-19-dorothy-parker-2-vs-simone-biles-liebling-advances/</guid>
+      <description>I was surprised to see so little action in the comments yesterday. Sure, Liebling&amp;#8217;s an obscure figure&amp;#8212;I guess at this point he&amp;#8217;d be called a &amp;#8220;cult writer,&amp;#8221; and I just happen to be part of the cult, fan as I am of mid-twentieth-century magazine writing&amp;#8212;but I&amp;#8217;d&amp;#8217;ve thought Bourdain would&amp;#8217;ve aroused more interest. Anyway, the best &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Either the results are completely wrong, or Nasa has confirmed a major breakthrough in space propulsion.”</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-19-either-results-completely-wrong-nasa-confirmed-major-breakthrough-space-propulsion/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-19-either-results-completely-wrong-nasa-confirmed-major-breakthrough-space-propulsion/</guid>
+      <description>Daniel Lakeland points us to this news article by David Hambling from 2014, entitled &amp;#8220;Nasa validates &amp;#8216;impossible&amp;#8217; space drive.&amp;#8221; Here&amp;#8217;s Hambling: Nasa is a major player in space science, so when a team from the agency this week presents evidence that &amp;#8220;impossible&amp;#8221; microwave thrusters seem to work, something strange is definitely going on. Either the &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>forecast 8.5</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-zf6q-vqhjha/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-zf6q-vqhjha/</guid>
+      <description>The latest minor release of the forecast package has now been approved on CRAN and should be available in the next day or so. Version 8.5 contains the following new features Updated tsCV() to handle exogenous regressors. Reimplemented naive(), snaive(), rwf() for substantial speed improvements. Added support for passing arguments to auto.arima() unit root tests. Improved auto.arima() stepwise search algorithm (some neighbouring models were missed previously). We haven’t done a major release for two years, and there is unlikely to be another one now.</description>
+    </item>
+    
+    <item>
+      <title>The Tentpoles of Data Science</title>
+      <link>/post/simplystatistics-org-2019-01-18-the-tentpoles-of-data-science/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simplystatistics-org-2019-01-18-the-tentpoles-of-data-science/</guid>
+      <description>What makes for a good data scientist? This is a question I asked a long time ago and am still trying to figure out the answer. Seven years ago, I wrote:
+ I was thinking about the people who I think are really good at data analysis and it occurred to me that they were all people I knew. So I started thinking about people that I don’t know (and there are many) but are equally good at data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Anthony Bourdain (3) vs. A. J. Liebling; Steve Martin advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-18-anthony-bourdain-3-vs-a-j-liebling-advances/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-18-anthony-bourdain-3-vs-a-j-liebling-advances/</guid>
+      <description>Yesterday&amp;#8216;s decision was pretty easy, as almost all the commenters talked about Steve Martin, pro and con. Letterman was pretty much out of the picture. Indeed, the best argument in favor of Letterman came from Jonathan, who wrote: I’ll go with Letterman because he looks like he could use the work. Conversely, the strongest argument &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Google on Responsible AI Practices</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-18-google-on-responsible-ai-practices/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-18-google-on-responsible-ai-practices/</guid>
+      <description>Great and beautifully written advice for any data science setting: Google. Responsible AI Practices. &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A ladder of responses to criticism, from the most responsible to the most destructive</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-18-ladder-responses-criticism-responsible-destructive/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-18-ladder-responses-criticism-responsible-destructive/</guid>
+      <description>In a recent discussion thread, I mentioned how I’m feeling charitable toward David Brooks, Michael Barone, and various others whose work I’ve criticized over the years, because their responses have been so civilized and moderate. Consider the following range of responses to an outsider pointing out an error in your published work: 1. Look into &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Steve Martin (4) vs. David Letterman; Serena Williams advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-17-steve-martin-4-vs-david-letterman-serena-williams-advances/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-17-steve-martin-4-vs-david-letterman-serena-williams-advances/</guid>
+      <description>Yesterday&amp;#8216;s matchup featured a food writer vs. a tennis player, two professions that are not known for public speaking. The best arguments came in the very first two comments. Jeff wrote: Fisher’s first book was “Serve It Forth,” which seems like good advice in tennis, as well. So, you’d get a two-fer there. That was &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A thought on the hot hand in basketball and the relevance of defense</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-17-thought-hot-hand-basketball-relevance-defense/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-17-thought-hot-hand-basketball-relevance-defense/</guid>
+      <description>I was reading about basketball the other day and a thought came to me about the hot hand &amp;hellip; There are a bunch of NBA players who could shoot with great accuracy even from long distance if they&amp;#8217;re not guarded, right? For example, what would Steph Curry&amp;#8217;s success rate be for 30-footers if &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Causal inference data challenge!</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-16-causal-inference-data-challenge/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-16-causal-inference-data-challenge/</guid>
+      <description>Susan Gruber, Geneviève Lefebvre, Tibor Schuster, and Alexandre Piché write: The ACIC 2019 Data Challenge is Live! Datasets are available for download (no registration required) at https://sites.google.com/view/ACIC2019DataChallenge/data-challenge (bottom of the page). Check out the FAQ at https://sites.google.com/view/ACIC2019DataChallenge/faq The deadline for submitting results is April 15, 2019. The fourth Causal Inference Data Challenge is taking place &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data partitioning as an essential element in evaluation of predictive properties of a statistical method</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-16-data-partitioning-essential-element-evaluation-predictive-properties-statistical-method/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-16-data-partitioning-essential-element-evaluation-predictive-properties-statistical-method/</guid>
+      <description>In a discussion of our stacking paper, the point came up that LOO (leave-one-out cross validation) requires a partitioning of data&amp;#8212;you can only &amp;#8220;leave one out&amp;#8221; if you define what &amp;#8220;one&amp;#8221; is. It is sometimes said that LOO &amp;#8220;relies on the data-exchangeability assumption,&amp;#8221; but I don&amp;#8217;t think that&amp;#8217;s quite the right way to put it, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>M. F. K. Fisher (1) vs. Serena Williams; Oscar Wilde advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-16-m-f-k-fisher-1-vs-serena-williams-oscar-wilde-advances/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-16-m-f-k-fisher-1-vs-serena-williams-oscar-wilde-advances/</guid>
+      <description>The best case yesterday was made by Manuel: Leave Joe Pesci at home alone. Wilde’s jokes may be very old, but he can use slides from The PowerPoint of Dorian Gray. As Martha put it, not great, but the best so far in this thread. On the other side, Jonathan wrote, &amp;#8220;I’d definitely rather hear &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Does Harvard discriminate against Asian Americans in college admissions?</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-15-does-harvard-discriminate-against-asian-americans-in-college-admissions/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-15-does-harvard-discriminate-against-asian-americans-in-college-admissions/</guid>
+      <description>Sharad Goel, Daniel Ho and I looked into the question, in response to a recent lawsuit. We wrote something for the Boston Review: What Statistics Can&amp;#8217;t Tell Us in the Fight over Affirmative Action at Harvard Asian Americans and Academics “Distinguishing Excellences” Adjusting and Over-Adjusting for Differences The Evolving Meaning of Merit Character and Bias &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Oscar Wilde (1) vs. Joe Pesci; the Japanese dude who won the hot dog eating contest advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-15-oscar-wilde-1-vs-joe-pesci-the-japanese-dude-who-won-the-hot-dog-eating-contest-advances/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-15-oscar-wilde-1-vs-joe-pesci-the-japanese-dude-who-won-the-hot-dog-eating-contest-advances/</guid>
+      <description>Raghuveer gave a good argument yesterday: &amp;#8220;The hot dog guy would eat all the pre-seminar cookies, so that’s a definite no.&amp;#8221; But this was defeated by the best recommendation we&amp;#8217;ve ever had in the history of the Greatest Seminar Speaker contest, from Jeff: Garbage In, Garbage Out: Mass Consumption and Its Aftermath Takeru Kobayashi Note: &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>rOpenSci&#39;s new Code of Conduct</title>
+      <link>/post/ropensci-org-blog-2019-01-14-conduct/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2019-01-14-conduct/</guid>
+      <description>We are pleased to announce the release of our new Code of Conduct. rOpenSci&amp;rsquo;s community is our best asset and it&amp;rsquo;s important that we put strong mechanisms in place before we have to act on a report. As before, our Code applies equally to members of the rOpenSci team and to anyone from the community at large participating in in-person or online activities. What&amp;rsquo;s new? A Code of Conduct Committee: Stefanie Butland (rOpenSci Community Manager), Scott Chamberlain (rOpenSci Co-founder and Technical Lead) and Kara Woo (independent community &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Storytelling:  What’s it good for?</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-14-39841/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-14-39841/</guid>
+      <description>A story can be an effective way to send a message. Anna Clemens explains: Why are stories so powerful? To answer this, we have to go back at least 100,000 years. This is when humans started to speak. For the following roughly 94,000 years, we could only use spoken words to communicate. Stories helped us &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Carol Burnett (4) vs. the Japanese dude who won the hot dog eating contest; Albert Brooks advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-14-carol-burnett-4-vs-the-japanese-dude-who-won-the-hot-dog-eating-contest-albert-brooks-advances/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-14-carol-burnett-4-vs-the-japanese-dude-who-won-the-hot-dog-eating-contest-albert-brooks-advances/</guid>
+      <description>Yesterday was a tough matchup, but ultimately John &amp;#8220;von&amp;#8221; Neumann was no match for a very witty Albert Einstein. The deciding argument, from Martha: I’d like to see Von Neumann given four parameters and making an elephant wiggle his trunk. And if he could do it, there would be the chance that Jim Thorpe could &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Making sense of the METS and ALTO XML standards</title>
+      <link>/post/www-brodrigues-co-blog-2019-01-13-newspapers-mets-alto/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2019-01-13-newspapers-mets-alto/</guid>
+      <description>Last week I wrote a blog post where I analyzed one year of newspapers ads from 19th century newspapers. The data is made available by the national library of Luxembourg. In this blog post, which is part 1 of a 2 part series, I extract data from the 257gb archive, which contains 10 years &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Understanding p value, multiple comparisons, FDR and q value</title>
+      <link>/post/divingintogeneticsandgenomics-rbind-io-post-understanding-p-value-multiple-comparisons-fdr-and-q-value/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/divingintogeneticsandgenomics-rbind-io-post-understanding-p-value-multiple-comparisons-fdr-and-q-value/</guid>
+      <description>This was an old post I wrote 3 years ago after I took HarvardX: PH525.3x Advanced Statistics for the Life Sciences on edx taught by Rafael Irizarry. It is still one of the best courses to get you started using R for genomics. I am very thankful to have those high quality classes available to me when I started to learn. I am reposting it here using &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Coursera course on causal inference from Michael Sobel at Columbia</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-13-coursera-course-on-causal-inference-from-michael-sobel-at-columbia/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-13-coursera-course-on-causal-inference-from-michael-sobel-at-columbia/</guid>
+      <description>Here&amp;#8217;s the description: This course offers a rigorous mathematical survey of causal inference at the Master’s level. Inferences about causation are of great importance in science, medicine, policy, and business. This course provides an introduction to the statistical literature on causal inference that has emerged in the last 35-40 years and that has revolutionized the &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>John van Neumann (3) vs. Albert Brooks; Paul Erdos advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-13-john-van-neumann-3-vs-albert-brooks-paul-erdos-advances/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-13-john-van-neumann-3-vs-albert-brooks-paul-erdos-advances/</guid>
+      <description>We had some good arguments on both sides yesterday. For Erdos, from Diana Senechal: From an environmental perspective, Erdos is the better choice; his surname is an adjectival form of the Hungarian erdő, “forest,” whereas “Carson” clearly means “son of a car.” Granted, the son of a car, being rebellious and all, might prove especially &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How post-hoc power calculation is like a shit sandwich</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-13-post-hoc-power-calculation-like-shit-sandwich/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-13-post-hoc-power-calculation-like-shit-sandwich/</guid>
+      <description>Damn. This story makes me so frustrated I can&amp;#8217;t even laugh. I can only cry. Here&amp;#8217;s the background. A few months ago, Aleksi Reito (who sent me the adorable picture above) pointed me to a short article by Yanik Bababekov, Sahael Stapleton, Jessica Mueller, Zhi Fong, and David Chang in Annals of Surgery, &amp;#8220;A Proposal &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Coping with worst loss at home</title>
+      <link>/post/uncmbbtrivia-netlify-com-post-2019-01-13-worst-performance-at-home-sweet-dome/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/uncmbbtrivia-netlify-com-post-2019-01-13-worst-performance-at-home-sweet-dome/</guid>
+      <description>It’s been a tough weekend, not least because Tar Heels lost at home. Sometimes I feel like I’m vested too much in the outcome of the Heel’s basketball games, and if my emotional rollercoaster the rest of the weekend gives any clue, I probably am, just a litttle bit. I tried to shake it off, yet it wasn’t particularly easy, not only because we lost at home, but because the loss was the worst one at home under Roy Williams.</description>
+    </item>
+    
+    <item>
+      <title>李白的诗</title>
+      <link>/post/-cn-2019-01-poets-li-haku/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-cn-2019-01-poets-li-haku/</guid>
+      <description>写完《静夜思》的版本变迁后，觉得意犹未尽。除了颠覆童年的原版外，其实《静夜思》本身没有太多好说的。《静夜思》自然是好诗，只是对我们来说太过熟</description>
+    </item>
+    
+    <item>
+      <title>Johnny Carson (2) vs. Paul Erdos; Babe Didrikson Zaharias advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-12-johnny-carson-2-vs-paul-erdos-babe-didrikson-zaharias-advances/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-12-johnny-carson-2-vs-paul-erdos-babe-didrikson-zaharias-advances/</guid>
+      <description>OK, our last matchup wasn&amp;#8217;t close. Adam Schiff (unseeded in the &amp;#8220;people whose name ends in f&amp;#8221; category) had the misfortune to go against the juggernaut that was Babe Didrikson Zaharias (seeded #2 in the GOATs category). Committee chair or not, the poor guy never had a chance. As Diana Senechal wrote, &amp;#8220;From an existential &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>This is one offer I can refuse</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-12-one-offer-can-refuse/</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-12-one-offer-can-refuse/</guid>
+      <description>OK, so this came in the email today: Dear Contributor, ADVANCES IN POLITICAL METHODOLOGY [978 1 78347 485 1] Regular price: $455.00 Special Contributor price: $113.75 (plus shipping) We are pleased to announce the publication of the above title. Due to the limited print run of this collection and the high number of contributing authors, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>床前看月光</title>
+      <link>/post/-cn-2019-01-lihaku/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-cn-2019-01-lihaku/</guid>
+      <description>如果一个中国人只听说过一首唐诗，那么这首唐诗最有可能是哪首？李白的《静夜思》或许是很多人心目中的答案吧。 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Becker on Bohm on the important role of stories in science</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-11-becker-bohm-important-role-stories-science/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-11-becker-bohm-important-role-stories-science/</guid>
+      <description>Tyler Matta writes: During your talk last week, you spoke about the role of stories in scientific theory. On page 104 of What Is Real: The Unfinished Quest for the Meaning of Quantum Physics, Adam Becker talks about stories and scientific theory in relation to alternative conceptions of quantum theory, particularly between Bohm&amp;#8217;s pilot-wave interpretation &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>New blog hosting!</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-11-new-blog-hosting/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-11-new-blog-hosting/</guid>
+      <description>Hi all. We&amp;#8217;ve been having some problems with the blog caching, so that people were seeing day-old versions of the posts and comments. We moved to a new host and a new address, https://statmodeling.stat.columbia.edu, and all should be better. Still a couple glitches, though. Right now it doesn&amp;#8217;t seem to be possible to comment. We &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>NYC Meetup Thursday: Under the hood: Stan’s library, language, and algorithms</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-11-nyc-meetup-thursday-under-the-hood-stans-library-language-and-algorithms/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-11-nyc-meetup-thursday-under-the-hood-stans-library-language-and-algorithms/</guid>
+      <description>I (Bob, not Andrew!) will be doing a meetup talk this coming Thursday in New York City. Here&amp;#8217;s the link with registration and location and time details (summary: pizza unboxing at 6:30 pm in SoHo): Bayesian Data Analysis Meetup: Under the hood: Stan&amp;#8217;s library, language, and algorithms After summarizing what Stan does, this talk will &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Tip to Debug ggplot2</title>
+      <link>/post/yutani-rbind-io-post-a-tip-to-debug-ggplot2/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yutani-rbind-io-post-a-tip-to-debug-ggplot2/</guid>
+      <description>Since the tidyverse developer day is near, I share my very very secret technique to debug ggplot2. Though this is a very small thing, hope this helps someone a bit.
+ggplot2 is unbreakable! You might want to debug() the methods of Geoms or Stats.
+debug(GeomPoint$draw_panel)  But, this is not effective because the geom_point() generates different instances, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Babe Didrikson Zaharias (2) vs. Adam Schiff; Sid Caesar advances</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-10-babe-didrikson-zaharias-2-vs-adam-schiff-sid-caesar-advances/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-10-babe-didrikson-zaharias-2-vs-adam-schiff-sid-caesar-advances/</guid>
+      <description>And our noontime competition continues &amp;hellip; We had some good arguments on both sides yesterday. Jonathan writes: In my experience, comedians are great when they’re on-stage and morose and unappealing off-stage. Sullivan, on the other hand, was morose and unappealing on-stage, and witty and charming off-stage, or so I’ve heard. This comes down, [&amp;#8230;]
+The post Babe Didrikson Zaharias (2) vs. Adam Schiff; Sid Caesar advances appeared first on &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>MRP (multilevel regression and poststratification; Mister P):  Clearing up misunderstandings about</title>
+      <link>/post/statmodeling-stat-columbia-edu-2019-01-10-mrp-multilevel-regression-poststratification-mister-p-clearing-misunderstandings/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statmodeling-stat-columbia-edu-2019-01-10-mrp-multilevel-regression-poststratification-mister-p-clearing-misunderstandings/</guid>
+      <description>Someone pointed me to this thread where I noticed some issues I&amp;#8217;d like to clear up: David Shor: &amp;#8220;MRP itself is like, a 2009-era methodology.&amp;#8221; Nope. The first paper on MRP was from 1997. And, even then, the component pieces were not new: we were just basically combining two existing ideas from survey sampling: regression [&amp;#8230;]
+The post MRP (multilevel regression and poststratification; Mister P): Clearing up &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Time to gather, time to spread. Part 1.</title>
+      <link>/post/andriy-rbind-io-post-2019-01-10-gather-spread-1-elonongation-practice-1/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andriy-rbind-io-post-2019-01-10-gather-spread-1-elonongation-practice-1/</guid>
+      <description>TL;DR A quick demonstration of transforming data from wide to long format usingtidyr::gather() and tidyr::spread() functions. Fully reproducible example with a simple dataset.
+Packages used in &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>vitae: Dynamic CVs with R Markdown</title>
+      <link>/post/ropensci-org-blog-2019-01-10-vitae/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2019-01-10-vitae/</guid>
+      <description>Why vitae? The process of maintaining a CV can be tedious. It&amp;rsquo;s a task I often forget about - that is until someone requests it and I find that my latest is woefully out of date. To make matters worse, these professional updates often need repeating across variety of sites (such as ORCID and LinkedIn). Having seen several CVs put together into an R Markdown document (including my own, featuring a few quick and dirty hacks to make it work), the need for an R package was &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ed Sullivan (3) vs. Sid Caesar; DJ Jazzy Jeff advances</title>
+      <link>/post/andrewgelman-com-2019-01-09-ed-sullivan-3-vs-sid-caesar-dj-jazzy-jeff-advances/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-09-ed-sullivan-3-vs-sid-caesar-dj-jazzy-jeff-advances/</guid>
+      <description>Yesterday&amp;#8217;s battle (Philip Roth vs. DJ Jazzy Jeff) was pretty low-key. It seems that this blog isn&amp;#8217;t packed with fans of ethnic literature or hip-hop. Nobody in comments even picked up on my use of the line, &amp;#8220;Does anyone know these people? Do they exist or are they spooks?&amp;#8221; Isaac gave a good argument in [&amp;#8230;]
+The post Ed Sullivan (3) vs. Sid Caesar; DJ Jazzy Jeff advances appeared first on St &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility and Stan</title>
+      <link>/post/andrewgelman-com-2019-01-09-reproducibility-and-stan/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-09-reproducibility-and-stan/</guid>
+      <description>Aki prepared these slides which cover a series of topics, starting with notebooks, open code, and reproducibility of code in R and Stan; then simulation-based calibration of algorithms; then model averaging and prediction. Lots to think about here: there are many aspects to reproducible analysis and computation in statistics.
+The post Reproducibility and Stan appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How Data Scientists Think - A Mini Case Study</title>
+      <link>/post/simplystatistics-org-2019-01-09-how-data-scientists-think-a-mini-case-study/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simplystatistics-org-2019-01-09-how-data-scientists-think-a-mini-case-study/</guid>
+      <description>In episode 71 of Not So Standard Deviations, Hilary Parker and I inaugurated our first “Data Science Design Challenge” segment where we discussed how we would solve a given problem using data science. The idea with calling it a “design challenge” was to contrast it with common “hackathon” type models where you are presented with an already-collected dataset and then challenged to find something interesting in the data. Here, we wanted to start with a problem and then talk about how data might be collected and analyzed to address the problem.</description>
+    </item>
+    
+    <item>
+      <title>Did she really live 122 years?</title>
+      <link>/post/andrewgelman-com-2019-01-07-did-she-really-live-122-years/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-07-did-she-really-live-122-years/</guid>
+      <description>Even more famous than &amp;#8220;the Japanese dude who won the hot dog eating contest&amp;#8221; is &amp;#8220;the French lady who lived to be 122 years old.&amp;#8221; But did she really? Paul Campos points us to this post, where he writes: Here’s a statistical series, laying out various points along the 100 longest known durations of a [&amp;#8230;]
+The post Did she really live 122 years? appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“The Book of Why” by Pearl and Mackenzie</title>
+      <link>/post/andrewgelman-com-2019-01-08-book-pearl-mackenzie/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-08-book-pearl-mackenzie/</guid>
+      <description>Judea Pearl and Dana Mackenzie sent me a copy of their new book, &amp;#8220;The book of why: The new science of cause and effect.&amp;#8221; There are some things I don&amp;#8217;t like about their book, and I&amp;#8217;ll get to that, but I want to start with a central point of theirs with which I agree strongly. [&amp;#8230;]
+The post &amp;#8220;The Book of Why&amp;#8221; by Pearl and Mackenzie appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Philip Roth (4) vs. DJ Jazzy Jeff; Jim Thorpe advances</title>
+      <link>/post/andrewgelman-com-2019-01-08-philip-roth-4-vs-dj-jazzy-jeff-jim-thorpe-advances/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-08-philip-roth-4-vs-dj-jazzy-jeff-jim-thorpe-advances/</guid>
+      <description>For yesterday&amp;#8217;s battle (Jim Thorpe vs. John Oliver), I&amp;#8217;ll have to go with Thorpe. We got a couple arguments in Oliver&amp;#8217;s favor&amp;#8212;we&amp;#8217;d get to hear him say &amp;#8220;Whot?&amp;#8221;, and he&amp;#8217;s English&amp;#8212;but for Thorpe we heard a lot more, including his uniqueness as greatest athlete of all time, and that we could save money on the [&amp;#8230;]
+The post Philip Roth (4) vs. DJ Jazzy Jeff; Jim Thorpe advances appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Continuing to Grow Community Together at ozunconf, 2018</title>
+      <link>/post/ropensci-org-blog-2019-01-08-ozunconf18/</link>
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2019-01-08-ozunconf18/</guid>
+      <description>In late November 2018, we ran the third annual rOpenSci ozunconf. This is the sibling rOpenSci unconference, held in Australia. We ran the first ozunconf in Brisbane in 2016, and the second in Melbourne in 2017. Photos taken by Ajay from Fotoholics As usual, before the unconf, we started discussion on GitHub issue threads, and the excitement was building with the number of issues. The day before the unconf we ran &amp;ldquo;Day 0 training&amp;rdquo; - an afternoon explaining R packages and &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On deck for the first half of 2019</title>
+      <link>/post/andrewgelman-com-2019-01-07-on-deck-for-the-first-half-of-2019/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-07-on-deck-for-the-first-half-of-2019/</guid>
+      <description>OK, this is what we&amp;#8217;ve got for you: “The Book of Why” by Pearl and Mackenzie Reproducibility and Stan MRP (multilevel regression and poststratification; Mister P): Clearing up misunderstandings about Becker on Bohm on the important role of stories in science This is one offer I can refuse How post-hoc power calculation is like a [&amp;#8230;]
+The post On deck for the first half of 2019 appeared first on Statistical Modeling, Causal &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The seminar speaker contest begins:  Jim Thorpe (1) vs. John Oliver</title>
+      <link>/post/andrewgelman-com-2019-01-07-the-seminar-speaker-contest-begins-jim-thorpe-1-vs-john-oliver/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-07-the-seminar-speaker-contest-begins-jim-thorpe-1-vs-john-oliver/</guid>
+      <description>As promised, we&amp;#8217;ll be having one contest a day for our Ultimate Seminar Speaker contest, first going through the first round of our bracket, then going through round 2, etc., through to the finals. Here&amp;#8217;s the bracket: And now we begin! The first matchup is Jim Thorpe, seeded #1 in the GOATs category, vs. John [&amp;#8230;]
+The post The seminar speaker contest begins: Jim Thorpe (1) vs. John Oliver appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>ROC曲线与AUC值</title>
+      <link>/post/-zh-post-roc-auc/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-zh-post-roc-auc/</guid>
+      <description>混淆矩阵 - confusion matrix 机器学习分类问题中，混淆矩阵(非监督学习中称匹配矩阵match matrix)用于表征算法的性能。如下表所示 True condition Total population Condition positive Condition negative Predicted &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Announcing the ultimate seminar speaker contest:  2019 edition!</title>
+      <link>/post/andrewgelman-com-2019-01-06-announcing-the-ultimate-seminar-speaker-contest-2019-edition/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-06-announcing-the-ultimate-seminar-speaker-contest-2019-edition/</guid>
+      <description>Paul Davidson made the bracket for us (thanks, Paul!): Here&amp;#8217;s the full list: Wits: Oscar Wilde (seeded 1 in group) Dorothy Parker (2) David Sedaris (3) Voltaire (4) Veronica Geng Albert Brooks Mel Brooks Monty Python Creative eaters: M. F. K. Fisher (1) Julia Child (2) Anthony Bourdain (3) Alice Waters (4) A. J. Liebling [&amp;#8230;]
+The post Announcing the ultimate seminar speaker contest: 2019 edition! appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Objective Bayes conference in June</title>
+      <link>/post/andrewgelman-com-2019-01-06-objective-bayes-conference-in-june/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-06-objective-bayes-conference-in-june/</guid>
+      <description>Christian Robert points us to this Objective Bayes Methodology Conference in Warwick, England in June. I&amp;#8217;m not a big fan of the term &amp;#8220;objective Bayes&amp;#8221; (see my paper with Christian Hennig, Beyond subjective and objective in statistics), but the conference itself looks interesting, and there are still a few weeks left for people to submit [&amp;#8230;]
+The post Objective Bayes conference in June appeared first on Statistica &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Dissolving the Fermi Paradox”</title>
+      <link>/post/andrewgelman-com-2019-01-05-dissolving-fermi-paradox/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-05-dissolving-fermi-paradox/</guid>
+      <description>Jonathan Falk writes: A quick search seems to imply that you haven&amp;#8217;t discussed the Fermi equation for a while. This looks to me to be in the realm of Miller and Sanjurjo: a simple probabilistic explanation sitting right under everyone&amp;#8217;s nose. Comment? &amp;#8220;This&amp;#8221; is a article, Dissolving the Fermi Paradox, by Anders Sandberg, Eric Drexler [&amp;#8230;]
+The post &amp;#8220;Dissolving the Fermi Paradox&amp;#8221; appeared first on Statistic &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Looking into 19th century ads from a Luxembourguish newspaper with R</title>
+      <link>/post/www-brodrigues-co-blog-2019-01-04-newspapers/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2019-01-04-newspapers/</guid>
+      <description>The national library of Luxembourg published some very interesting data sets; scans of historical newspapers! There are several data sets that you can download, from 250mb up to 257gb. I decided to take a look at the 32gb “ML Starter Pack”. It contains high quality scans of one year of the L’indépendence &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Robin Pemantle’s updated bag of tricks for math teaching!</title>
+      <link>/post/andrewgelman-com-2019-01-03-robin-pemantles-updated-bag-of-tricks-for-math-teaching/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-03-robin-pemantles-updated-bag-of-tricks-for-math-teaching/</guid>
+      <description>Here it is! He&amp;#8217;s got the following two documents: &amp;#8211; Tips for Active Learning in the College Setting &amp;#8211; Tips for Active Learning in Teacher Prep or in the K-12 Setting This is great stuff (see my earlier review here). Every mathematician and math teacher in the universe should read this. So, if any of [&amp;#8230;]
+The post Robin Pemantle&amp;#8217;s updated bag of tricks for math teaching! appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; href=&amp;ldquo;https://andrewgelman.</description>
+    </item>
+    
+    <item>
+      <title>Back by popular demand . . . The Greatest Seminar Speaker contest!</title>
+      <link>/post/andrewgelman-com-2019-01-04-back-by-popular-demand-the-greatest-seminar-speaker-contest/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-04-back-by-popular-demand-the-greatest-seminar-speaker-contest/</guid>
+      <description>Regular blog readers will remember our seminar speaker competition from a few years ago. Here was our bracket, back in 2015: And here were the 64 contestants: – Philosophers: Plato (seeded 1 in group) Alan Turing (seeded 2) Aristotle (3) Friedrich Nietzsche (4) Thomas Hobbes Jean-Jacques Rousseau Bertrand Russell Karl Popper – Religious Leaders: Mohandas [&amp;#8230;]
+The post Back by popular demand &amp;hellip; The Greatest Seminar Speaker contest! appeared first on &amp;lt;a &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>permutation test for PCA components</title>
+      <link>/post/divingintogeneticsandgenomics-rbind-io-post-permute-test-for-pca-components/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/divingintogeneticsandgenomics-rbind-io-post-permute-test-for-pca-components/</guid>
+      <description>PCA is a critical method for dimension reduction for high-dimensional data. High-dimensional data are data with features (p) a lot more than observations (n). However, this is changing with single-cell RNAseq data. Now, we can sequence millions (n) of single cells and each cell has ~20,000 genes/features (p).
+I suggest you read my previous blog post on using svd to calculate PCs.
+Single-cell expression data &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An interactive learning widget for R</title>
+      <link>/post/likan-info-en-teach-r-for-statistics-data-visualization-interactiver/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/likan-info-en-teach-r-for-statistics-data-visualization-interactiver/</guid>
+      <description>eyJsYW5ndWFnZSI6InIiLCJzYW1wbGUiOiJhIDwtIFwiSGVsbG9cIlxuYiA8LSBcIldvcmxkXCJcbmMgPC0gXCIhXCJcblxucGFzdGUoYSwgYiwgYykifQ== &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Published in 2018</title>
+      <link>/post/andrewgelman-com-2019-01-03-published-in-2018/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-03-published-in-2018/</guid>
+      <description>R-squared for Bayesian regression models. {\em American Statistician}. (Andrew Gelman, Ben Goodrich, Jonah Gabry, and Aki Vehtari) Voter registration databases and MRP: Toward the use of large scale databases in public opinion research. {\em Political Analysis}. (Yair Ghitza and Andrew Gelman) Limitations of &amp;#8220;Limitations of Bayesian leave-one-out cross-validation for model selection.&amp;#8221; {\em Computational Brain and [&amp;#8230;]
+The post Published in 2018 appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What to do when you read a paper and it’s full of errors and the author won’t share the data or be open about the analysis?</title>
+      <link>/post/andrewgelman-com-2019-01-02-read-paper-full-errors-author-wont-share-data-open-analysis/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-02-read-paper-full-errors-author-wont-share-data-open-analysis/</guid>
+      <description>Someone writes: I would like to ask you for an advice regarding obtaining data for reanalysis purposes from an author who has multiple papers with statistical errors and doesn’t want to share the data. Recently, I reviewed a paper that included numbers that had some of the reported statistics that were mathematically impossible. As the [&amp;#8230;]
+The post What to do when you read a paper and it&amp;#8217;s full of errors and the author won&amp;#8217;t share the data or be &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Macroeconomic forecasting for Australia using a large number of predictors</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-slb0tihveeg/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-slb0tihveeg/</guid>
+      <description>A popular approach to forecasting macroeconomic variables is to utilize a large number of predictors. Several regularization and shrinkage methods can be used to exploit such high-dimensional datasets, and have been shown to improve forecast accuracy for the US economy. To assess whether similar results hold for economies with different characteristics, an Australian dataset containing observations on 151 aggregate and disaggregate economic series as well as 185 international variables, is introduced.</description>
+    </item>
+    
+    <item>
+      <title>“Principles of posterior visualization”</title>
+      <link>/post/andrewgelman-com-2019-01-01-principles-posterior-visualization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2019-01-01-principles-posterior-visualization/</guid>
+      <description>What better way to start the new year than with a discussion of statistical graphics. Mikhail Shubin has this great post from a few years ago on Bayesian visualization. He lists the following principles: Principle 1: Uncertainty should be visualized Principle 2: Visualization of variability ≠ Visualization of uncertainty Principle 3: Equal probability = Equal [&amp;#8230;]
+The post &amp;#8220;Principles of posterior visualization&amp;#8221; appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Authority figures in psychology spread more happy talk, still don’t get the point that much of the published, celebrated, and publicized work in their field is no good (Part 2)</title>
+      <link>/post/andrewgelman-com-2018-12-31-authority-figures-in-psychology-spread-more-happy-talk-still-dont-get-the-point-that-much-of-the-published-celebrated-and-publicized-work-in-their-field-is-no-good-part-2/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-31-authority-figures-in-psychology-spread-more-happy-talk-still-dont-get-the-point-that-much-of-the-published-celebrated-and-publicized-work-in-their-field-is-no-good-part-2/</guid>
+      <description>Part 1 was here. And here&amp;#8217;s Part 2. Jordan Anaya reports: Uli Schimmack posted this on facebook and twitter. I [Anaya] was annoyed to see that it mentions &amp;#8220;a handful&amp;#8221; of unreliable findings, and points the finger at fraud as the cause. But then I was shocked to see the 85% number for the Many [&amp;#8230;]
+The post Authority figures in &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R or Python? Why not both? Using Anaconda Python within R with {reticulate}</title>
+      <link>/post/www-brodrigues-co-blog-2018-12-30-reticulate/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-12-30-reticulate/</guid>
+      <description>This short blog post illustrates how easy it is to use R and Python in the same R Notebook thanks to the {reticulate} package. For this to work, you might need to upgrade RStudio to the current preview version. Let’s start by importing {reticulate}:
+&amp;lt;pre &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Combining apparently contradictory evidence</title>
+      <link>/post/andrewgelman-com-2018-12-30-combining-apparently-contradictory-evidence/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-30-combining-apparently-contradictory-evidence/</guid>
+      <description>I want to write a more formal article about this, but in the meantime here&amp;#8217;s a placeholder. The topic is the combination of apparently contradictory evidence. Let&amp;#8217;s start with a simple example: you have some ratings on a 1-10 scale. These could be, for example, research proposals being rated by a funding committee, or, umm, [&amp;#8230;]
+The post Combining apparently contradictory evidence appeared first on Statistical &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Check yourself before you wreck yourself: Assessing discrete choice models through predictive simulations”</title>
+      <link>/post/andrewgelman-com-2018-12-29-check-wreck-assessing-discrete-choice-models-predictive-simulations/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-29-check-wreck-assessing-discrete-choice-models-predictive-simulations/</guid>
+      <description>Timothy Brathwaite sends along this wonderfully-titled article (also here, and here&amp;#8217;s the replication code), which begins: Typically, discrete choice modelers develop ever-more advanced models and estimation methods. Compared to the impressive progress in model development and estimation, model-checking techniques have lagged behind. Often, choice modelers use only crude methods to assess how well an estimated [&amp;#8230;]
+The post &amp;#8220;Check &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Top Tweets of 2018</title>
+      <link>/post/maraaverick-rbind-io-2018-12-top-tweets-of-2018/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/maraaverick-rbind-io-2018-12-top-tweets-of-2018/</guid>
+      <description>Top two tweets for each month in 2018, according to Twitter analytics. January Such a 🆒 viz ⚒: &amp;quot;Intro to gghighlight: Highlight ggplot lines &amp;amp; points w/ predicates&amp;quot; by @yutannihilation https://t.co/SPVeKw0UdN #rstats #dataviz pic.twitter.com/VsSpXUZn88 &amp;mdash; Mara Averick (@dataandme) January 28, 2018 ICYMI, .@StephdeSilva&amp;#39;s tips for getting to know your data (also makes for pretty solid relationship advice) 🤓💔https://t.co/LUZe6tpPNq pic.twitter.com/KEdIot3IGo &amp;mdash; Mara Averick (@dataandme) January 21, 2018 February Now on CRAN &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using multilevel modeling to improve analysis of multiple comparisons</title>
+      <link>/post/andrewgelman-com-2018-12-28-using-multilevel-modeling-improve-analysis-multiple-comparisons/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-28-using-multilevel-modeling-improve-analysis-multiple-comparisons/</guid>
+      <description>Justin Chumbley writes: I have mused on drafting a simple paper inspired by your paper &amp;#8220;Why we (usually) don&amp;#8217;t have to worry about multiple comparisons&amp;#8221;. The initial idea is simply to revisit frequentist &amp;#8220;weak FWER&amp;#8221; or &amp;#8220;omnibus tests&amp;#8221; (which assume the null everywhere), connecting it to a Bayesian perspective. To do this, I focus on [&amp;#8230;]
+The post Using multilevel modeling to improve analysis of multiple &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The end of 2018</title>
+      <link>/post/divingintogeneticsandgenomics-rbind-io-post-the-end-of-2018/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/divingintogeneticsandgenomics-rbind-io-post-the-end-of-2018/</guid>
+      <description>It is almost the end of 2018. It is a good time to review what I have achieved during the year and look forward to a brand new 2019. I wrote a similar post for 2017 here.
+Some highlights of the year 2018:  My son Noah Tang was born in April. He is so lovely and we love him so much. Can&amp;rsquo;t believe he is almost 9 months old.  Our epigenomic project was selected by &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Some fun with {gganimate}</title>
+      <link>/post/www-brodrigues-co-blog-2018-12-27-fun-gganimate/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-12-27-fun-gganimate/</guid>
+      <description>Your browser does not support the video tag.   In this short blog post I show you how you can use the {gganimate} package to create animations from {ggplot2} graphs with data from UNU-WIDER.
+WIID data Just before Christmas, UNU-WIDER released a new edition of their World Income Inequality Database:
+&amp;lt;p lang=&amp;ldquo;en&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Back to the Wall</title>
+      <link>/post/andrewgelman-com-2018-12-27-back-to-the-wall/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-27-back-to-the-wall/</guid>
+      <description>Jim Windle writes: Funny you should blog about Jaynes. Just a couple of days ago I was looking for something in his book&amp;#8217;s References/Bibliography (it along with &amp;#8220;Godel, Escher, Bach&amp;#8221; and &amp;#8220;Darwin&amp;#8217;s Dangerous Idea&amp;#8221; have bibliographies which I find not just useful but entertaining), and ran across something I wanted to send you but I [&amp;#8230;]
+The post Back to the Wall appeared first on Statistical Modeling, Causal &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What is probability?</title>
+      <link>/post/andrewgelman-com-2018-12-26-what-is-probability/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-26-what-is-probability/</guid>
+      <description>This came up in a discussion a few years ago, where people were arguing about the meaning of probability: is it long-run frequency, is it subjective belief, is it betting odds, etc? I wrote: Probability is a mathematical concept. I think Martha Smith&amp;#8217;s analogy to points, lines, and arithmetic is a good one. Probabilities are [&amp;#8230;]
+The post What is probability? appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On Marketing (on Social Media)</title>
+      <link>/post/yihui-name-en-2018-12-social-media-marketing/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-12-social-media-marketing/</guid>
+      <description>Both Mara and Hadley disagreed with me when I talked about my concerns on marketing last month. Marketing was not the main topic of that post, and I want to clarify my thoughts in this post. The medium is the message I&amp;rsquo;m not against marketing. I do it myself, too. I definitely agree with Mara&amp;rsquo;s comment that meritocracy is a fantasy: I think there&amp;rsquo;s a tendency to imagine a platonic</description>
+    </item>
+    
+    <item>
+      <title>Deploying Metabase through Heroku App</title>
+      <link>/post/zedr-rbind-io-2018-12-26-deploying-metabase-through-heroku-app/</link>
+      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/zedr-rbind-io-2018-12-26-deploying-metabase-through-heroku-app/</guid>
+      <description>In this mini project, I deployed my first Metabase through the Heroku App. Metabase is an open source business intelligence engine. It allows for company wide sharing of business insights with very little demand for techinical know-how. You can build powerful business data models using SQL and through the menu based report &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Thus, a loss aversion principle is rendered superfluous to an account of the phenomena it was introduced to explain.”</title>
+      <link>/post/andrewgelman-com-2018-12-25-thus-loss-aversion-principle-rendered-superfluous-account-phenomena-introduced-explain/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-25-thus-loss-aversion-principle-rendered-superfluous-account-phenomena-introduced-explain/</guid>
+      <description>What better day than Christmas, that day of gift-giving, to discuss &amp;#8220;loss aversion,&amp;#8221; the purported asymmetry in utility, whereby losses are systematically more painful than gains are pleasant? Loss aversion is a core principle of the heuristics and biases paradigm of psychology and behavioral economics. But it&amp;#8217;s been controversial for a long time. For example, [&amp;#8230;]
+The post &amp;#8220;Thus, a loss aversion principle &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Objects types and some useful R functions for beginners</title>
+      <link>/post/www-brodrigues-co-blog-2018-12-24-modern-objects/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-12-24-modern-objects/</guid>
+      <description>This blog post is an excerpt of my ebook Modern R with the tidyverse that you can read for free here. This is taken from Chapter 2, which explains the different R objects you can manipulate as &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>June is applied regression exam month!</title>
+      <link>/post/andrewgelman-com-2018-12-24-june-is-applied-regression-exam-month/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-24-june-is-applied-regression-exam-month/</guid>
+      <description>So. I just graded the final exams for our applied regression class. Lots of students made mistakes which gave me the feeling that I didn&amp;#8217;t teach the material so well. So I thought it could help lots of people out there if I were to share the questions, solutions, and common errors. It was an [&amp;#8230;]
+The post June is applied regression exam month! appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Zak David expresses critical views of some published research in empirical quantitative finance</title>
+      <link>/post/andrewgelman-com-2018-12-24-zak-david-expresses-critical-views-much-published-research-empirical-quantitative-finance/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-24-zak-david-expresses-critical-views-much-published-research-empirical-quantitative-finance/</guid>
+      <description>In honor of Ebenezer Scrooge, what better time than Christmas Eve to discuss the topic of liquidity in capital markets &amp;hellip; A journalist asked, &amp;#8220;I just wanted to know how bad the problem of data mining is in capital markets compared to other fields, and whether the reasons for false postives in finance [&amp;#8230;]
+The post Zak David expresses critical views of some published research in empirical quantitative finance &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>On Disagreement</title>
+      <link>/post/yihui-name-en-2018-12-on-disagreement/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-12-on-disagreement/</guid>
+      <description>There is a problem with being famous. When you become famous, you may lose some opportunities of hearing other people&amp;rsquo;s disagreements with you. There are a few possible reasons: They may not be confident enough with their own opinions, and think you must be correct when there is a disagreement. They may think you are wrong, but choose not to speak up anyway, because they are worried that everyone else</description>
+    </item>
+    
+    <item>
+      <title>Some Incomplete Papers</title>
+      <link>/post/-post-incomplete/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-post-incomplete/</guid>
+      <description>Not sure if I will ever finish these, but the incomplete versions make it pretty clear what needs to be added to make them complete. It&amp;rsquo;s all perculating somewhere in my head, pretty much formulated, but writing it down is another matter. In the first paper the notion of sharp quadratic majorization is generalized using fans of majorizers. In the second paper formulas are given for the convergence rate of majorization algorithms with equality and/or inequality &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Convergence Rate of Majorization Algorithms with Constraints</title>
+      <link>/post/-publication-constraints/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-publication-constraints/</guid>
+      <description>NA &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Univariate Fans of Majorizers</title>
+      <link>/post/-publication-fans/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-publication-fans/</guid>
+      <description>NA &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“When Both Men and Women Drop Out of the Labor Force, Why Do Economists Only Ask About Men?”</title>
+      <link>/post/andrewgelman-com-2018-12-23-men-women-drop-labor-force-economists-ask-men/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-23-men-women-drop-labor-force-economists-ask-men/</guid>
+      <description>Dean Baker points to this column, where Gregory Mankiw writes: With unemployment at 3.8 percent, its lowest level in many years, the labor market seems healthy. But that number hides a perplexing anomaly: The percentage of men who are neither working nor looking for work has risen substantially over the past several decades&amp;hellip; [&amp;#8230;]
+The post &amp;#8220;When Both Men and Women Drop Out of the Labor Force, Why Do Economists Only Ask About Men?</description>
+    </item>
+    
+    <item>
+      <title>Network for early career researchers in forecasting</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-3j3e6zwe930/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-3j3e6zwe930/</guid>
+      <description>The International Institute of Forecasters has established interest group sections, devoted to specialized domains of forecasting. One of the first such sections will be for early career researchers. So if you are a PhD student, post-doc, or otherwise a relatively junior researcher working in forecasting, this is for you! The first events will be during the ISF in Thessaloniki in June 2019, including the following: ECR welcoming event. A meet and great event prior to the ISF welcome reception.</description>
+    </item>
+    
+    <item>
+      <title>Carol Nickerson explains what those mysterious diagrams were saying</title>
+      <link>/post/andrewgelman-com-2018-12-22-carol-nickerson-explains-mysterious-diagrams-saying/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-22-carol-nickerson-explains-mysterious-diagrams-saying/</guid>
+      <description>A few years ago, James Coyne asked, &amp;#8220;Can you make sense of this diagram?&amp;#8221; and I responded, No, I can&amp;#8217;t. At the time, Carol Nickerson wrote up explanations for two of the figures in the article in question. So if anyone&amp;#8217;s interested, here they are: Carol Nickerson&amp;#8217;s explanation of Figure 2 in Kok et al. [&amp;#8230;]
+The post Carol Nickerson explains what those mysterious diagrams were saying appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A brief history of forecasting competitions</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-l5ep0fj7wqy/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-l5ep0fj7wqy/</guid>
+      <description>Forecasting competitions are now so widespread that it is often forgotten how controversial they were when first held, and how influential they have been over the years. I briefly review the history of forecasting competitions, and discuss what we have learned about their design and implementation, and what they can tell us about forecasting. I also provide a few suggestions for potential future competitions, and for research about forecasting based on competitions.</description>
+    </item>
+    
+    <item>
+      <title>Using the tidyverse for more than data manipulation: estimating pi with Monte Carlo methods</title>
+      <link>/post/www-brodrigues-co-blog-2018-12-21-tidyverse-pi/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-12-21-tidyverse-pi/</guid>
+      <description>This blog post is an excerpt of my ebook Modern R with the tidyverse that you can read for free here. This is taken from Chapter 5, which presents the {tidyverse} packages and how to use them to &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The causal hype ratchet</title>
+      <link>/post/andrewgelman-com-2018-12-21-causal-hype-ratchet/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-21-causal-hype-ratchet/</guid>
+      <description>Noah Haber informs us of a research article, &amp;#8220;Causal language and strength of inference in academic and media articles shared in social media (CLAIMS): A systematic review,&amp;#8221; that he wrote with Emily Smith, Ellen Moscoe, Kathryn Andrews, Robin Audy, Winnie Bell, Alana Brennan, Alexander Breskin, Jeremy Kane, Mahesh Karra, Elizabeth McClure, and Elizabeth Suarez, and [&amp;#8230;]
+The post The causal hype ratchet appeared first on Statistical &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>线性判别分析LDA</title>
+      <link>/post/-zh-post-liner-discriminant-analysis/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-zh-post-liner-discriminant-analysis/</guid>
+      <description>线性判别分析（liner discriminant analysis, LDA）一种常用的数据降维方法，目的是在保持分类的前体下把数据投影至低维空间以降低计算复杂度。 LDA VS PCA &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Exploring model fit by looking at a histogram of a posterior simulation draw of a set of parameters in a hierarchical model</title>
+      <link>/post/andrewgelman-com-2018-12-20-exploring-model-fit-looking-histogram-posterior-simulation-draw-set-parameters-hierarchical-model/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-20-exploring-model-fit-looking-histogram-posterior-simulation-draw-set-parameters-hierarchical-model/</guid>
+      <description>Opher Donchin writes in with a question: We&amp;#8217;ve been finding it useful in the lab recently to look at the histogram of samples from the parameter combined across all subjects. We think, but we&amp;#8217;re not sure, that this reflects the distribution of that parameter when marginalized across subjects and can be a useful visualization. It [&amp;#8230;]
+The post Exploring model fit by looking at a histogram of a posterior &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>listening, EOY 2018</title>
+      <link>/post/ewen-io-2018-12-20-listening-2018/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ewen-io-2018-12-20-listening-2018/</guid>
+      <description>Stuff that slapped / soothed this &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Early classification of spatio-temporal events using time-varying models</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-pxtyytqwco/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-pxtyytqwco/</guid>
+      <description>This paper investigates early event classification in spatio-temporal data streams. We propose a framework for early classification that considers the relationship between the features of an event and its age. The framework incorporates an event extraction algorithm as well as two early event classification algorithms, which use a series of logistic regression classifiers with penalty terms and state space models. We apply this framework to synthetic and real world problems and demonstrate its reliability and broad applicability.</description>
+    </item>
+    
+    <item>
+      <title>When “nudge” doesn’t work:  Medication Reminders to Outcomes After Myocardial Infarction</title>
+      <link>/post/andrewgelman-com-2018-12-19-nudge-doesnt-work-medication-reminders-outcomes-myocardial-infarction/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-19-nudge-doesnt-work-medication-reminders-outcomes-myocardial-infarction/</guid>
+      <description>Gur Huberman points to this news article by Aaron Carroll, &amp;#8220;Don’t Nudge Me: The Limits of Behavioral Economics in Medicine,&amp;#8221; which reports on a recent study by Kevin Volpp et al. that set out &amp;#8220;to determine whether a system of medication reminders using financial incentives and social support delays subsequent vascular events in patients following [&amp;#8230;]
+The post When &amp;#8220;nudge&amp;#8221; doesn&amp;#8217;t work: Medication Reminders to &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A tale of two heatmap functions</title>
+      <link>/post/divingintogeneticsandgenomics-rbind-io-post-a-tale-of-two-heatmap-functions/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/divingintogeneticsandgenomics-rbind-io-post-a-tale-of-two-heatmap-functions/</guid>
+      <description>You probably do not understand heatmap! Please read You probably don’t understand heatmaps by Mick Watson
+In the blog post, Mick used heatmap function in the stats package, I will try to walk you through comparing heatmap, and heatmap.2 from gplots package.
+Before I start, I want to quote this:
+ “The defaults of almost every heat map function in R does the hierarchical clustering first, then scales the rows then &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Netflix Data War</title>
+      <link>/post/simplystatistics-org-2018-12-19-the-netflix-data-war/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simplystatistics-org-2018-12-19-the-netflix-data-war/</guid>
+      <description>A recent article in the Wall Street Journal, &amp;ldquo;At Netflix, Who Wins When It’s Hollywood vs. the Algorithm?&amp;rdquo; by Shalini Ramachandran and Joe Flint details some of the internal debates within Netflix between the Los Angeles-based content team, which is in charge of &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>渴望</title>
+      <link>/post/yihui-name-cn-2018-12-craving/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-12-craving/</guid>
+      <description>关于渴望这个话题，我想写它已经有一阵子了。这里的渴望没有毛阿敏的《渴望》那么高端，只是我成长过程中的一些幼稚的渴望罢了。我第一次明确想到这个</description>
+    </item>
+    
+    <item>
+      <title>主成分分析</title>
+      <link>/post/-zh-post-pricinple-component-analysis/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-zh-post-pricinple-component-analysis/</guid>
+      <description>通常高通量数据中含有很多变量，主成分分析是一种数据降维方法，利用正交变换把原始的可能相关的变量转换为一组正交新变量, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why doesn&#39;t auto.arima() return the model with the lowest AICc value?</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-sidut3kdca0/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-sidut3kdca0/</guid>
+      <description>This question seems to come up frequently on crossvalidated.com or in my inbox. I have this time series, however it yields different results when I use the auto.arima and Arima functions. library(forecast) xd &amp;lt;- ts(c(23786, 25955, 54373, 21561, 14552, 13284, 12714, 11821, 15445, 21307, 17228, 20007, 23065, 32811, 43147, 15127, 13497, 12224, 11412, 11888, 14210,18978, 15782, 17216, 16417, 22861, 42616, 17057, 9741, 10503, 7170, 10686, 9762, 15773, 15280, 13212, 14784, 26104, 29947), frequency = 12, start=c(2014,1), end=c(2017,3)) fit1 &amp;lt;- auto.</description>
+    </item>
+    
+    <item>
+      <title>Classifying yin and yang using MRI</title>
+      <link>/post/andrewgelman-com-2018-12-18-classifying-yin-yang-using-mri/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-18-classifying-yin-yang-using-mri/</guid>
+      <description>Zad Chow writes: I wanted to pass along this study I found a while back that aimed to see whether there was any possible signal in an ancient Chinese theory of depression that classifies major depressive disorder into &amp;#8220;yin&amp;#8221; and &amp;#8220;yang&amp;#8221; subtypes. The authors write the following, The “Yin and Yang” theory is a fundamental [&amp;#8230;]
+The post Classifying yin and yang using MRI appeared first on Statistical Modeling, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Comparing racism from different eras:  If only Tucker Carlson had been around in the 1950s he could’ve been a New York Intellectual.</title>
+      <link>/post/andrewgelman-com-2018-12-18-if-only-tucker-carlson-had-been-around-in-the-1950s-he-couldve-been-a-new-york-intellectual/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-18-if-only-tucker-carlson-had-been-around-in-the-1950s-he-couldve-been-a-new-york-intellectual/</guid>
+      <description>TV commentator Carlson in 2018 recently raised a stir by saying that immigration makes the United States &amp;#8220;poorer, and dirtier, and more divided,&amp;#8221; which reminded me of this rant from literary critic Alfred Kazin in 1957: Kazin put it in his diary and Carlson broadcast it on TV, so not quite the same thing. But [&amp;#8230;]
+The post Comparing racism from different eras: If only Tucker Carlson had been around in the 1950s he &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>PCA in action</title>
+      <link>/post/divingintogeneticsandgenomics-rbind-io-post-pca-in-action/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/divingintogeneticsandgenomics-rbind-io-post-pca-in-action/</guid>
+      <description>PCA in practice. Principle Component Analysis(PCA) is a very important skill for dimention reduction to analyze high-dimentional data. High-dimentional data are data with features (p) a lot more than observations (n). This types of data are very commonly generated from high-throuput sequencing experiments. For example, an RNA-seq or microarry experiment measures expression of tens of thousands of genes for only 8 samples (4 controls and 4 treatments).
+Let’s use a microarray data for demonstration.</description>
+    </item>
+    
+    <item>
+      <title>rcites - The story behind the package</title>
+      <link>/post/ropensci-org-blog-2018-12-18-accessing-cites-data/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-12-18-accessing-cites-data/</guid>
+      <description>The Ecology Hackathon Almost one year ago now, ecologists filled a room for the “Ecology Hackathon: Developing R Packages for Accessing, Synthesizing and Analyzing Ecological Data” that was co-organised by rOpenSci Fellow, Nick Golding and Methods in Ecology and Evolution. This hackathon was part of the “Ecology Across Borders” Joint Annual Meeting 2017 of BES, GfÖ, NecoV, and EEF in Ghent. At different tables, different people joined each other to work on different ideas to implement as R &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>An Introduction to Forecasting</title>
+      <link>/post/www-datascienceblog-net-post-machine-learning-forecasting-an-introduction/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-datascienceblog-net-post-machine-learning-forecasting-an-introduction/</guid>
+      <description>Forecasting is concerned with making predictions about future observations by relying on past measurements. In this article, I will give an introduction how ARMA, ARIMA (Box-Jenkins), SARIMA, and ARIMAX models can be used for forecasting given time-series data. Preliminaries Before we can talk about models for time-series data, we have to introduce two concepts. The backshift operator Given the time series (y = {y_1, y_2, \ldots }), the backshift operator (also called lag operator) is defined &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Why do sociologists (and bloggers) focus on the negative?  5 possible explanations.  (A post in the style of Fabio Rojas)</title>
+      <link>/post/andrewgelman-com-2018-12-17-sociologists-bloggers-focus-negative-6-possible-explanations/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-17-sociologists-bloggers-focus-negative-6-possible-explanations/</guid>
+      <description>Fabio Rojas asks why the academic field of sociology seems so focused on the negative. As he puts it, why doesn&amp;#8217;t the semester begin with the statement, &amp;#8220;Hi, everyone, this is soc 101, the scientific study of society. In this class, I&amp;#8217;ll tell you about how American society is moving in some great directions as [&amp;#8230;]
+The post Why do sociologists (and bloggers) focus on the negative? 5 possible explanations. (A post in the style of Fabio &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>矩阵分解</title>
+      <link>/post/-zh-post-matrix-decomposition/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-zh-post-matrix-decomposition/</guid>
+      <description>特征分解 对于方阵(A)和非零向量(x), 如果(Ax = \lambda x),表征矩阵(A)乘以向量(x)后不改变向量的值，(x)称为 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Surprise-hacking:  “the narrative of blindness and illusion sells, and therefore continues to be the central thesis of popular books written by psychologists and cognitive scientists”</title>
+      <link>/post/andrewgelman-com-2018-12-16-surprise-hacking-the-narrative-of-blindness-and-illusion-sells-and-therefore-continues-to-be-the-central-thesis-of-popular-books-written-by-psychologists-and-cognitive-scientists/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-16-surprise-hacking-the-narrative-of-blindness-and-illusion-sells-and-therefore-continues-to-be-the-central-thesis-of-popular-books-written-by-psychologists-and-cognitive-scientists/</guid>
+      <description>Teppo Felin sends along this article with Mia Felin, Joachim Krueger, and Jan Koenderink on &amp;#8220;surprise-hacking,&amp;#8221; and writes: We essentially see surprise-hacking as the upstream, theoretical cousin of p-hacking. Though, surprise-hacking can&amp;#8217;t be resolved with replication, more data or preregistration. We use perception and priming research to make these points (linking to Kahneman and priming, [&amp;#8230;]
+The post &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; href=&amp;ldquo;https://andrewgelman.com/2018/12/16/surprise-hacking-the-narrative-of-blindness-and-illusion-sells-and-therefore-continues-to-be-the-c &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Manipulate dates easily with {lubridate}</title>
+      <link>/post/www-brodrigues-co-blog-2018-12-15-lubridate-africa/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-12-15-lubridate-africa/</guid>
+      <description>This blog post is an excerpt of my ebook Modern R with the tidyverse that you can read for free here. This is taken from Chapter 5, which presents the {tidyverse} packages and how to use them &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“My advisor and I disagree on how we should carry out repeated cross-validation. We would love to have a third expert opinion…”</title>
+      <link>/post/andrewgelman-com-2018-12-15-advisor-disagree-carry-repeated-cross-validation-love-third-expert-opinion/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-15-advisor-disagree-carry-repeated-cross-validation-love-third-expert-opinion/</guid>
+      <description>Youyou Wu writes: I&amp;#8217;m a postdoc studying scientific reproducibility. I have a machine learning question that I desperately need your help with. My advisor and I disagree on how we should carry out repeated cross-validation. We would love to have a third expert opinion&amp;#8230; I&amp;#8217;m trying to predict whether a study can be successfully replicated [&amp;#8230;]
+The post &amp;#8220;My advisor and I disagree on how we should carry out repeated &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A couple of thoughts regarding the hot hand fallacy fallacy</title>
+      <link>/post/andrewgelman-com-2018-12-14-couple-thoughts-regarding-hot-hand-fallacy-argument/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-14-couple-thoughts-regarding-hot-hand-fallacy-argument/</guid>
+      <description>For many years we all believed the hot hand was a fallacy. It turns out we were all wrong. Fine. Such reversals happen. Anyway, now that we know the score, we can reflect on some of the cognitive biases that led us to stick with the &amp;#8220;hot hand fallacy&amp;#8221; story for so long. Jason Collins [&amp;#8230;]
+The post A couple of thoughts regarding the hot hand fallacy fallacy appeared first on Statistical Modeling, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Oh, I hate it when work is criticized (or, in this case, fails in attempted replications) and then the original researchers don’t even consider the possibility that maybe in their original work they were inadvertently just finding patterns in noise.</title>
+      <link>/post/andrewgelman-com-2018-12-13-oh-hate-work-criticized-case-fails-attempted-replications-original-researchers-dont-even-consider-possibility-maybe-original-work-w/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-13-oh-hate-work-criticized-case-fails-attempted-replications-original-researchers-dont-even-consider-possibility-maybe-original-work-w/</guid>
+      <description>I have a sad story for you today. Jason Collins tells it: In The (Honest) Truth About Dishonesty, Dan Ariely describes an experiment to determine how much people cheat &amp;hellip; The question then becomes how to reduce cheating. Ariely describes one idea: We took a group of 450 participants and split them into [&amp;#8230;]
+The post Oh, I hate it when work is criticized (or, in this case, fails in &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using ggplot2 for functional time series</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-i8fdl-xev4y/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-i8fdl-xev4y/</guid>
+      <description>This week I’ve been attending the Functional Data and Beyond workshop at the Matrix centre in Creswick. I spoke yesterday about using ggplot2 for functional data graphics, rather than the custom-built plotting functionality available in the many functional data packages, including my own rainbow package written with Hanlin Shang. It is a much more powerful and flexible way to work, so I thought it would be useful to share some examples.</description>
+    </item>
+    
+    <item>
+      <title>Time series of Democratic/Republican vote share in House elections</title>
+      <link>/post/andrewgelman-com-2018-12-12-time-series-of-democratic-republican-vote-share-in-house-elections/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-12-time-series-of-democratic-republican-vote-share-in-house-elections/</guid>
+      <description>Yair prepared this graph of average district vote (imputing open seats at 75%/25%; see here for further discussion of this issue) for each House election year since 1976: Decades of Democratic dominance persisted through 1992; since then the two parties have been about even. As has been widely reported, a mixture of geographic factors and [&amp;#8230;]
+The post Time series of Democratic/Republican vote share in House elections appeared first on &amp;lt;a &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data visualization for functional time series</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-qfib74wfw6q/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-qfib74wfw6q/</guid>
+      <description>Presentation to MATRIX Workshop on Functional Data Analysis and Beyond Any good data analysis begins with a careful graphical exploration of the observed data. For functional time series data, this area of statistical analysis has been largely neglected. I will look at the tools that are available such as rainbow plots and functional box plots, and propose several new tools including functional ACF plots, functional season plots, calendar plots, and embedded pairwise distance plots.</description>
+    </item>
+    
+    <item>
+      <title>“Do you have any recommendations for useful priors when datasets are small?”</title>
+      <link>/post/andrewgelman-com-2018-12-11-recommendations-useful-priors-datasets-small/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-11-recommendations-useful-priors-datasets-small/</guid>
+      <description>A statistician who works in the pharmaceutical industry writes: I just read your paper (with Dan Simpson and Mike Betancourt) “The Prior Can Often Only Be Understood in the Context of the Likelihood” and I find it refreshing to read that “the practical utility of a prior distribution within a given analysis then depends critically [&amp;#8230;]
+The post &amp;#8220;Do you have any recommendations for useful priors when datasets are small?&amp;#8221; appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Generating reasonable starting trees for complex phylogenetic analyses</title>
+      <link>/post/ropensci-org-blog-2018-12-11-treestartr/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-12-11-treestartr/</guid>
+      <description>I never really thought I would write an R package. I use R pretty casually. Then, this year, I was invited to participate during the last week of the Analytical Paleobiology short course, an intensive month-long experience in quantitative paleontology. I was thrilled to be invited. But I got a slight sinking feeling in my stomach when I realized all the materials were in R. And so I, a Pythonista, decided I would spend some of my maternity leave writing R packages to try to blend in with students who had spent the month living and breathing &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Role of Theory in Data Analysis</title>
+      <link>/post/simplystatistics-org-2018-12-11-the-role-of-theory-in-data-analysis/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/simplystatistics-org-2018-12-11-the-role-of-theory-in-data-analysis/</guid>
+      <description>In data analysis, we make use of a lot of theory, whether we like to admit it or not. In a traditional statistical training, things like the central limit theorem and the law of large numbers (and their many variations) are deeply baked into our heads. I probably use the central limit theorem everyday in my work, sometimes for the better, and sometimes for the worse. Even if I’m not directly applying a Normal approximation, knowledge of the central limit theorem will often guide my thinking and help me to decide what to do in a given data analytic situation.</description>
+    </item>
+    
+    <item>
+      <title>Prior distributions for covariance matrices</title>
+      <link>/post/andrewgelman-com-2018-12-10-prior-distributions-covariance-matrices/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-10-prior-distributions-covariance-matrices/</guid>
+      <description>Someone sent me a question regarding the inverse-Wishart prior distribution for covariance matrix, as it is the default in some software he was using. Inverse-Wishart does not make sense for prior distribution; it has problems because the shape and scale are tangled. See this paper, &amp;#8220;Visualizing Distributions of Covariance Matrices,&amp;#8221; by Tomoki Tokuda, Ben Goodrich, [&amp;#8230;]
+The post Prior distributions for covariance matrices appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>understatr</title>
+      <link>/post/ewen-io-2018-12-10-understatr/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ewen-io-2018-12-10-understatr/</guid>
+      <description>An understated (cough) project to help folks get hold of tidy football &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Seasonal functional autoregressive models</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-wlpgpid2nke/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-wlpgpid2nke/</guid>
+      <description>Presentation to ACEMS/MATRIX Conference on Functional Data Analysis Functional autoregressive models have been widely used in functional time series analysis, but no attention has been given to handling seasonality within this framework. I will discuss a proposed seasonal functional autoregressive model, and explore some of its statistical properties including stationarity conditions and limiting behaviour. I will also look at methods for estimation and prediction of seasonal functional autoregressive time series of order one.</description>
+    </item>
+    
+    <item>
+      <title>Should we be concerned about MRP estimates being used in later analyses?  Maybe.  I recommend checking using fake-data simulation.</title>
+      <link>/post/andrewgelman-com-2018-12-09-concerned-mrp-estimates-used-later-analyses-maybe-recommend-checking-using-fake-data-simulation/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-09-concerned-mrp-estimates-used-later-analyses-maybe-recommend-checking-using-fake-data-simulation/</guid>
+      <description>Someone sent in a question (see below). I asked if I could post the question and my reply on blog, and the person responded: Absolutely, but please withhold my name because this is becoming a touchy issue within my department. The boldface was in the original. I get this a lot. There seems to be [&amp;#8230;]
+The post Should we be concerned about MRP estimates being used in later analyses? Maybe.</description>
+    </item>
+    
+    <item>
+      <title>Prediction vs Forecasting</title>
+      <link>/post/www-datascienceblog-net-post-machine-learning-forecasting-vs-prediction/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-datascienceblog-net-post-machine-learning-forecasting-vs-prediction/</guid>
+      <description>In supervised learning, we are often concerned with prediction. However, there is also the concept of forecasting. Here, I will discuss the differences between the two concepts so that we can answer the question why weather forecasting is not called weather prediction. Predicion and forecasting Prediction is concerned with estimating the outcomes for unseen data. For this purpose, you fit a model to a training data set, which results in an estimator (\hat{f}(x)) that can make predictions for new samples &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My footnote about global warming</title>
+      <link>/post/andrewgelman-com-2018-12-08-footnote-global-warming/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-08-footnote-global-warming/</guid>
+      <description>At the beginning of my article, How to think scientifically about scientists’ proposals for fixing science, which we discussed yesterday, I wrote: Science is in crisis. Any doubt about this status has surely been been dispelled by the loud assurances to the contrary by various authority figures who are deeply invested in the current system [&amp;#8230;]
+The post My footnote about global warming appeared first on Statistical Modeling, Causal &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Interpreting ROC Curves, Precision-Recall Curves, and AUCs</title>
+      <link>/post/www-datascienceblog-net-post-machine-learning-interpreting-roc-curves-auc/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-datascienceblog-net-post-machine-learning-interpreting-roc-curves-auc/</guid>
+      <description>Receiver operating characteristic (ROC) curves are probably the most commonly used measure for evaluating the predictive performance of scoring classifiers. The confusion matrix of a classifier that predicts a positive class (+1) and a negative class (-1) has the following structure: Prediction/Reference Class +1 -1 +1 TP FP -1 FN TN Here, TP indicates the number of true positives (model predicts positive class correctly), FP indicates the number of false positives (model incorrectly predicts positive class), FN indicates the number of false negatives (model incorrectly predicts negative &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Latour Sokal NYT</title>
+      <link>/post/andrewgelman-com-2018-12-07-40828/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-07-40828/</guid>
+      <description>Alan Sokal writes: I don&amp;#8217;t know whether you saw the NYT Magazine&amp;#8217;s fawning profile of sociologist of science Bruno Latour about a month ago. I wrote to the author, and later to the editor, to critique the gross lack of balance (and even of the most minimal fact-checking). No reply. So I posted my critique [&amp;#8230;]
+The post Latour Sokal NYT appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Inference vs Prediction</title>
+      <link>/post/www-datascienceblog-net-post-commentary-inference-vs-prediction/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-datascienceblog-net-post-commentary-inference-vs-prediction/</guid>
+      <description>The terms inference and prediction both describe tasks where we learn from data in a supervised manner in order to find a model that describes the relationship between the independent variables and the outcome. Inference and prediction, however, diverge when it comes to the use of the resulting model: Inference: Use the model to learn about the data generation process. Prediction: Use the model to predict the outcomes for new data &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A parable regarding changing standards on the presentation of statistical evidence</title>
+      <link>/post/andrewgelman-com-2018-12-06-parable-regarding-changing-standards-presentation-statistical-evidence/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-06-parable-regarding-changing-standards-presentation-statistical-evidence/</guid>
+      <description>Now, the P-value Sneetches Had tables with stars. The Bayesian Sneetches Had none upon thars. Those stars weren’t so big. They were really so small. You might think such a thing wouldn’t matter at all. But, because they had stars, all the P-value Sneetches Would brag, “We’re the best kind of Sneetch on the Beaches. [&amp;#8230;]
+The post A parable regarding changing standards on the presentation of statistical evidence appeared first on &amp;lt;a &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>High-dimensional time series analysis</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-yz-wbhrbn0k/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-yz-wbhrbn0k/</guid>
+      <description>Presentation to the Australasian Actuarial Education and Research Symposium It is becoming increasingly common for organizations to collect huge amounts of data over time. Traditional time series methods are not well suited to this new paradigm. I will review some new tools that have been developed to analyse large collections of time series including visualization, anomaly detection and forecasting. Data visualization is essential for exploring and understanding structures and patterns, and to identify unusual observations.</description>
+    </item>
+    
+    <item>
+      <title>Niall Ferguson and the perils of playing to your audience</title>
+      <link>/post/andrewgelman-com-2018-12-05-niall-ferguson-perils-playing-audience/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-05-niall-ferguson-perils-playing-audience/</guid>
+      <description>History professor Niall Ferguson had another case of the sillies. Back in 2012, in response to Stephen Marche&amp;#8217;s suggestion that Ferguson was serving up political hackery because &amp;#8220;he has to please corporations and high-net-worth individuals, the people who can pay 50 to 75K to hear him talk,&amp;#8221; I wrote: But I don’t think it’s just [&amp;#8230;]
+The post Niall Ferguson and the perils of playing to your audience appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; href=&amp;ldquo;https://andrewgelm &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Community Call - Governance strategies for open source research software projects</title>
+      <link>/post/ropensci-org-blog-2018-12-05-commcall-dec2018/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-12-05-commcall-dec2018/</guid>
+      <description>🎤 Dan Sholler, rOpenSci Postdoctoral Fellow 🕘 Tuesday, December 18, 2018, 10-11AM PST; 7-8PM CET (find your timezone) ☎️ Details for joining the Community Call. Everyone is welcome. No RSVP needed. Researchers use open source software for the capabilities it provides, such as streamlined data access and analysis and interoperability with other pieces of the scientific computing ecosystem. For most complex software, generating these technical capabilities requires building and governing a community via sound management practices, activities that are often less visible than code contributions &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Bayes, statistics, and reproducibility:  “Many serious problems with statistics in practice arise from Bayesian inference that is not Bayesian enough, or frequentist evaluation that is not frequentist enough, in both cases using replication distributions that do not make scientific sense or do not reflect the actual procedures being performed on the data.”</title>
+      <link>/post/andrewgelman-com-2018-12-04-bayes-statistics-reproducibility-many-serious-problems-statistics-practice-arise-bayesian-inference-not-bayesian-enough-frequentist-evaluation-not-frequentist/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-04-bayes-statistics-reproducibility-many-serious-problems-statistics-practice-arise-bayesian-inference-not-bayesian-enough-frequentist-evaluation-not-frequentist/</guid>
+      <description>This is an abstract I wrote for a talk I didn&amp;#8217;t end up giving. (The conference conflicted with something else I had to do that week.) But I thought it might interest some of you, so here it is: Bayes, statistics, and reproducibility The two central ideas in the foundations of statistics&amp;#8212;Bayesian inference and frequentist [&amp;#8230;]
+The post Bayes, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Statistical insights into public opinion and politics” (my talk for the Columbia Data Science Society this Wed 9pm)</title>
+      <link>/post/andrewgelman-com-2018-12-04-statistical-insights-into-public-opinion-and-politics-my-talk-for-the-columbia-data-science-society-this-wed-9pm/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-04-statistical-insights-into-public-opinion-and-politics-my-talk-for-the-columbia-data-science-society-this-wed-9pm/</guid>
+      <description>7pm in Fayerweather 310: Why is it more rational to vote than to answer surveys (but it used to be the other way around)? How does this explain why we should stop overreacting to swings in the polls? How does modern polling work? What are the factors that predict election outcomes? What&amp;#8217;s good and bad [&amp;#8230;]
+The post &amp;#8220;Statistical insights into public opinion and politics&amp;#8221; (my talk for the &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Detecting spatiotemporal groups in relocation data with spatsoc</title>
+      <link>/post/ropensci-org-blog-2018-12-04-spatsoc/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-12-04-spatsoc/</guid>
+      <description>spatsoc is an R package written by Alec Robitaille, Quinn Webber and Eric Vander Wal of the Wildlife Evolutionary Ecology Lab (WEEL) at Memorial University of Newfoundland. It is the lab&amp;rsquo;s first R package and was recently accepted through the rOpenSci onboarding process with a big thanks to reviewers Priscilla Minotti and Filipe Teixeira, and editor Lincoln Mullen. spatsoc started as a single function (what would eventually become group_pts) written by Alec in 2017 to help answer some of the questions that Quinn and Eric were asking about how animal social structure is related to &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Performance Measures for Multi-Class Problems</title>
+      <link>/post/www-datascienceblog-net-post-machine-learning-performance-measures-multi-class-problems/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-datascienceblog-net-post-machine-learning-performance-measures-multi-class-problems/</guid>
+      <description>For classification problems, classifier performance is typically defined according to the confusion matrix associated with the classifier. Based on the entries of the matrix, it is possible to compute sensitivity (recall), specificity, and precision. For a single cutoff, these quantities lead to balanced accuracy (sensitivity and specificity) or to the F1-score (recall and precision). For evaluate a scoring classifier at multiple cutoffs, these quantities can be used to determine the area under the ROC curve (AUC) or the area under the precision-recall curve &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R, Open Science, and Reproducible Research</title>
+      <link>/post/www-pzhao-org-en-talk-2018-12-03-ross/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-pzhao-org-en-talk-2018-12-03-ross/</guid>
+      <description>NA &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>In which I demonstrate my ignorance of world literature</title>
+      <link>/post/andrewgelman-com-2018-12-03-demonstrate-ignorance-world-literature/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-03-demonstrate-ignorance-world-literature/</guid>
+      <description>Fred Buchanan, a student at Saint Anselm’s Abbey School, writes: I’m writing a paper on the influence of Jorge Luis Borges in academia, in particular his work “The Garden of Forking Paths”. I noticed that a large number of papers from a wide array of academic fields include references to this work. Your paper, “The [&amp;#8230;]
+The post In which I demonstrate my ignorance of world literature appeared first on Statistical Modeling, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My talk tomorrow (Tues) noon at the Princeton University Psychology Department</title>
+      <link>/post/andrewgelman-com-2018-12-03-my-talk-tomorrow-tues-at-the-princeton-university-psychology-department/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-03-my-talk-tomorrow-tues-at-the-princeton-university-psychology-department/</guid>
+      <description>Integrating collection, analysis, and interpretation of data in social and behavioral research Andrew Gelman, Department of Statistics and Department of Political Science, Columbia University The replication crisis has made us increasingly aware of the flaws of conventional statistical reasoning based on hypothesis testing. The problem is not just a technical issue with p-values, not can [&amp;#8230;]
+The post My talk tomorrow (Tues) noon at the Princeton &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>StanCon 2018 Helsinki talk slides, notebooks and code online</title>
+      <link>/post/andrewgelman-com-2018-12-03-stancon-2018-helsinki-talk-slides-notebooks-and-code-online/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-03-stancon-2018-helsinki-talk-slides-notebooks-and-code-online/</guid>
+      <description>StanCon 2018 Helsinki talk slides, notebooks and code have been available for some time in StanCon talks repository, but it seems we forgot to announce this. The StanCon 2018 Helsinki talk list includes also links to videos. StanCon’s version of conference proceedings is a collection of contributed talks based on interactive notebooks. Every submission is [&amp;#8230;]
+The post StanCon 2018 Helsinki talk slides, notebooks and code online appeared first on &amp;lt;a &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>What hyper-parameters are, and what to do with them; an illustration with ridge regression</title>
+      <link>/post/www-brodrigues-co-blog-2018-12-02-hyper-parameters/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-12-02-hyper-parameters/</guid>
+      <description>This blog post is an excerpt of my ebook Modern R with the tidyverse that you can read for free here. This is taken from Chapter 7, which deals with statistical models. In the text below, I explain what hyper-parameters &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The p-value is 4.76×10^−264</title>
+      <link>/post/andrewgelman-com-2018-12-02-p-value-4-76x10-e2-88-92264/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-02-p-value-4-76x10-e2-88-92264/</guid>
+      <description>Jerrod Anderson points us to Table 1 of this paper: It seems that the null hypothesis that this particular group of men and this particular group of women are random samples from the same population, is false. Good to know. For a moment there I was worried. On the plus side, as Anderson notes, the [&amp;#8230;]
+The post The p-value is 4.76×10^−264 appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Behind the Scenes: The First Month of datascienceblog.net</title>
+      <link>/post/www-datascienceblog-net-post-other-blog-summary-month-01/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-datascienceblog-net-post-other-blog-summary-month-01/</guid>
+      <description>By now, datascienceblog.net already exists for one month, with the first post dating back to the 16th of October, 2018. I would like to use this opportunity to reflect on how the blog has developed since its inception. Content I am quite happy with the amount of content I could produce over the last couple of weeks. Especially when starting a blog, high-quality content is the most important criterion for developing a user &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“James Watson in his own words”</title>
+      <link>/post/andrewgelman-com-2018-12-01-james-watson-words/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-12-01-james-watson-words/</guid>
+      <description>Here are some thoughts from the noted biologist and writer, collected by Lior Pachter. I&amp;#8217;d seen a few of these Watson quotes before, but it&amp;#8217;s kinda stunning to see them all in one place. Apparently he recommends never adopting an Irish kid. All right, then.
+The post &amp;#8220;James Watson in his own words&amp;#8221; appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Forecasting competitions</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-kfxtw20zzdo/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-kfxtw20zzdo/</guid>
+      <description>Presentation for the Monash Executive MBA students&amp;lt;img src=&amp;ldquo;http://feeds.feedburner.com/~r/ProfessorRobJHyndman/~4/KFxTW20zzDo&amp;quot; height=&amp;ldquo;1&amp;rdquo; width=&amp;ldquo;1&amp;rdquo; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stephen Wolfram explains neural nets</title>
+      <link>/post/andrewgelman-com-2018-11-30-stephen-wolfram-explains-neural-nets/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-30-stephen-wolfram-explains-neural-nets/</guid>
+      <description>It&amp;#8217;s easy to laugh at Stephen Wolfram, and I don&amp;#8217;t like some of his business practices, but he&amp;#8217;s an excellent writer and is full of interesting ideas. This long introduction to neural network prediction algorithms is an example. I have no idea if Wolfram wrote this book chapter himself or if he hired one of [&amp;#8230;]
+The post Stephen Wolfram explains neural nets appeared first on Statistical Modeling, Causal &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>老人的故事</title>
+      <link>/post/yihui-name-cn-2018-11-elder-stories/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-elder-stories/</guid>
+      <description>读了一篇读者来信和编者回信，讲的是一位绝望的读者，作为一个三十五岁的青年妇女，觉得自己的一生失败透顶、一事无成、形影相吊。读完来信，我停了两</description>
+    </item>
+    
+    <item>
+      <title>“And when you did you weren’t much use, you didn’t even know what a peptide was”</title>
+      <link>/post/andrewgelman-com-2018-11-29-werent-much-use-didnt-even-know-peptide/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-29-werent-much-use-didnt-even-know-peptide/</guid>
+      <description>Last year we discussed the story of an article, &amp;#8220;Variation in the β-endorphin, oxytocin, and dopamine receptor genes is associated with different dimensions of human sociality,&amp;#8221; published in PNAS that, notoriously, misidentified what a peptide was, among other problems. Recently I learned of a letter published in PNAS by Patrick Jern, Karin Verweij, Fiona Barlow, [&amp;#8230;]
+The post &amp;#8220;And when you did you weren&amp;#8217;t much use, you didn&amp;#8217;t even know what a &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Community Call Summary - Code Review in the Lab</title>
+      <link>/post/ropensci-org-blog-2018-11-29-codereview/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-11-29-codereview/</guid>
+      <description>Although there are increasing incentives and pressures for researchers to share code (even for projects that are not essentially computational), practices vary widely and standards are mostly non-existent. The practice of reviewing code then falls to researchers and research groups before publication. With that in mind, rOpenSci hosted a discussion thread and a community call to bring together different researchers for a conversation about current practices, and challenges in reviewing code in the &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>是人格造就了伟大的科学家</title>
+      <link>/post/-cn-2018-11-gene-editing-baby/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-cn-2018-11-gene-editing-baby/</guid>
+      <description>从昨天开始，一个消息刷屏了：第一个基因编辑婴儿在中国诞生。 昨天上午看到这个消息的时候，心里觉得很震惊，等点开看了内容后，心里升起一股凉气，继</description>
+    </item>
+    
+    <item>
+      <title>M4 Forecasting Conference</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-9pd8iuqa-go/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-9pd8iuqa-go/</guid>
+      <description>Following the highly successful M4 Forecasting Competition, there will be a conference held on 10-11 December at Tribeca Rooftop, New York, to discuss the results. The conference will elaborate on the findings of the M4 Competition, with prominent speakers from leading business firms (Amazon, Uber, Google, Microsoft, SAS, and ProLogistica) and top universities. Nassim Nicholas Taleb will deliver a keynote address about uncertainty in forecasting and elaborate on his claims that &amp;ldquo;tail risks are much worse now than in 2007&amp;rdquo; while Spyros Makridakis will discuss how organizations can &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Another Stan related job in baseball!</title>
+      <link>/post/andrewgelman-com-2018-11-27-another-stan-related-job-in-baseball/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-27-another-stan-related-job-in-baseball/</guid>
+      <description>This quick post is for any Stan users out there who are interested in working in baseball. The Los Angeles Angels are looking to hire a Director of Quantitative Analysis and they are particularly interested in candidates with experience fitting models with Stan. If you are interested please see the full job posting.
+The post Another Stan related job in baseball! appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My sublime text setup (and packages)</title>
+      <link>/post/-post-2018-11-27-my-sublime-text-setup-for-markdown-writing/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/-post-2018-11-27-my-sublime-text-setup-for-markdown-writing/</guid>
+      <description>I’ve been using Sublime Text as my main editor for a long time. But sometimes when I upgrade my system or use it on a new machine, my perfect setup would be lost.
+So that’s the aim of this post: to preserve my sublime text setup.
+Markdown Based on this fantastic post by Marius Schulz
+ Monokai Extended
+Good highlighting for markdown editiong
+ Markdown &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>$ vs. votes</title>
+      <link>/post/andrewgelman-com-2018-11-27-vs-votes/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-27-vs-votes/</guid>
+      <description>Carlos Cruz writes: Here&amp;#8217;s an economics joke. Two economists are walking along when they happen to end up in front of a Tesla showroom. One economist points to a shiny new car and says, &amp;#8220;I want that!&amp;#8221; The other economist replies, &amp;#8220;You&amp;#8217;re lying.&amp;#8221; The premise of this joke is that if the one economist had [&amp;#8230;]
+The post $ vs. votes appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Co-localization analysis of fluorescence microscopy images</title>
+      <link>/post/ropensci-org-blog-2018-11-27-colocr/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-11-27-colocr/</guid>
+      <description>A few months ago, I wasn&amp;rsquo;t sure what to expect when looking at fluorescence microscopy images in published papers. I looked at the accompanying graph to understand the data or the point the authors were trying to make. Often, the graph represents one or more measures of the so-called co-localization, but I couldn’t figure out how to interpret them. It turned out; reading the images is simple. Cells are simultaneously stained by two dyes (say, red and green) for two different &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>脱不花的三盏灯</title>
+      <link>/post/yihui-name-cn-2018-11-tuo-bu-hua/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-tuo-bu-hua/</guid>
+      <description>2018 年已经只剩下一个月。这一年我在微信上可以说只读到了一篇好文章，那便是脱不花的自述《照亮我职业生涯的3盏灯——奥美大神、易筋经和大和尚》。众</description>
+    </item>
+    
+    <item>
+      <title>Feature-based time series analysis</title>
+      <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-khxtvfwwadc/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-khxtvfwwadc/</guid>
+      <description>Presentation to the Monash international workshop on time series and panel data It is becoming increasingly common for organizations to collect very large amounts of data over time. Data visualization is essential for exploring and understanding structures and patterns, and to identify unusual observations. However, the sheer quantity of data available means that new time series visualisation methods are needed. I will demonstrate an approach to this problem using a vector of features on each time series, measuring characteristics of the series.</description>
+    </item>
+    
+    <item>
+      <title>“Economic predictions with big data” using partial pooling</title>
+      <link>/post/andrewgelman-com-2018-11-26-economic-predictions-big-data-using-partial-pooling/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-26-economic-predictions-big-data-using-partial-pooling/</guid>
+      <description>Tom Daula points us to this post, &amp;#8220;Economic Predictions with Big Data: The Illusion of Sparsity,&amp;#8221; by Domenico Giannone, Michele Lenza, and Giorgio Primiceri, and writes: The paper wants to distinguish between variable selection (sparse models) and shrinkage/regularization (dense models) for forecasting with Big Data. &amp;#8220;We then conduct Bayesian inference on these two crucial parameters—model [&amp;#8230;]
+The post &amp;#8220;Economic predictions with big &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>文明及其缺憾</title>
+      <link>/post/yihui-name-cn-2018-11-civilization-and-its-discontents/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-civilization-and-its-discontents/</guid>
+      <description>最近翻着一本弗洛伊德的书，叫《文明及其缺憾》（这里的缺憾我感觉译作不满好像更好一点），到今天早上看完。上次看弗洛伊德应该是大二的时候了，大约</description>
+    </item>
+    
+    <item>
+      <title>再论如何完成自己不喜欢的事情</title>
+      <link>/post/yihui-name-cn-2018-11-gtd-when-you-dont-like-it/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-gtd-when-you-dont-like-it/</guid>
+      <description>几个月前我提过一篇关于如何做自己不喜欢的事情的文章，今天再来一篇。这篇发表在 ACM Queue 杂志上。这种治疗拖延症的文章我已读了无数，所以闭着眼也能猜出</description>
+    </item>
+    
+    <item>
+      <title>A tutorial on tidy cross-validation with R</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-25-tidy-cv/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-11-25-tidy-cv/</guid>
+      <description>Introduction This blog posts will use several packages from the {tidymodels} collection of packages, namely {recipes}, &amp;lt;a href=&amp;ldquo;https://tidymodels.github.io/rsa &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>These 3 problems destroy many clinical trials (in context of some papers on problems with non-inferiority trials, or problems with clinical trials in general)</title>
+      <link>/post/andrewgelman-com-2018-11-25-3-problems-destroy-many-clinical-trials-context-papers-problems-non-inferiority-trials-problems-clinical-trials-general/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-25-3-problems-destroy-many-clinical-trials-context-papers-problems-non-inferiority-trials-problems-clinical-trials-general/</guid>
+      <description>Paul Alper points to this news article in Health News Review, which says: A news release or story that proclaims a new treatment is “just as effective” or “comparable to” or “as good as” an existing therapy might spring from a non-inferiority trial. Technically speaking, these studies are designed to test whether an intervention is [&amp;#8230;]
+The post These 3 problems destroy many clinical trials (in &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>文非加粗描红不能读也？</title>
+      <link>/post/yihui-name-cn-2018-11-moron-readers/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-moron-readers/</guid>
+      <description>去年我说淡出微信的时候，槽点里留下了微信公众号没有展开说。其实我后来在说配图问题的时候已经算是开启了对它的吐槽。如今我是越来越烦公众号文章的</description>
+    </item>
+    
+    <item>
+      <title>The evolution of pace in popular movies</title>
+      <link>/post/andrewgelman-com-2018-11-24-evolution-pace-popular-movies/</link>
+      <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-24-evolution-pace-popular-movies/</guid>
+      <description>James Cutting writes: Movies have changed dramatically over the last 100 years. Several of these changes in popular English-language filmmaking practice are reflected in patterns of film style as distributed over the length of movies. In particular, arrangements of shot durations, motion, and luminance have altered and come to reflect aspects of the narrative form. [&amp;#8230;]
+The post The evolution of pace in popular movies appeared first on &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; href=&amp;ldquo;https://andrewgelman.</description>
+    </item>
+    
+    <item>
+      <title>Hey!  There are mathematicians out there who’ve never read Proofs and Refutations.  Whassup with that??</title>
+      <link>/post/andrewgelman-com-2018-11-23-hey-mathematicians-whove-never-read-proofs-refutations-whassup/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-23-hey-mathematicians-whove-never-read-proofs-refutations-whassup/</guid>
+      <description>I ran into a colleague the other day who&amp;#8217;d never read Proofs and Refutations (full title: Proofs and Refutations: The Logic of Mathematical Discovery). He&amp;#8217;d never even heard of it!
+The post Hey! There are mathematicians out there who&amp;#8217;ve never read Proofs and Refutations. Whassup with that?? appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How To Convert A Human To Waves By Magick Package</title>
+      <link>/post/yutani-rbind-io-post-how-to-convert-a-human-to-waves-by-magick-package/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yutani-rbind-io-post-how-to-convert-a-human-to-waves-by-magick-package/</guid>
+      <description>I saw this tweet about Mathematica last year, which naturally urged me to write the R version of this code. Mathematicaを使って，シュレーディンガーの顔をこのようなアニメーションにされたユーザの方が</description>
+    </item>
+    
+    <item>
+      <title>“She also observed that results from smaller studies conducted by NGOs – often pilot studies – would often look promising. But when governments tried to implement scaled-up versions of those programs, their performance would drop considerably.”</title>
+      <link>/post/andrewgelman-com-2018-11-22-also-observed-results-smaller-studies-conducted-ngos-often-pilot-studies-often-look-promising-governments-tried-implement-scaled-versions/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-22-also-observed-results-smaller-studies-conducted-ngos-often-pilot-studies-often-look-promising-governments-tried-implement-scaled-versions/</guid>
+      <description>Robert Wiblin writes: If we have a study on the impact of a social program in a particular place and time, how confident can we be that we’ll get a similar result if we study the same program again somewhere else? Dr Eva Vivalt &amp;hellip; compiled a huge database of impact evaluations in [&amp;#8230;]
+The post &amp;#8220;She also observed that results from smaller studies conducted by NGOs – often &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Non-coding Class Switch Recombination-Related Transcription in Human Normal and Pathological Immune Responses</title>
+      <link>/post/lcolladotor-github-io-publication-nccsr/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lcolladotor-github-io-publication-nccsr/</guid>
+      <description>NA &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The best way to visit Luxembourguish castles is doing data science &#43; combinatorial optimization</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-21-lux-castle/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-11-21-lux-castle/</guid>
+      <description>Inspired by David Schoch’s blog post, Traveling Beerdrinker Problem. Check out his blog, he has some amazing posts!
+Introduction Luxembourg, as any proper European country, is full of castles. According to Wikipedia,
+“By some optimistic &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A Bayesian take on ballot order effects</title>
+      <link>/post/andrewgelman-com-2018-11-21-bayesian-take-ballot-order-effects/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-21-bayesian-take-ballot-order-effects/</guid>
+      <description>Dale Lehman sends along a paper, &amp;#8220;The ballot order effect is huge: Evidence from Texas,&amp;#8221; by Darren Grant, which begins: Texas primary and runoff elections provide an ideal test of the ballot order hypothesis, because ballot order is randomized within each county and there are many counties and contests to analyze. Doing so for all [&amp;#8230;]
+The post A Bayesian take on ballot order effects appeared first on Statistical &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>盲人 R 用户</title>
+      <link>/post/yihui-name-cn-2018-11-blind-r-users/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-blind-r-users/</guid>
+      <description>2014 年在洛杉矶的 R 会议上我第一次遇到一位盲人 R 用户。确切地说是我一次看见盲人使用电脑。他叫 Jonathan Godfrey，从新西兰过来。在那次接触中，我才第</description>
+    </item>
+    
+    <item>
+      <title>“The hype economy”</title>
+      <link>/post/andrewgelman-com-2018-11-20-the-hype-economy/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-20-the-hype-economy/</guid>
+      <description>Palko writes: I have no idea whether it is real or apocryphal, but there&amp;#8217;s an often referred to study with primates where the they earned tokens that could be exchanged for food. According to the standard version, the subjects soon came to value those tokens more than the treats they could be exchanged for. The [&amp;#8230;]
+The post &amp;#8220;The hype economy&amp;#8221; appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Checklist Recipe - How we created a template to standardize species data</title>
+      <link>/post/ropensci-org-blog-2018-11-20-checklist-recipe/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-11-20-checklist-recipe/</guid>
+      <description>Imagine you are a fish ecologist who compiled a list of fish species for your country. 🐟 Your list could be useful to others, so you publish it as a supplementary file to an article or in a research repository. That is fantastic, but it might be difficult for others to discover your list or combine it with other lists of species. Luckily there&amp;rsquo;s a better way to publish species lists: as a standardized checklist that can be harvested and processed by the Global Biodiversity Information Facility &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>加餐</title>
+      <link>/post/yihui-name-cn-2018-11-eat-more/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-eat-more/</guid>
+      <description>我第一次在诗词中接触到加餐这个词是前几年看《古诗十九首》的第一首《行行重行行》，最后一句是努力加餐饭。当时觉得在浓浓古风中突然来这么一句现代</description>
+    </item>
+    
+    <item>
+      <title>Tom Wolfe</title>
+      <link>/post/andrewgelman-com-2018-11-19-tom-wolfe/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-19-tom-wolfe/</guid>
+      <description>I&amp;#8217;m a big Tom Wolfe fan. My favorites are The Painted Word and From Bauhaus to Our House, and I have no patience for the boosters (oh, sorry, &amp;#8220;experts&amp;#8221;) of modern art of the all-black-painting variety or modern architecture of the can&amp;#8217;t-find-the-front-door variety who can&amp;#8217;t handle Wolfe&amp;#8217;s criticism. I also enjoyed Bonfire of the Vanities, [&amp;#8230;]
+The post Tom Wolfe appeared first on Statistical Modeling, Causal Inference, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>编程之道</title>
+      <link>/post/yihui-name-cn-2018-11-tao-of-programming/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-tao-of-programming/</guid>
+      <description>有好事之歪果仁用《道德经》和《论语》体写了一篇《编程之道》。这种中西结合的文风读起来很逗，用了不少中国文化里的典故，如庄生梦蝶、庖丁解牛，不</description>
+    </item>
+    
+    <item>
+      <title>Graphs and tables, tables and graphs</title>
+      <link>/post/andrewgelman-com-2018-11-18-graphs-tables-tables-graphs/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-18-graphs-tables-tables-graphs/</guid>
+      <description>Jesse Wolfhagen writes: I was surprised to see a reference to you in a Quartz opinion piece entitled &amp;#8220;Stop making charts when a table is better&amp;#8221;. While the piece itself makes that case that there are many kinds of charts that are simply restatements of tabular data, I was surprised that you came up as [&amp;#8230;]
+The post Graphs and tables, tables and graphs appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Using numbers to replace judgment”</title>
+      <link>/post/andrewgelman-com-2018-11-17-using-numbers-replace-judgment/</link>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-17-using-numbers-replace-judgment/</guid>
+      <description>Julian Marewski and Lutz Bornmann write: In science and beyond, numbers are omnipresent when it comes to justifying different kinds of judgments. Which scientific author, hiring committee-member, or advisory board panelist has not been confronted with page-long &amp;#8220;publication manuals&amp;#8221;, &amp;#8220;assessment reports&amp;#8221;, &amp;#8220;evaluation guidelines&amp;#8221;, calling for p-values, citation rates, h-indices, or other statistics in order to [&amp;#8230;]
+The post &amp;#8220;Using numbers to &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Using a genetic algorithm for the hyperparameter optimization of a SARIMA model</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-16-rgenoud-arima/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-11-16-rgenoud-arima/</guid>
+      <description>Introduction In this blog post, I’ll use the data that I cleaned in a previous blog post, which you can download here. If you want to follow along, download the monthly data. In my &amp;lt;a href=&amp;ldquo;https://www.brodrigues.co/blog/2018-11- &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>2018: How did people actually vote? (The real story, not the exit polls.)</title>
+      <link>/post/andrewgelman-com-2018-11-16-2018-how-did-people-actually-vote-the-real-story-not-the-exit-polls/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-16-2018-how-did-people-actually-vote-the-real-story-not-the-exit-polls/</guid>
+      <description>Following up on the post that we linked to last week, here&amp;#8217;s Yair&amp;#8217;s analysis, using Mister P, of how everyone voted. Like Yair, I think these results are much better than what you&amp;#8217;ll see from exit polls, partly because the analysis is more sophisticated (MRP gives you state-by-state estimates in each demographic group), partly because [&amp;#8230;]
+The post 2018: How did people actually vote? (The real story, not the exit polls.</description>
+    </item>
+    
+    <item>
+      <title>Hey, check this out:  Columbia’s Data Science Institute is hiring research scientists and postdocs!</title>
+      <link>/post/andrewgelman-com-2018-11-16-hey-check-this-out-columbias-data-science-institute-is-hiring-research-scientists-and-postdocs/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-16-hey-check-this-out-columbias-data-science-institute-is-hiring-research-scientists-and-postdocs/</guid>
+      <description>Here&amp;#8217;s the official announcement: The Institute’s Postdoctoral and Research Scientists will help anchor Columbia’s presence as a leader in data-science research and applications and serve as resident experts in fostering collaborations with the world-class faculty across all schools at Columbia University. They will also help guide, plan and execute data-science research, applications and technological innovations [&amp;#8230;]
+The post &amp;lt;a rel=&amp;ldquo;nofollow&amp;rdquo; href=&amp;ldquo;https://andrewgelman.com/2018/11/16/hey-check-this-out-columbias-data-science-institute-is-hiring-research-scientists-and-p &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Searching for the optimal hyper-parameters of an ARIMA model in parallel: the tidy gridsearch approach</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-15-tidy-gridsearch/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-11-15-tidy-gridsearch/</guid>
+      <description>Introduction In this blog post, I’ll use the data that I cleaned in a previous blog post, which you can download here. If you want to follow along, download the monthly data.
+In the previous blog post, I used the &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The State of the Art</title>
+      <link>/post/andrewgelman-com-2018-11-15-the-state-of-the-art/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-15-the-state-of-the-art/</guid>
+      <description>Christie Aschwanden writes: Not sure you will remember, but last fall at our panel at the World Conference of Science Journalists I talked with you and Kristin Sainani about some unconventional statistical methods being used in sports science. I’d been collecting material for a story, and after the meeting I sent the papers to Kristin. [&amp;#8230;]
+The post The State of the Art appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Easy time-series prediction with R: a tutorial with air traffic data from Lux Airport</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-14-luxairport/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-11-14-luxairport/</guid>
+      <description>In this blog post, I will show you how you can quickly and easily forecast a univariate time series. I am going to use data from the EU Open Data Portal on air passenger transport. You can find the data here. I downloaded the data in the TSV format for Luxembourg Airport, but you could repeat the analysis for any &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Robustness checks are a joke</title>
+      <link>/post/andrewgelman-com-2018-11-14-robustness-checks-joke/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-14-robustness-checks-joke/</guid>
+      <description>Someone pointed to this post from a couple years ago by Uri Simonsohn, who correctly wrote: Robustness checks involve reporting alternative specifications that test the same hypothesis. Because the problem is with the hypothesis, the problem is not addressed with robustness checks. Simonsohn followed up with an amusing story: To demonstrate the problem I [Simonsohn] [&amp;#8230;]
+The post Robustness checks are a joke appeared first on Statistical &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Chocolate milk!  Another stunning discovery from an experiment on 24 people!</title>
+      <link>/post/andrewgelman-com-2018-11-13-chocolate-milk-another-stunning-discovery-experiment-24-people/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-13-chocolate-milk-another-stunning-discovery-experiment-24-people/</guid>
+      <description>Mike Hull writes: I was reading over this JAMA Brief Report and could not figure out what they were doing with the composite score. Here are the cliff notes: Study tested milk vs dark chocolate consumption on three eyesight performance parameters: (1) High-contrast visual acuity (2) Small-letter contrast sensitivity (3) Large-letter contrast sensitivity Only small-letter [&amp;#8230;]
+The post Chocolate milk! Another stunning discovery from an experiment on 24 &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Data Science Studio</title>
+      <link>/post/andriy-rbind-io-project-data-science-studio/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andriy-rbind-io-project-data-science-studio/</guid>
+      <description>DSS is a learning community for applied researchers in the areas of health and aging. Based at the Institute for Aging and Lifelong Health (IALH) at the University of Victoria, DSS provides a learning space and a platform for cross-disciplinary dialog between UVic researchers and Vancouver Island Health &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Health System Impact Fellowship</title>
+      <link>/post/andriy-rbind-io-project-health-system-impact/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andriy-rbind-io-project-health-system-impact/</guid>
+      <description>The Health System Impact Fellowship (HSIF) program is founded on partnerships with health system and related organizations (e.g., public, not-for-profit, private for-profit organizations) that are committed to the program objectives, including providing enriching, stimulating and impact-oriented experiential learning opportunities for PhD trainees and/or post-doctoral fellows that accelerate their professional growth and career readiness and advance the organization’s impact goals regarding health system improvement.
+View &amp;lt;a href=&amp;ldquo;http://www.cihr-irsc.gc.ca/e/50660.html&amp;quot; &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>The Antarctic/Southern Ocean rOpenSci community</title>
+      <link>/post/ropensci-org-blog-2018-11-13-antarctic/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ropensci-org-blog-2018-11-13-antarctic/</guid>
+      <description>Antarctic/Southern Ocean science and rOpenSci Collaboration and reproducibility are fundamental to Antarctic and Southern Ocean science, and the value of data to Antarctic science has long been promoted. The Antarctic Treaty (which came into force in 1961) included the provision that scientific observations and results from Antarctica should be openly shared. The high cost and difficulty of acquisition means that data tend to be re-used for different studies once &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Asking for help is challenging but is typically worth it</title>
+      <link>/post/lcolladotor-github-io-2018-11-12-asking-for-help-is-challenging-but-is-typically-worth-it/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lcolladotor-github-io-2018-11-12-asking-for-help-is-challenging-but-is-typically-worth-it/</guid>
+      <description>Recently I’ve been thinking on the subject of asking for help. In short, it’s hard to ask for help. It involves admitting to yourself that you can’t solve the problem alone, opening yourself up, hoping that another person will understand you and guide you in the right direction. Thus it can be painful if your request for help is misunderstood, met with criticism or ignored. Regardless of these obstacles, I think that the potential rewards make it worth it.</description>
+    </item>
+    
+    <item>
+      <title>“Law professor Alan Dershowitz’s new book claims that political differences have lately been criminalized in the United States. He has it wrong. Instead, the orderly enforcement of the law has, ludicrously, been framed as political.”</title>
+      <link>/post/andrewgelman-com-2018-11-12-trashed/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-12-trashed/</guid>
+      <description>This op-ed by Virginia Heffernan is about g=politics, but it reminded me of the politics of science. Heffernan starts with the background: This last year has been a crash course in startlingly brutal abuses of power. For decades, it seems, a caste of self-styled overmen has felt liberated to commit misdeeds with impunity: ethical, sexual, [&amp;#8230;]
+The post &amp;#8220;Law professor Alan Dershowitz&amp;#8217;s new book claims that political differences have lately been criminalized in the United States.</description>
+    </item>
+    
+    <item>
+      <title>Data Science Blog: My Experiences with Data Science, Blogging, and R</title>
+      <link>/post/support-rbind-io-2018-11-12-data-science-blog/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/support-rbind-io-2018-11-12-data-science-blog/</guid>
+      <description>Between 2012 and 2017, the demand for data scientists has increased by a whopping 650%. Why is data science such a hot topic? There are multiple factors at play: Emerging technologies are producing decidedly more data than previously and these data need to be dealt with. Recent advances in machine learning have produced new algorithms that are particularly suitable for big data. Digitization is steadily advancing and data analytics are an important aspect of this &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>接受自己的普通</title>
+      <link>/post/yihui-name-cn-2018-11-mediocre-self/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-cn-2018-11-mediocre-self/</guid>
+      <description>前段时间看了一篇文章，宣称多数人过了一定年龄（三十？）之后最重要的事情就是要开始接受自己的普通。这个观点是引用了心理学家荣格。顺便提一下，荣</description>
+    </item>
+    
+    <item>
+      <title>Hey!  Here’s what to do when you have two or more surveys on the same population!</title>
+      <link>/post/andrewgelman-com-2018-11-11-hey-heres-two-surveys-population/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-11-hey-heres-two-surveys-population/</guid>
+      <description>This problem comes up a lot: We have multiple surveys of the same population and we want a single inference. The usual approach, applied carefully by news organizations such as Real Clear Politics and Five Thirty Eight, and applied sloppily by various attention-seeking pundits every two or four years, is &amp;#8220;poll aggregation&amp;#8221;: you take the [&amp;#8230;]
+The post Hey! Here&amp;#8217;s what to do when you have two or more surveys on the same population!</description>
+    </item>
+    
+    <item>
+      <title>#DataHack4Fi twitter data</title>
+      <link>/post/zedr-rbind-io-2018-11-11-datahack4fi-twitter-data/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/zedr-rbind-io-2018-11-11-datahack4fi-twitter-data/</guid>
+      <description>&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Analyzing NetHack data, part 2: What players kill the most</title>
+      <link>/post/www-brodrigues-co-blog-2018-11-10-nethack-analysis-part2/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-brodrigues-co-blog-2018-11-10-nethack-analysis-part2/</guid>
+      <description>Link to webscraping the data
+Link to Analysis, part 1
+Introduction This is the third blog post that deals with data from the game NetHack, and oh boy, did a lot of things happen since the last blog post! Here’s &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>2018:  What really happened?</title>
+      <link>/post/andrewgelman-com-2018-11-10-2018-what-really-happened/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-10-2018-what-really-happened/</guid>
+      <description>We&amp;#8217;re always discussing election results on three levels: their direct political consequences, their implications for future politics, and what we can infer about public opinion. In 2018 the Democrats broadened their geographic base, as we can see in this graph from Yair Ghitza: Party balancing At the national level, what happened is what we expected [&amp;#8230;]
+The post 2018: What really happened? appeared first on Statistical Modeling, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>2018:  Who actually voted?  (The real story, not the exit polls.)</title>
+      <link>/post/andrewgelman-com-2018-11-10-2018-who-actually-voted/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-10-2018-who-actually-voted/</guid>
+      <description>Continuing from our earlier discussion &amp;hellip; Yair posted some results from his MRP analysis of voter turnout: 1. The 2018 electorate was younger than in 2014, though not as young as exit polls suggest. 2. The 2018 electorate was also more diverse, with African American and Latinx communities surpassing their share of votes [&amp;#8230;]
+The post 2018: Who actually voted? (The real story, not the exit polls.) appeared first on Statistical Modeling, &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Matching (and discarding non-matches) to deal with lack of complete overlap, then regression to adjust for imbalance between treatment and control groups</title>
+      <link>/post/andrewgelman-com-2018-11-10-matching-discarding-non-matches-deal-lack-complete-overlap-regression-adjust-imbalance-treatment-control-groups/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-10-matching-discarding-non-matches-deal-lack-complete-overlap-regression-adjust-imbalance-treatment-control-groups/</guid>
+      <description>John Spivack writes: I am contacting you on behalf of the biostatistics journal club at our institution, the Mount Sinai School of Medicine. We are working Ph.D. biostatisticians and would like the opinion of a true expert on several questions having to do with observational studies&amp;#8212;questions that we have not found to be well addressed [&amp;#8230;]
+The post Matching (and discarding non-matches) to deal with &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Recapping the recent plagiarism scandal”</title>
+      <link>/post/andrewgelman-com-2018-11-09-recapping-recent-plagiarism-scandal/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-09-recapping-recent-plagiarism-scandal/</guid>
+      <description>Benjamin Carlisle writes: A year ago, I received a message from Anna Powell-Smith about a research paper written by two doctors from Cambridge University that was a mirror image of a post I wrote on my personal blog roughly two years prior. The structure of the document was the same, as was the rationale, the [&amp;#8230;]
+The post &amp;#8220;Recapping the recent plagiarism scandal&amp;#8221; appeared first on Statistical Modeling, Causal &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>My Biggest Regret in the knitr Package</title>
+      <link>/post/yihui-name-en-2018-11-biggest-regret-knitr/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-11-biggest-regret-knitr/</guid>
+      <description>The knitr package was written in late 2011, when I knew little about character encodings. I still don&amp;rsquo;t know much about them today, but I have had enough pain. At RStudio, I have become the (self-nominated) &amp;ldquo;Character Encoding Ambassador&amp;rdquo;, mainly because I&amp;rsquo;m the only native Chinese in the company, and Chinese characters are multibyte. It is common that problems related to character encodings are reported by Chinese users. If we</description>
+    </item>
+    
+    <item>
+      <title>On Cosmetic Changes in Pull Requests</title>
+      <link>/post/yihui-name-en-2018-11-cosmetic-changes/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-11-cosmetic-changes/</guid>
+      <description>Programmers, including myself, make cosmetic changes in code all the time, such as adding or deleting white spaces or blank lines, or re-wrapping lines, or adding { } to single-line if statements. That is usually fine. However, when making changes in other people&amp;rsquo;s code and sending pull requests on Github, I suggest you refrain from introducing cosmetic changes. There are two reasons: Such changes require unnecessary attention of the pull</description>
+    </item>
+    
+    <item>
+      <title>Some of My JS Tricks to Enhance the HTML Output of Markdown</title>
+      <link>/post/yihui-name-en-2018-11-md-js-tricks/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-11-md-js-tricks/</guid>
+      <description>Just because Markdown is so simple (well, &amp;ldquo;simple&amp;rdquo;), there will definitely be useful features missing. I want to share some of my relatively simple JS tricks to fill the gaps. Please note that I&amp;rsquo;m only talking about the HTML output, and the Markdown flavor can be arbitrary (it doesn&amp;rsquo;t have to be Pandoc&amp;rsquo;s Markdown). In fact, all tricks below are general-purpose and will work on any web pages, no matter</description>
+    </item>
+    
+    <item>
+      <title>Things are Getting Better and Better</title>
+      <link>/post/yihui-name-en-2018-11-getting-better/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-11-getting-better/</guid>
+      <description>Last month I suddently learned that the R Core Team started a blog earlier this year. And of course, I was even more excited that the blog was based on blogdown. Given that the official R Project website had used &amp;lt;iframe&amp;gt; for nearly two decades, I was very delighted that they were finally embracing the newer world-wide web step by step. Although blogs and mailing lists are both open to</description>
+    </item>
+    
+    <item>
+      <title>The Two Surprisingly Hard Things about the Otherwise Simple Markdown</title>
+      <link>/post/yihui-name-en-2018-11-hard-markdown/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-11-hard-markdown/</guid>
+      <description>Markdown is simple in general. Over the years, however, I have observed two things that are surprisingly hard and many people have stumbled over them, including experts in my eyes. 1. How to write verbatim content, especially text that contains three backticks This is the thing that tortures me weekly, if not daily, because without knowing how to write verbatim text, the Markdown output will be poorly formatted. It is</description>
+    </item>
+    
+    <item>
+      <title>“35. What differentiates solitary confinement, county jail and house arrest” and 70 others</title>
+      <link>/post/andrewgelman-com-2018-11-07-35-differentiates-solitary-confinement-county-jail-house-arrest-70-others/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-07-35-differentiates-solitary-confinement-county-jail-house-arrest-70-others/</guid>
+      <description>Thomas Perneger points us to this amusing quiz on statistics terminology: Lots more where that came from.
+The post &amp;#8220;35. What differentiates solitary confinement, county jail and house arrest&amp;#8221; and 70 others appeared first on Statistical Modeling, Causal Inference, and Social &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Winners Take All in the Dependency World (or Hell)</title>
+      <link>/post/yihui-name-en-2018-11-dependency-winner/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-11-dependency-winner/</guid>
+      <description>Yesterday I read a tweet on the marketing of software, which encourages software engineers to promote their good software packages. It seems to be reasonable at the first glance. The problem, in my opinion, is that we are now living in this miserable age in which we are deeply manipulated by the attention economy.1 At the same time, there are just so &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>African Markets indices tracker</title>
+      <link>/post/zedr-rbind-io-2018-11-07-african-markets-indices-tracker/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/zedr-rbind-io-2018-11-07-african-markets-indices-tracker/</guid>
+      <description>&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>A knot of threads: from CSHL to LCG-UNAM to Aldo Barrientos to diversity scholarship opportunities</title>
+      <link>/post/lcolladotor-github-io-2018-11-06-a-knot-of-threads-from-cshl-to-lcg-unam-to-aldo-barrientos-to-diversity-scholarship-opportunities/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lcolladotor-github-io-2018-11-06-a-knot-of-threads-from-cshl-to-lcg-unam-to-aldo-barrientos-to-diversity-scholarship-opportunities/</guid>
+      <description>I can’t tell you how many times I’ve started to write this post in my mind since May 2018. Today I’m finally typing it on the computer. This will be a rather long post that ties in several threads. I’ll talk about Cold Spring Harbor’s Biology of Genomes conference and its relationship to my undergrad in Mexico. I’ll also introduce you to Aldo Barrientos (198x-2011) who was was my undergrad classmate.</description>
+    </item>
+    
+    <item>
+      <title>Postdocs and Research fellows for combining probabilistic programming, simulators and interactive AI</title>
+      <link>/post/andrewgelman-com-2018-11-06-postdocs-and-research-fellows-for-combining-probabilistic-programming-simulators-and-interactive-ai/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-06-postdocs-and-research-fellows-for-combining-probabilistic-programming-simulators-and-interactive-ai/</guid>
+      <description>Here&amp;#8217;s a great opportunity for those interested in probabilistic programming and workflows for Bayesian data analysis: We (including me, Aki) are looking for outstanding postdoctoral researchers and research fellows to work for a new exciting project in the crossroads of probabilistic programming, simulator-based inference and user interfaces. You will have an opportunity to work with [&amp;#8230;]
+The post Postdocs and &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>“Statistical and Machine Learning forecasting methods: Concerns and ways forward”</title>
+      <link>/post/andrewgelman-com-2018-11-06-statistical-machine-learning-forecasting-methods-concerns-ways-forward/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/andrewgelman-com-2018-11-06-statistical-machine-learning-forecasting-methods-concerns-ways-forward/</guid>
+      <description>Roy Mendelssohn points us to this paper by Spyros Makridakis, Evangelos Spiliotis, and Vassilios Assimakopoulos, which begins: Machine Learning (ML) methods have been proposed in the academic literature as alternatives to statistical ones for time series forecasting. Yet, scant evidence is available about their relative performance in terms of accuracy and computational requirements. The purpose [&amp;#8230;]
+The post &amp;#8220;Statistical and Machine &amp;hellip;</description>
+    </item>
     
     <item>
       <title>The purported CSI effect and the retroactive precision fallacy</title>
@@ -69,6 +2038,15 @@ The post &amp;#8220;We are reluctant to engage in post hoc speculation about thi
     </item>
     
     <item>
+      <title>English is Still Hard for Me, and Thoughts on (Computer) Language Wars</title>
+      <link>/post/yihui-name-en-2018-11-english-is-hard/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/yihui-name-en-2018-11-english-is-hard/</guid>
+      <description>My native language is Chinese (Mandarin). Although I started learning English in middle school 22 years ago, and even have been in the US for more than 9 years, I still struggle with English as a foreign language on a daily basis. I&amp;rsquo;m only slightly content with my English writing. For reading, speaking, and listening, they are all miserable. In particular, my listening sucks. For example, when someone tells a</description>
+    </item>
+    
+    <item>
       <title>A framework for automated anomaly detection in high frequency water-quality data from in situ sensors</title>
       <link>/post/feedproxy-google-com-r-professorrobjhyndman-3-g3skvf-f1me/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -84,6 +2062,35 @@ The post &amp;#8220;We are reluctant to engage in post hoc speculation about thi
       
       <guid>/post/feedproxy-google-com-r-professorrobjhyndman-3-3xl3oq4siqc/</guid>
       <description>A particular focus of water-quality monitoring is the concentrations of sediments and nutrients in rivers, constituents that can smother biota and cause eutrophication. However, the physical and economic constraints of manual sampling prohibit data collection at the frequency required to capture adequately the variation in concentrations through time. Here, we developed models to predict total suspended solids (TSS) and oxidized nitrogen (NOx) concentrations based on high-frequency time series of turbidity, conductivity and river level data from low-cost in situ sensors in rivers flowing into &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>R Used in Literature</title>
+      <link>/post/likan-info-en-paradigm-r-programming-language-r-in-literature/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/likan-info-en-paradigm-r-programming-language-r-in-literature/</guid>
+      <description>A brief description 2. Recent Applications 3. References 1. A brief description This post will summarize the advancement of using R to analyze data obtained in behavioral and relevant areas. 2. Recent Applications Benitez &amp;amp; Saffran (2018) To be added To be added 3. References Benitez, V. L., &amp;amp; Saffran, J. R. (2018). Predictable events enhance word learning in toddlers. Current Biology. Journal &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Computer Setup</title>
+      <link>/post/drewtyre-rbind-io-classes-computer-setup/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/drewtyre-rbind-io-classes-computer-setup/</guid>
+      <description>R Download and install the R base system for your operating system. I assume you use the Rstudio Desktop system to work with the base system. You have to scroll down to find the installer for your operating system. When installing these you can accept all the default options.
+You should also install package tidyverse. While connected to the internet, start up RStudio, go to the console prompt
+&amp;lt;img &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/post/www-emitanaka-github-io-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/www-emitanaka-github-io-about/</guid>
+      <description>This blog is where I host my trivial musings. I&amp;rsquo;m more of a listener in life. Blogging or being public doesn&amp;rsquo;t come naturally to me but I think sometimes I have something worthwhile to share. Sometimes. I have odd ideas and plans about life. One of my idea is that you ought to work hard while you are young and able so my current plan is to work hard now but 50+, I plan to switch to managerial role and make room for the young ones to work &amp;hellip;</description>
     </item>
     
   </channel>

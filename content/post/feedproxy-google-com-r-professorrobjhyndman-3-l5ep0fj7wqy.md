@@ -1,6 +1,6 @@
 ---
 title: A brief history of forecasting competitions
-date: '2018-12-21'
+date: '2019-03-08'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/L5eP0FJ7wQY/
 source: Rob J Hyndman
 description: Forecasting competitions are now so widespread that it is often forgotten
