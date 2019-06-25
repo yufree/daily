@@ -9,9 +9,9 @@ n = 0
 
 for (i in 1:NROW(m)) {
         print(i)
-        a <- scifetch::getrss(m[i,1])
+        a <- try(scifetch::getrss(m[i,1]),T)
         # control the abs length
-        if(NROW(a)>0){
+        if(NROW(a)>0&class(a)!='try-error'){
                 description = paste(
                         c(a$description, '[...]'), collapse = ' '
                 )
