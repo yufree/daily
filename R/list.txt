@@ -118,5 +118,5 @@
 "feeds.feedburner.com/ProfessorRobJHyndman","2019-08-23"
 "freerangestats.info/feed","2019-08-24"
 "dirk.eddelbuettel.com/blog/index.rss","2019-08-24"
-"alison.rbind.io/index.xml","2019-08-24"
-"andrewgelman.com/feed/","2019-08-24"
+"alison.rbind.io/index.xml","2019-08-25"
+"andrewgelman.com/feed/","2019-08-25"
