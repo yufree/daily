@@ -1,6 +1,6 @@
 ---
 title: Markdown 使用总结
-date: '2019-09-11'
+date: '2019-09-14'
 linkTitle: https://herechen.github.io/technology/all-about-markdown/
 source: 朴素
 description: <p>Markdown 是什么、能做什么、有哪些好的工具。</p> <h2 id="是什么">是什么</h2> <p>历史、相关规范。</p>
