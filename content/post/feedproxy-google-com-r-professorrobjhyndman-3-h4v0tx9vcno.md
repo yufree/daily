@@ -1,7 +1,7 @@
 ---
 title: A feature-based framework for detecting technical outliers in water-quality
   data from in situ sensors
-date: '2019-02-12'
+date: '2019-09-17'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/h4v0tX9vcNo/
 source: Rob J Hyndman
 description: Outliers due to technical errors in water-quality data from in situ sensors
