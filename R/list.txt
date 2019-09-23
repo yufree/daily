@@ -118,5 +118,5 @@
 "flowingdata.com/feed","2019-09-20"
 "jozef.io/index.xml","2019-09-21"
 "rud.is/b/feed/","2019-09-21"
-"alison.rbind.io/index.xml","2019-09-21"
-"andrewgelman.com/feed/","2019-09-21"
+"alison.rbind.io/index.xml","2019-09-22"
+"andrewgelman.com/feed/","2019-09-22"
