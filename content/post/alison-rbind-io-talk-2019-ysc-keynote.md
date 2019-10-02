@@ -1,5 +1,5 @@
 ---
-title: Literate Projecting
+title: The Art of Literate Projecting
 date: '2019-10-02'
 linkTitle: https://alison.rbind.io/talk/2019-ysc-keynote/
 source: Alison Hill
