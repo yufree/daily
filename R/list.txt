@@ -119,4 +119,4 @@
 "www.brodrigues.co/index.xml","2019-10-05"
 "www.brodrigues.co/index.xml","2019-10-05"
 "feeds.feedburner.com/ProfessorRobJHyndman","2019-10-05"
-"andrewgelman.com/feed/","2019-10-05"
+"andrewgelman.com/feed/","2019-10-06"
