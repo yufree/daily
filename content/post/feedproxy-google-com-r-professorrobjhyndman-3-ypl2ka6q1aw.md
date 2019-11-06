@@ -1,6 +1,6 @@
 ---
 title: 'Forecasting in social settings: the state of the art'
-date: '2019-05-23'
+date: '2020-01-01'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/yPL2ka6q1aw/
 source: Rob J Hyndman
 description: This paper provides a non-systematic review of the progress of forecasting

@@ -1,6 +1,6 @@
 ---
 title: 'FFORMA: Feature-based Forecast Model Averaging'
-date: '2019-03-27'
+date: '2020-01-01'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/yxzO_TherZA/
 source: Rob J Hyndman
 description: We propose an automated method for obtaining weighted forecast combinations
