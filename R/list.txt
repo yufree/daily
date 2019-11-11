@@ -118,5 +118,5 @@
 "www.brodrigues.co/index.xml","2019-11-09"
 "www.brodrigues.co/index.xml","2019-11-09"
 "dirk.eddelbuettel.com/blog/index.rss","2019-11-09"
-"feeds.feedburner.com/ProfessorRobJHyndman","2019-11-09"
-"andrewgelman.com/feed/","2019-11-09"
+"feeds.feedburner.com/ProfessorRobJHyndman","2019-11-10"
+"andrewgelman.com/feed/","2019-11-10"

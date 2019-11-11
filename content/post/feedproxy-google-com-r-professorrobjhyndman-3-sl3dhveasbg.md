@@ -1,6 +1,6 @@
 ---
 title: A new tidy data structure to support exploration and modeling of temporal data
-date: '2019-02-14'
+date: '2020-01-04'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/SL3DHveaSBg/
 source: Rob J Hyndman
 description: 'Mining temporal data for information is often inhibited by a multitude
