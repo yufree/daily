@@ -1,7 +1,7 @@
 ---
 title: 'Spatial modelling of the two-party preferred vote in Australian federal elections:
   2001-2016'
-date: '2019-04-25'
+date: '2020-01-05'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/plbb60YoVM8/
 source: Rob J Hyndman
 description: We examine the relationships between electoral socio-demographic characteristics
