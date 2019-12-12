@@ -1,5 +1,5 @@
 ---
-title: How Job Groups Changed Over the Past Seven Decades
+title: Shifts in Job Distribution
 date: '2019-12-11'
 linkTitle: https://flowingdata.com/2019/12/11/how-job-groups-changed-over-the-past-seven-decades/
 source: FlowingData
