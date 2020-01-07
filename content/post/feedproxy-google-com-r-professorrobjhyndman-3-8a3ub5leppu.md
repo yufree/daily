@@ -1,6 +1,6 @@
 ---
 title: Hierarchical forecasting
-date: '2020-01-15'
+date: '2020-01-06'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/8A3Ub5lePpU/
 source: Rob J Hyndman
 description: Accurate forecasts of macroeconomic variables are crucial inputs into
