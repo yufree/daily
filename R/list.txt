@@ -118,5 +118,5 @@
 "divingintogeneticsandgenomics.rbind.io/index.xml","2020-02-07"
 "flowingdata.com/feed","2020-02-07"
 "www.robinlovelace.net/index.xml","2020-02-07"
-"dirk.eddelbuettel.com/blog/index.rss","2020-02-08"
-"andrewgelman.com/feed/","2020-02-08"
+"dirk.eddelbuettel.com/blog/index.rss","2020-02-09"
+"andrewgelman.com/feed/","2020-02-09"
