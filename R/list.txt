@@ -119,4 +119,4 @@
 "www.brodrigues.co/index.xml","2020-02-14"
 "www.choyang.me/zh/index.xml","2020-02-14"
 "flowingdata.com/feed","2020-02-14"
-"andrewgelman.com/feed/","2020-02-14"
+"andrewgelman.com/feed/","2020-02-15"
