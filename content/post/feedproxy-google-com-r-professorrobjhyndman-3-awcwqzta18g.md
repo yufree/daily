@@ -1,6 +1,6 @@
 ---
 title: On normalization and algorithm selection for unsupervised outlier detection
-date: '2019-11-01'
+date: '2020-02-27'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/awCwQzTA18g/
 source: Rob J Hyndman
 description: This paper demonstrates that the performance of various outlier detection
