@@ -1,6 +1,6 @@
 ---
 title: Anomaly detection in streaming nonstationary temporal data
-date: '2019-02-19'
+date: '2020-04-19'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/8gmXqqqhYwM/
 source: Rob J Hyndman
 description: This article proposes a framework that provides early detection of anomalous
