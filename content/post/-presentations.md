@@ -1,6 +1,6 @@
 ---
 title: Seminars, invited talks and workshops
-date: '2020-04-06'
+date: '2020-04-23'
 linkTitle: /presentations/
 source: test on Robin Lovelace's website. Energy. Transport. Technology. Change the
   World.
