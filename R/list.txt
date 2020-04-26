@@ -119,4 +119,4 @@
 "blog.rladies.org/post/index.xml","2020-04-25"
 "flowingdata.com/feed","2020-04-25"
 "andrewgelman.com/feed/","2020-04-25"
-"alison.rbind.io/index.xml","2020-04-25"
+"alison.rbind.io/index.xml","2020-04-26"
