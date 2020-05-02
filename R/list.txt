@@ -119,4 +119,4 @@
 "www.statistica.it/gianluca/index.xml","2020-05-01"
 "flowingdata.com/feed","2020-05-01"
 "andrewgelman.com/feed/","2020-05-01"
-"alison.rbind.io/index.xml","2020-05-01"
+"alison.rbind.io/index.xml","2020-05-02"
