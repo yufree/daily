@@ -118,5 +118,5 @@
 "freerangestats.info/feed","2020-05-09"
 "yulijia.net/cn/feed/index.xml","2020-05-09"
 "dirk.eddelbuettel.com/blog/index.rss","2020-05-09"
-"andrewgelman.com/feed/","2020-05-09"
-"alison.rbind.io/index.xml","2020-05-09"
+"andrewgelman.com/feed/","2020-05-10"
+"alison.rbind.io/index.xml","2020-05-10"
