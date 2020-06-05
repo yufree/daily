@@ -33,6 +33,7 @@ for (i in 1:NROW(m)) {
 if(NROW(x)>0){
         for (i in 1:NROW(x)){
                 name = gsub("^http[s]?://|/$", "", tolower(x[i,'linkTitle']))
+                name = gsub("%", "", name)
                 name = gsub("[^a-z0-9]+", "-", name)
                 name = gsub("--+", "-", name)
                 # file name too long issue
