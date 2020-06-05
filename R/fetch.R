@@ -35,6 +35,8 @@ if(NROW(x)>0){
                 name = gsub("^http[s]?://|/$", "", tolower(x[i,'linkTitle']))
                 name = gsub("[^a-z0-9]+", "-", name)
                 name = gsub("--+", "-", name)
+                # file name too long issue
+                name = substr(name,1,200)
                 p = sprintf('content/post/%s.md', paste0(name))
                 
                 sink(p)
