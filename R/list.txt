@@ -125,5 +125,5 @@
 "freerangestats.info/feed","2020-06-06"
 "cxy.rbind.io/index.xml","2020-06-06"
 "dirk.eddelbuettel.com/blog/index.rss","2020-06-06"
-"andrewgelman.com/feed/","2020-06-06"
-"alison.rbind.io/index.xml","2020-06-06"
+"andrewgelman.com/feed/","2020-06-07"
+"alison.rbind.io/index.xml","2020-06-07"
