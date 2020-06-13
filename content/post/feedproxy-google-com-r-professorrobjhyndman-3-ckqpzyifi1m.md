@@ -1,6 +1,6 @@
 ---
 title: 'Forecast reconciliation: A geometric view with new insights on bias correction'
-date: '2019-09-30'
+date: '2020-06-13'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/cKQpzYiFI1M/
 source: Rob J Hyndman
 description: A geometric interpretation is developed for so-called reconciliation
