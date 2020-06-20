@@ -125,5 +125,5 @@
 "yulijia.net/cn/feed/index.xml","2020-06-19"
 "data-se.netlify.com/index.xml","2020-06-19"
 "flowingdata.com/feed","2020-06-19"
-"andrewgelman.com/feed/","2020-06-19"
-"alison.rbind.io/index.xml","2020-06-19"
+"andrewgelman.com/feed/","2020-06-20"
+"alison.rbind.io/index.xml","2020-06-20"
