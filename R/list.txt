@@ -125,5 +125,5 @@
 "flowingdata.com/feed","2020-07-04"
 "jozef.io/index.xml","2020-07-05"
 "dirk.eddelbuettel.com/blog/index.rss","2020-07-05"
-"andrewgelman.com/feed/","2020-07-05"
-"alison.rbind.io/index.xml","2020-07-05"
+"andrewgelman.com/feed/","2020-07-06"
+"alison.rbind.io/index.xml","2020-07-06"
