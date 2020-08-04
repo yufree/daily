@@ -1,6 +1,6 @@
 ---
 title: Dimension reduction for outlier detection using DOBIN
-date: '2019-08-22'
+date: '2020-08-04'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/c5I-nci28w8/
 source: Rob J Hyndman
 description: This paper introduces DOBIN, a new approach to select a set of basis

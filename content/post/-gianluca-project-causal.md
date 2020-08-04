@@ -1,5 +1,5 @@
 ---
-title: The Regression discontinuity desing in epidemiology
+title: The Regression discontinuity design in epidemiology
 date: '2018-03-08'
 linkTitle: /gianluca/project/causal/
 source: Gianluca Baio
