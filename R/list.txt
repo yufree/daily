@@ -125,5 +125,5 @@
 "flowingdata.com/feed","2020-08-14"
 "jozef.io/index.xml","2020-08-15"
 "www.datascienceblog.net/post/index.xml","2020-08-15"
-"andrewgelman.com/feed/","2020-08-15"
-"alison.rbind.io/index.xml","2020-08-15"
+"andrewgelman.com/feed/","2020-08-16"
+"alison.rbind.io/index.xml","2020-08-16"
