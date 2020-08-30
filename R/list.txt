@@ -126,4 +126,4 @@
 "feeds.feedburner.com/ProfessorRobJHyndman","2020-08-28"
 "flowingdata.com/feed","2020-08-28"
 "freerangestats.info/feed","2020-08-29"
-"andrewgelman.com/feed/","2020-08-29"
+"andrewgelman.com/feed/","2020-08-30"
