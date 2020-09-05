@@ -126,4 +126,4 @@
 "juliasilge.com/index.xml","2020-09-03"
 "dirk.eddelbuettel.com/blog/index.rss","2020-09-04"
 "flowingdata.com/feed","2020-09-04"
-"andrewgelman.com/feed/","2020-09-04"
+"andrewgelman.com/feed/","2020-09-05"
