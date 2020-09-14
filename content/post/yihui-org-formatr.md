@@ -1,6 +1,6 @@
 ---
 title: formatR
-date: '2019-11-14'
+date: '2020-09-13'
 linkTitle: https://yihui.org/formatr/
 source: Homepage on Yihui Xie | 谢益辉
 description: |2-
