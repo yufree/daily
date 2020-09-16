@@ -125,5 +125,5 @@
 "yihui.name/index.xml","2020-09-14"
 "yutani.rbind.io/index.xml","2020-09-15"
 "www.statistica.it/gianluca/index.xml","2020-09-15"
-"flowingdata.com/feed","2020-09-15"
-"andrewgelman.com/feed/","2020-09-15"
+"flowingdata.com/feed","2020-09-16"
+"andrewgelman.com/feed/","2020-09-16"
