@@ -124,6 +124,6 @@
 "www.statistica.it/gianluca/index.xml","2020-09-15"
 "dirk.eddelbuettel.com/blog/index.rss","2020-09-17"
 "www.njtierney.com/index.xml","2020-09-17"
-"flowingdata.com/feed","2020-09-17"
 "juliasilge.com/index.xml","2020-09-18"
-"andrewgelman.com/feed/","2020-09-18"
+"flowingdata.com/feed","2020-09-19"
+"andrewgelman.com/feed/","2020-09-19"
