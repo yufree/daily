@@ -1,6 +1,6 @@
 ---
 title: An Introduction to xfun
-date: '2020-05-21'
+date: '2020-10-27'
 linkTitle: https://yihui.org/xfun/
 source: Homepage on Yihui Xie | 谢益辉
 description: ' <p>After writing about 20 R packages, I found I had accumulated several
