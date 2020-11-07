@@ -126,4 +126,4 @@
 "www.brodrigues.co/index.xml","2020-11-06"
 "flowingdata.com/feed","2020-11-06"
 "deanattali.com/feed","2020-11-06"
-"andrewgelman.com/feed/","2020-11-06"
+"andrewgelman.com/feed/","2020-11-07"
