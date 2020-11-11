@@ -126,4 +126,4 @@
 "ewenme.rbind.io/index.xml","2020-11-09"
 "ropensci.org/blog/index.xml","2020-11-10"
 "flowingdata.com/feed","2020-11-10"
-"andrewgelman.com/feed/","2020-11-10"
+"andrewgelman.com/feed/","2020-11-11"
