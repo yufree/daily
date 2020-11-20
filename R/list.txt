@@ -125,5 +125,5 @@
 "rud.is/b/feed/","2020-11-19"
 "www.bayesianspectacles.org/feed","2020-11-19"
 "freakonometrics.hypotheses.org/feed","2020-11-19"
-"flowingdata.com/feed","2020-11-19"
-"andrewgelman.com/feed/","2020-11-19"
+"flowingdata.com/feed","2020-11-20"
+"andrewgelman.com/feed/","2020-11-20"
