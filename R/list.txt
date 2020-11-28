@@ -124,6 +124,6 @@
 "nanx.me/index.xml","2020-11-24"
 "r4stats.com/feed","2020-11-25"
 "flowingdata.com/feed","2020-11-25"
-"freakonometrics.hypotheses.org/feed","2020-11-26"
 "likan.info/index.xml","2020-11-27"
-"andrewgelman.com/feed/","2020-11-27"
+"freakonometrics.hypotheses.org/feed","2020-11-28"
+"andrewgelman.com/feed/","2020-11-28"
