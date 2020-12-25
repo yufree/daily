@@ -125,5 +125,5 @@
 "ropensci.org/blog/index.xml","2020-12-22"
 "s0521.github.io/cn/index.xml","2020-12-23"
 "flowingdata.com/feed","2020-12-24"
-"alison.rbind.io/index.xml","2020-12-24"
-"andrewgelman.com/feed/","2020-12-24"
+"alison.rbind.io/index.xml","2020-12-25"
+"andrewgelman.com/feed/","2020-12-25"
