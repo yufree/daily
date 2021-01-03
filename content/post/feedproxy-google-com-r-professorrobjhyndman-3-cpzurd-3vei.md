@@ -1,6 +1,6 @@
 ---
 title: Forecasting Swiss Exports using Bayesian Forecast Reconciliation
-date: '2020-10-29'
+date: '2021-01-01'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/cpzuRD-3VEI/
 source: Rob J Hyndman
 description: 'This paper conducts an extensive forecasting study on 13,118 time series

@@ -1,6 +1,6 @@
 ---
 title: Anomaly detection in high-dimensional data
-date: '2020-08-04'
+date: '2021-01-01'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/KXK3XsUHhWU/
 source: Rob J Hyndman
 description: The HDoutliers algorithm is a powerful unsupervised algorithm for detecting

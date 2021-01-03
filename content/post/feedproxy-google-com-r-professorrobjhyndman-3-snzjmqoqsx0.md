@@ -1,7 +1,7 @@
 ---
 title: Hierarchical Probabilistic Forecasting of Electricity Demand with Smart Meter
   Data
-date: '2020-02-29'
+date: '2021-01-01'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/sNZJMqoqsx0/
 source: Rob J Hyndman
 description: Decisions regarding the supply of electricity across a power grid must
