@@ -1,6 +1,6 @@
 ---
 title: Least Squares Multidimensional Scaling
-date: '2020-12-17'
+date: '2021-01-04'
 linkTitle: http://deleeuwpdx.net/publication/mdsls/
 source: Jan's Page
 description: NA ...
