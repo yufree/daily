@@ -126,4 +126,4 @@
 "flowingdata.com/feed","2021-01-29"
 "dirk.eddelbuettel.com/blog/index.rss","2021-01-30"
 "rud.is/b/feed/","2021-01-30"
-"andrewgelman.com/feed/","2021-01-30"
+"andrewgelman.com/feed/","2021-01-31"
