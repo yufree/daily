@@ -124,6 +124,6 @@
 "freakonometrics.hypotheses.org/feed","2021-01-29"
 "dirk.eddelbuettel.com/blog/index.rss","2021-01-30"
 "rud.is/b/feed/","2021-01-30"
-"www.robinlovelace.net/index.xml","2021-02-01"
 "flowingdata.com/feed","2021-02-01"
-"andrewgelman.com/feed/","2021-02-01"
+"www.robinlovelace.net/index.xml","2021-02-02"
+"andrewgelman.com/feed/","2021-02-02"
