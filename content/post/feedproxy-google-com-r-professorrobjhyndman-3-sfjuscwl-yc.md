@@ -1,6 +1,6 @@
 ---
 title: 'Assessing Longevity Inequality in the US: What Can Be Said About the Future?'
-date: '2020-04-02'
+date: '2021-02-13'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/SFJUScWl-yc/
 source: Rob J Hyndman
 description: This paper investigates longevity inequality across U.S. states by modelling
