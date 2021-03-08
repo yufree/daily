@@ -1,6 +1,6 @@
 ---
 title: Rd2roxygen
-date: '2019-11-14'
+date: '2021-03-07'
 linkTitle: https://yihui.org/rd2roxygen/
 source: Homepage on Yihui Xie | 谢益辉
 description: |2-
