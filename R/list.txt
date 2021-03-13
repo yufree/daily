@@ -126,4 +126,4 @@
 "data-se.netlify.com/index.xml","2021-03-11"
 "nanhung.rbind.io/index.xml","2021-03-12"
 "flowingdata.com/feed","2021-03-12"
-"andrewgelman.com/feed/","2021-03-12"
+"andrewgelman.com/feed/","2021-03-13"
