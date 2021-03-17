@@ -125,5 +125,5 @@
 "freakonometrics.hypotheses.org/feed","2021-03-15"
 "yihui.name/index.xml","2021-03-16"
 "ropensci.org/blog/index.xml","2021-03-16"
-"flowingdata.com/feed","2021-03-16"
-"andrewgelman.com/feed/","2021-03-16"
+"flowingdata.com/feed","2021-03-17"
+"andrewgelman.com/feed/","2021-03-17"
