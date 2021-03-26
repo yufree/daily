@@ -1,7 +1,7 @@
 ---
 title: Forecasting the old-age dependency ratio to determine a sustainable pension
   age
-date: '2020-09-20'
+date: '2021-03-26'
 linkTitle: http://feedproxy.google.com/~r/ProfessorRobJHyndman/~3/5pMaEuYKlNk/
 source: Rob J Hyndman
 description: We forecast the old-age dependency ratio for Australia under various
