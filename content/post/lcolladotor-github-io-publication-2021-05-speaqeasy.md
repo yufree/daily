@@ -1,8 +1,8 @@
 ---
-title: 'spatialLIBD: an R/Bioconductor package to visualize spatially-resolved transcriptomics
-  data'
-date: '2021-04-29'
-linkTitle: https://lcolladotor.github.io/publication/preprint_spatiallibd/
+title: 'SPEAQeasy: a scalable pipeline for expression analysis and quantification
+  for R/Bioconductor-powered RNA-seq analyses'
+date: '2021-05-01'
+linkTitle: https://lcolladotor.github.io/publication/2021_05_speaqeasy/
 source: L. Collado-Torres
 description: |-
   <!-- <div class="alert alert-note"> <div> Click the <em>Cite</em> button above to demo the feature to enable visitors to import publication metadata into their reference management software. </div>
