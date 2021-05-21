@@ -1,6 +1,6 @@
 ---
 title: Animated Sankey Plots of Global Migrant Populations
-date: '2021-05-20'
+date: '2021-05-21'
 linkTitle: https://guyabel.com/post/animated-sankey/
 source: Posts on Guy Abel
 description: |2-
