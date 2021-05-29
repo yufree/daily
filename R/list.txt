@@ -125,5 +125,5 @@
 "pzhao.org/zh/index.xml","2021-05-28"
 "data-se.netlify.com/index.xml","2021-05-28"
 "flowingdata.com/feed","2021-05-28"
-"andrewgelman.com/feed/","2021-05-28"
-"www.robinlovelace.net/index.xml","2021-05-28"
+"andrewgelman.com/feed/","2021-05-29"
+"www.robinlovelace.net/index.xml","2021-05-29"
