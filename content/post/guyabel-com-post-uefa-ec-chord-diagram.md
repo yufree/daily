@@ -1,6 +1,6 @@
 ---
 title: The evolution of squad compositions at UEFA European Championships
-date: '2021-06-03'
+date: '2021-06-05'
 linkTitle: https://guyabel.com/post/uefa-ec-chord-diagram/
 source: Posts | Guy Abel
 description: <p>I have been playing around with <a href="https://rvest.tidyverse.org/"
