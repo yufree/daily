@@ -125,5 +125,5 @@
 "dirk.eddelbuettel.com/blog/index.rss","2021-06-05"
 "data-se.netlify.com/index.xml","2021-06-05"
 "guyabel.com/post/index.xml","2021-06-05"
-"andrewgelman.com/feed/","2021-06-05"
-"www.robinlovelace.net/index.xml","2021-06-05"
+"andrewgelman.com/feed/","2021-06-06"
+"www.robinlovelace.net/index.xml","2021-06-06"
