@@ -125,5 +125,5 @@
 "dirk.eddelbuettel.com/blog/index.rss","2021-06-10"
 "www.bayesianspectacles.org/feed","2021-06-11"
 "flowingdata.com/feed","2021-06-11"
-"andrewgelman.com/feed/","2021-06-11"
-"www.robinlovelace.net/index.xml","2021-06-11"
+"andrewgelman.com/feed/","2021-06-12"
+"www.robinlovelace.net/index.xml","2021-06-12"
