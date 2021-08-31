@@ -26,7 +26,7 @@ Daily News/Blog aggregator website and you could use this website as a template 
 - Use `getrss` from [scifetch](https://github.com/yufree/scifetch) to convert rss xml file into dataframe and use the following code to generate `md` files and PR to this repo.
 
 ```r
-x = scifetch::getrss('path-to-blog-rss-xml-file')
+x <- scifetch::getrss('path-to-your-own-rss-xml-files')
 for (i in 1:NROW(x)) {
     name = gsub("^http[s]?://|/$", "", tolower(x[i, 'linkTitle']))
     name = gsub("%", "", name)
