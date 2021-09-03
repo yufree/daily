@@ -22,6 +22,6 @@ jobs:
       - name: Push results
         run: |
           git add .
-          git commit -m "Daily update"
+          git commit -m "Daily Update"
           git push -q https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:master
 
