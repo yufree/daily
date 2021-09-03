@@ -21,8 +21,7 @@ jobs:
           Rscript R/fetch.R
       - name: Push results
         run: |
-          git config advice.addIgnoredFile false
-          git add --all *
+          git add .
           git commit -m "Daily update"
           git push -q https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:master
 
