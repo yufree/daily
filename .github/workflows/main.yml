@@ -21,7 +21,7 @@ jobs:
           Rscript R/fetch.R
       - name: Push results
         run: |
-          git add .
+          git add --all *
           git commit -m "Daily Update"
           git push -q https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git HEAD:master
 
