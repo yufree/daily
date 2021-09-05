@@ -12,9 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@v1
-      - name: Query dependencies
+      - name: Install dependencies
         run: |
           install.packages('remotes')
+          remotes::install_deps(dependencies = TRUE)
+          remotes::install_cran("yaml")
+          remotes::install_github("yufree/scifetch")
+        shell: Rscript {0}
+      - name: Query dependencies
+        run: |
           saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
           writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
@@ -22,7 +28,8 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-R-packages
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
       - name: Fetch RSS
         run: |
           Rscript R/fetch.R
