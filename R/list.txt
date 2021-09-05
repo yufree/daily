@@ -157,4 +157,4 @@
 "jinli.link/index.xml","2021-09-01"
 "jinjipang.com/index.xml","2021-09-01"
 "jczhang.top/index.xml","2021-09-01"
-"https://codehhr.cn/atom.xml","2021-09-01"
+"codehhr.cn/atom.xml","2021-09-01"
