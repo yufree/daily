@@ -139,7 +139,6 @@
 "drwater.net/index.xml","2021-09-01"
 "cyrusyip.org/post/index.xml","2021-09-01"
 "blog.zzbd.org/atom.xml","2021-09-01"
-"yuanfan.vercel.app/index.xml","2021-09-01"
 "deadfate.rbind.io/index.xml","2021-09-01"
 "zeqiang.fun/index.xml","2021-09-01"
 "roycufe.gitee.io/index.xml","2021-09-01"
@@ -158,3 +157,4 @@
 "andrewgelman.com/feed/","2021-09-05"
 "statmodeling.stat.columbia.edu/feed/","2021-09-05"
 "shrektan.com/index.xml","2021-09-05"
+"yuanfan.vercel.app/index.xml","2021-09-06"
