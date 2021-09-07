@@ -19,7 +19,7 @@ for (i in 1:NROW(m)) {
                 # fewer characters for wider chars
                 description = substr(description, 1, 600 * nchar(description) / nchar(description, 'width'))
                 a$description = paste(sub(' +[^ ]{1,20}$', '', description), '...')
-                n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
+                n <- sum(as.POSIXct(a$date[1:NROW(a)]) >= as.POSIXct(m[i,2]))
         }else{
                 n <- 0
         }
