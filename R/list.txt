@@ -158,3 +158,4 @@
 "rud.is/b/feed/","2021-09-07"
 "cxy.rbind.io/index.xml","2021-09-07"
 "andrewgelman.com/feed/","2021-09-07"
+"https://www.r-bloggers.com/feed","0001-01-01"
