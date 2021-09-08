@@ -1,6 +1,6 @@
 ---
 title: About
-date: 1-01-01
+date: '0001-01-01'
 linkTitle: http://www.emitanaka.github.io/about/
 source: Home on Emi's Blog
 description: |-
