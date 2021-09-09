@@ -8,11 +8,11 @@ description: |2-
   <p>For a long time, I’ve wanted to write about one or two things that I wish I had learned in school, mostly about helpful tools for data science. In fact, I juggled with the grand idea whenever I wrote about those tools individually on this blog.</p>
   <ul>
   <li><a href="https://joongsup.rbind.io/post/2019/10/17/rmarkdown-centered-data-analysis-workflow/">R Markdown Centered Data Analysis Workflow</a></li>
-  <li><a href="https://joongsup.rbind.io/post/ ...
+  <li><a href="https://joongsup.rbind.io/post/20 ...
 disable_comments: true
 ---
  <script src="https://uncmbbtrivia.netlify.com/rmarkdown-libs/header-attrs/header-attrs.js"></script> <p>TLDR? It was Orlando, FL 4 years ago.</p>
 <p>For a long time, I’ve wanted to write about one or two things that I wish I had learned in school, mostly about helpful tools for data science. In fact, I juggled with the grand idea whenever I wrote about those tools individually on this blog.</p>
 <ul>
 <li><a href="https://joongsup.rbind.io/post/2019/10/17/rmarkdown-centered-data-analysis-workflow/">R Markdown Centered Data Analysis Workflow</a></li>
-<li><a href="https://joongsup.rbind.io/post/ ...
+<li><a href="https://joongsup.rbind.io/post/20 ...
