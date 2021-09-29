@@ -1,6 +1,6 @@
 ---
 title: Awards
-date: 1-01-01 00
+date: '0001-01-01'
 linkTitle: https://www.robinlovelace.net/accomplishments/
 source: Robin Lovelace
 description: NA ...
