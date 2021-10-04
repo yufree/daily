@@ -157,5 +157,5 @@
 "flowingdata.com/feed","2021-10-02"
 "www.xiangyunhuang.com.cn/index.xml","2021-10-03"
 "yuanfan.vercel.app/index.xml","2021-10-03"
-"https://www.r-bloggers.com/feed","2021-10-03"
-"andrewgelman.com/feed/","2021-10-03"
+"https://www.r-bloggers.com/feed","2021-10-04"
+"andrewgelman.com/feed/","2021-10-04"
