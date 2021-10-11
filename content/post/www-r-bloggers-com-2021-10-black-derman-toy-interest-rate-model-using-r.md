@@ -1,6 +1,6 @@
 ---
 title: Black-Derman-Toy Interest Rate model using R
-date: '2021-10-09'
+date: '2021-10-10'
 linkTitle: https://www.r-bloggers.com/2021/10/black-derman-toy-interest-rate-model-using-r/
 source: R-bloggers
 description: |-
