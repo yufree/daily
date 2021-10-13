@@ -1,6 +1,6 @@
 ---
 title: Monash Time Series Forecasting Archive
-date: '2021-05-17'
+date: '2021-10-12'
 linkTitle: https://robjhyndman.com/publications/monash-forecasting-data/
 source: Rob J Hyndman
 description: Many businesses and industries nowadays rely on large quantities of time

@@ -1,6 +1,6 @@
 ---
 title: formatR
-date: '2021-06-26'
+date: '2021-10-01'
 linkTitle: https://yihui.org/formatr/
 source: Homepage on Yihui Xie | 谢益辉
 description: |2-
@@ -10,7 +10,7 @@ description: |2-
   # or development version
   options(repos = c(yihui = &quot;https://yihui.r-universe.dev&quot;, CRAN = &quot;https://cloud.r-project.org&quot;))
   install.packages(&quot;formatR&quot;)
-  </code></pre> <p>Or check out the <a href="https://github.com/yihui/f ...
+  </code></pre> <p>Or check out the <a href="https://github.com/yihui/formatR"> ...
 disable_comments: true
 ---
  <h1 id="1-installation">1. Installation</h1> <p>You can install <strong>formatR</strong> from
@@ -19,4 +19,4 @@ you want to test the latest development version:</p> <pre><code class="language-
 # or development version
 options(repos = c(yihui = &quot;https://yihui.r-universe.dev&quot;, CRAN = &quot;https://cloud.r-project.org&quot;))
 install.packages(&quot;formatR&quot;)
-</code></pre> <p>Or check out the <a href="https://github.com/yihui/f ...
+</code></pre> <p>Or check out the <a href="https://github.com/yihui/formatR"> ...
