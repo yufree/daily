@@ -1,6 +1,6 @@
 ---
 title: Leave-one-out kernel density estimates for outlier detection
-date: '2021-02-06'
+date: '2021-10-22'
 linkTitle: https://robjhyndman.com/publications/lookout/
 source: Rob J Hyndman
 description: This paper introduces lookout, a new approach to detect outliers using
