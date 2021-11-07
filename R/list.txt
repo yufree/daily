@@ -157,5 +157,5 @@
 "robjhyndman.com/index.xml","2021-11-04"
 "juliasilge.com/index.xml","2021-11-06"
 "flowingdata.com/feed","2021-11-06"
-"https://www.r-bloggers.com/feed","2021-11-06"
-"andrewgelman.com/feed/","2021-11-06"
+"https://www.r-bloggers.com/feed","2021-11-07"
+"andrewgelman.com/feed/","2021-11-07"
