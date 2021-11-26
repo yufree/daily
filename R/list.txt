@@ -157,5 +157,5 @@
 "shrektan.com/index.xml","2021-11-25"
 "ropensci.org/blog/index.xml","2021-11-25"
 "flowingdata.com/feed","2021-11-25"
-"https://www.r-bloggers.com/feed","2021-11-25"
-"andrewgelman.com/feed/","2021-11-25"
+"https://www.r-bloggers.com/feed","2021-11-26"
+"andrewgelman.com/feed/","2021-11-26"
