@@ -157,5 +157,5 @@
 "www.robinlovelace.net/index.xml","2021-12-10"
 "flowingdata.com/feed","2021-12-11"
 "shrektan.com/index.xml","2021-12-12"
-"https://www.r-bloggers.com/feed","2021-12-12"
-"andrewgelman.com/feed/","2021-12-12"
+"https://www.r-bloggers.com/feed","2021-12-13"
+"andrewgelman.com/feed/","2021-12-13"
