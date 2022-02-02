@@ -1,7 +1,6 @@
 ---
-title: 'Probabilistic forecasts using expert judgement: the road to recovery from
-  COVID-19'
-date: '2021-09-09'
+title: 'Probabilistic forecasts using expert judgment: the road to recovery from COVID-19'
+date: '2022-02-01'
 linkTitle: https://robjhyndman.com/publications/covidtourism/
 source: Rob J Hyndman
 description: The COVID-19 pandemic has had a devastating effect on many industries
