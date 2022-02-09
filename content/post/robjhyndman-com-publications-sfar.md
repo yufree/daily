@@ -1,6 +1,6 @@
 ---
 title: Seasonal functional autoregressive models
-date: '2021-06-22'
+date: '2022-03-01'
 linkTitle: https://robjhyndman.com/publications/sfar/
 source: Rob J Hyndman
 description: Functional autoregressive models are popular for functional time series
