@@ -1,6 +1,6 @@
 ---
 title: Visualizing probability distributions across bivariate cyclic temporal granularities
-date: '2021-06-01'
+date: '2022-03-01'
 linkTitle: https://robjhyndman.com/publications/gravitas/
 source: Rob J Hyndman
 description: 'Deconstructing a time index into time granularities can assist in exploration
