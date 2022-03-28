@@ -157,5 +157,5 @@
 "flowingdata.com/feed","2022-03-26"
 "freakonometrics.hypotheses.org/feed","2022-03-27"
 "https://www.r-bloggers.com/feed","2022-03-27"
-"statmodeling.stat.columbia.edu/feed/","2022-03-27"
-"andrewgelman.com/feed/","2022-03-27"
+"statmodeling.stat.columbia.edu/feed/","2022-03-28"
+"andrewgelman.com/feed/","2022-03-28"
