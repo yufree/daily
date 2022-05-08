@@ -11,7 +11,7 @@ description: |2-
   <link href="/rmarkdown-libs/dt-core/css/jquery.dataTables.min.css" rel="stylesheet" />
   <link href="/rmarkdown-libs/dt-core/css/jquery.dataTables.extra.css" rel="stylesheet" />
   <script src="/rmarkdown-libs/dt-core/js/jquery.dataTables.min.js"></script>
-  <link href="/rmarkdown-libs/crosstalk/css/crosstalk.css"  ...
+  <link href="/rmarkdown-libs/crosstalk/css/crosstalk.css" ...
 disable_comments: true
 ---
  <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -21,4 +21,4 @@ disable_comments: true
 <link href="/rmarkdown-libs/dt-core/css/jquery.dataTables.min.css" rel="stylesheet" />
 <link href="/rmarkdown-libs/dt-core/css/jquery.dataTables.extra.css" rel="stylesheet" />
 <script src="/rmarkdown-libs/dt-core/js/jquery.dataTables.min.js"></script>
-<link href="/rmarkdown-libs/crosstalk/css/crosstalk.css"  ...
+<link href="/rmarkdown-libs/crosstalk/css/crosstalk.css" ...
