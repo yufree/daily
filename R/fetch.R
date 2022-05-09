@@ -11,7 +11,7 @@ for (i in 1:NROW(m)) {
         print(i)
         a <- try(scifetch::getrss(m[i,1]),T)
         # control the abs length
-        if(NROW(a)>0&class(a)!='try-error'){
+        if(NROW(a)>0&class(a)[1]!='try-error'){
                 description = paste(
                         c(a$description, '[...]'), collapse = ' '
                 )
