@@ -155,7 +155,7 @@
 "data-se.netlify.com/index.xml","2022-05-24"
 "blog.rstudio.com/index.xml","2022-05-24"
 "flowingdata.com/feed","2022-05-25"
-"www.robinlovelace.net/index.xml","2022-05-25"
 "https://www.r-bloggers.com/feed","2022-05-25"
 "statmodeling.stat.columbia.edu/feed/","2022-05-25"
 "andrewgelman.com/feed/","2022-05-25"
+"www.robinlovelace.net/index.xml","2022-05-26"
