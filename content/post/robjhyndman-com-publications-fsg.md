@@ -1,6 +1,6 @@
 ---
 title: Forecasting for Social Good
-date: '2021-03-02'
+date: '2022-07-01'
 linkTitle: https://robjhyndman.com/publications/fsg/
 source: Rob J Hyndman
 description: Forecasting plays a critical role in the development of organisational
