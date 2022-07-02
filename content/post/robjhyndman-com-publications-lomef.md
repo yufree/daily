@@ -1,7 +1,7 @@
 ---
 title: 'LoMEF: A Framework to Produce Local Explanations for Global Model Time Series
   Forecasts'
-date: '2021-11-15'
+date: '2022-06-30'
 linkTitle: https://robjhyndman.com/publications/lomef/
 source: Rob J Hyndman
 description: Global Forecasting Models (GFM) that are trained across a set of multiple
