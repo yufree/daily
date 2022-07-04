@@ -2,7 +2,7 @@
 title: Example Page 1
 date: '2019-05-04'
 linkTitle: /courses/example/example1/
-source: ELLA KAYE
+source: Fenguoerbian's Blog
 description: |-
   <p>In this tutorial, I&rsquo;ll share my top 10 tips for getting started with Academic:</p>
   <h2 id="tip-1">Tip 1</h2>

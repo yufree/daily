@@ -2,7 +2,7 @@
 title: An example preprint / working paper
 date: '2019-04-07'
 linkTitle: /publication/preprint/
-source: ELLA KAYE
+source: Fenguoerbian's Blog
 description: |-
   <div class="alert alert-note"> <div> Click the <em>Slides</em> button above to demo Academic&rsquo;s Markdown slides feature. </div>
   </div>

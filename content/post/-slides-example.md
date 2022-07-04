@@ -2,7 +2,7 @@
 title: Slides
 date: '2019-02-05'
 linkTitle: /slides/example/
-source: ELLA KAYE
+source: Fenguoerbian's Blog
 description: |-
   <h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic</h1>
   <p>
@@ -18,7 +18,7 @@ description: |-
   <hr>
   <h2 id="controls">Controls</h2>
   <ul>
-  <li>Next: ...
+  <li>Next: <code>Right Arrow</code>  ...
 disable_comments: true
 ---
 <h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic</h1>
@@ -35,4 +35,4 @@ disable_comments: true
 <hr>
 <h2 id="controls">Controls</h2>
 <ul>
-<li>Next: ...
+<li>Next: <code>Right Arrow</code>  ...
