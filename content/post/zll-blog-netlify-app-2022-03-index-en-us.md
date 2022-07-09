@@ -1,14 +1,12 @@
 ---
-title: 32 份 R 语言文档沟通推文汇总
-date: '2022-03-03'
+title: 绘制不同分布的 QQ 图
+date: '2022-03-23'
 linkTitle: https://zll-blog.netlify.app/2022/03/index.en-us/
 source: Homepage on Liangliang's Homepage
-description: |2-
-   <blockquote>
-  <p>更新时间：2022.02.28</p>
-  </blockquote> <h2 id="简介">简介</h2> <p>小编对以前写过的关于 Rmarkdown 相关教程进行汇总，方便自己以及读者查阅。公号建立半年多时间了，回顾这个系列，感觉还是挺有意义的。<strong>视频教程</strong>和<strong>推文</strong>结合，让更多的伙伴们（甚至，现在越来越多统计本科生都要用Rmarkdown写数据分析报告了）<strong>快速入门，不走弯路</strong>。</p> <p>小编良心之作：32份教程，欢迎转发、分享。</p> <h2 id="rmarkdown入门教程">Rmarkdown入门教程</h2> <p>这是小编在寒假花了大量时间总结出来的Rmarkdown入门教程，可以直接看汇总的推文：</p> <p><a href="http://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&amp;mid=2247493762&amp;idx=1&amp;sn=b70a531122d0ee57fda44f0fbc9c742d&amp;chksm=ea271766dd509e7 ...
+description: |-
+  <h2 id="简介">简介</h2> <p>论文中需要绘制数据对于不同分布假定下的 QQ 图。这里小编主要是使用 qqplotr 包进行绘制，参考的博客：<a href="https://cran.r-project.org/web/packages/qqplotr/vignettes/introduction.html" title="An Introduction to qqplotr">An Introduction to qqplotr</a>。</p> <h3 id="简单版本">简单版本</h3> <h3 id="绘制正态分布的-qq-图">绘制正态分布的 QQ 图</h3> <p>对于经典的正态分布的 QQ 图，大家可能并不陌生，并且在网上可以找到很多“搬运”的<a href="https://zhuanlan.zhihu.com/p/133429080">中文推文</a>。但是解释的都不是很清楚。</p> <p>这里我以这篇博客中的某个例子为例，进行介绍：</p> <p><strong>1. 加载包</strong></p> <pre><code class="language-r">library(qqplotr)
+  library(ggplo ...
 disable_comments: true
 ---
- <blockquote>
-<p>更新时间：2022.02.28</p>
-</blockquote> <h2 id="简介">简介</h2> <p>小编对以前写过的关于 Rmarkdown 相关教程进行汇总，方便自己以及读者查阅。公号建立半年多时间了，回顾这个系列，感觉还是挺有意义的。<strong>视频教程</strong>和<strong>推文</strong>结合，让更多的伙伴们（甚至，现在越来越多统计本科生都要用Rmarkdown写数据分析报告了）<strong>快速入门，不走弯路</strong>。</p> <p>小编良心之作：32份教程，欢迎转发、分享。</p> <h2 id="rmarkdown入门教程">Rmarkdown入门教程</h2> <p>这是小编在寒假花了大量时间总结出来的Rmarkdown入门教程，可以直接看汇总的推文：</p> <p><a href="http://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&amp;mid=2247493762&amp;idx=1&amp;sn=b70a531122d0ee57fda44f0fbc9c742d&amp;chksm=ea271766dd509e7 ...
+<h2 id="简介">简介</h2> <p>论文中需要绘制数据对于不同分布假定下的 QQ 图。这里小编主要是使用 qqplotr 包进行绘制，参考的博客：<a href="https://cran.r-project.org/web/packages/qqplotr/vignettes/introduction.html" title="An Introduction to qqplotr">An Introduction to qqplotr</a>。</p> <h3 id="简单版本">简单版本</h3> <h3 id="绘制正态分布的-qq-图">绘制正态分布的 QQ 图</h3> <p>对于经典的正态分布的 QQ 图，大家可能并不陌生，并且在网上可以找到很多“搬运”的<a href="https://zhuanlan.zhihu.com/p/133429080">中文推文</a>。但是解释的都不是很清楚。</p> <p>这里我以这篇博客中的某个例子为例，进行介绍：</p> <p><strong>1. 加载包</strong></p> <pre><code class="language-r">library(qqplotr)
+library(ggplo ...
