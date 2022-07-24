@@ -1,15 +1,15 @@
 ---
 title: 'Probabilistic forecast reconciliation: properties, evaluation and score optimisation'
-date: '2020-08-04'
+date: '2022-07-24'
 linkTitle: https://robjhyndman.com/publications/coherentprob/
 source: Rob J Hyndman
-description: We develop a framework for prediction of multivariate data that follow
-  some known linear constraints, such as the example where some variables are aggregates
-  of others. This is particularly common when forecasting time series (predicting
-  the future), but also arises in other types of prediction. For point prediction,
-  an increasingly popular technique is reconciliation, whereby predictions are made
-  for all series (so-called &ldquo;base&rdquo; predictions) and subsequently adjusted
-  to ensure coherence with the ...
+description: We develop a framework for forecasting multivariate data that follow
+  known linear constraints. This is particularly common in forecasting where some
+  variables are aggregates of others, commonly referred to as hierarchical time series,
+  but also arises in other prediction settings. For point forecasting, an increasingly
+  popular technique is reconciliation, whereby forecasts are made for all series (so-called
+  base forecasts) and subsequently adjusted to cohere with the constraints. We extend
+  reconciliation from point forecasting to probabilistic ...
 disable_comments: true
 ---
-We develop a framework for prediction of multivariate data that follow some known linear constraints, such as the example where some variables are aggregates of others. This is particularly common when forecasting time series (predicting the future), but also arises in other types of prediction. For point prediction, an increasingly popular technique is reconciliation, whereby predictions are made for all series (so-called &ldquo;base&rdquo; predictions) and subsequently adjusted to ensure coherence with the ...
+We develop a framework for forecasting multivariate data that follow known linear constraints. This is particularly common in forecasting where some variables are aggregates of others, commonly referred to as hierarchical time series, but also arises in other prediction settings. For point forecasting, an increasingly popular technique is reconciliation, whereby forecasts are made for all series (so-called base forecasts) and subsequently adjusted to cohere with the constraints. We extend reconciliation from point forecasting to probabilistic ...
