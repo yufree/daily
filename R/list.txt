@@ -167,3 +167,4 @@
 "statmodeling.stat.columbia.edu/feed/","2022-08-01"
 "andrewgelman.com/feed/","2022-08-01"
 "www.robinlovelace.net/index.xml","2022-08-01"
+"http://anotherdayu.com/?feed=rss","2022-08-01"
