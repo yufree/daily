@@ -1,6 +1,6 @@
 ---
 title: Posts
-date: '2022-08-09'
+date: '2023-02-02'
 linkTitle: https://www.njtierney.com/post/
 source: Blog on Credibly Curious
 description: '  ...'
