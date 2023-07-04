@@ -1,5 +1,5 @@
 ---
-title: 社交媒体、ChatGPT、心理健康
+title: 社交媒体、ChatGPT 和心理健康
 date: '2023-03-31'
 linkTitle: https://anotherdayu.com/2023/5111/
 source: Another Dayu

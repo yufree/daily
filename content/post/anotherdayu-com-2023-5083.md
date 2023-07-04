@@ -1,5 +1,5 @@
 ---
-title: 虚拟银行卡 Depay 手续费大概多少
+title: 虚拟银行卡 Dupay(Depay) 手续费大概多少
 date: '2023-03-28'
 linkTitle: https://anotherdayu.com/2023/5083/
 source: Another Dayu
