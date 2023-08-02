@@ -1,6 +1,6 @@
 ---
 title: Cell counting tool
-date: '0001-01-01'
+date: 1-01-01
 linkTitle: https://drwater.rcees.ac.cn/service/cct/
 source: Dr. Water
 description: |-
