@@ -1,6 +1,6 @@
 ---
 title: 'Videos for Forecasting: principles and practice (3rd ed)'
-date: '2023-07-21'
+date: '2023-07-20'
 linkTitle: https://robjhyndman.com/hyndsight/fpp3_videos.html
 source: Rob J Hyndman
 description: |2-
