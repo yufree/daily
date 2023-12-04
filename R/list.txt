@@ -154,7 +154,7 @@
 "https://omicx.cc/index.xml","2023-11-28"
 "juliasilge.com/index.xml","2023-11-30"
 "ropensci.org/blog/index.xml","2023-11-30"
-"zuofei.net/feed","2023-12-01"
+"yinji.org/feed","2023-12-01"
 "liao961120.github.io/feed","2023-12-02"
 "www.bayesianspectacles.org/feed","2023-12-02"
 "flowingdata.com/feed","2023-12-02"
