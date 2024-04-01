@@ -1,6 +1,6 @@
 ---
 title: Trust in Data Science
-date: '2024-02-25'
+date: '2024-03-31'
 linkTitle: https://shitao5.org/paper/2024-01-trust-in-data-science/
 source: 首页 on Shitao Wu | 吴诗涛
 description: |2-
