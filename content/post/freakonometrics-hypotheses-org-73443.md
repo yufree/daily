@@ -1,0 +1,9 @@
+---
+title: Éclipse solaire…
+date: '2024-04-08'
+linkTitle: https://freakonometrics.hypotheses.org/73443
+source: Freakonometrics
+description: (sur le campus de McGill, photo volée à ma ...
+disable_comments: true
+---
+(sur le campus de McGill, photo volée à ma ...
