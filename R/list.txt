@@ -173,3 +173,10 @@
 "feeds.feedburner.com/ProfessorRobJHyndman","2024-07-09"
 "robjhyndman.com/index.xml","2024-07-09"
 "https://www.r-bloggers.com/feed","2024-07-09"
+"https://asa-blog.netlify.app/index.xml","2024-07-09"
+"https://yangzhang.site/feed_rss_updated.xml","2024-07-09"
+"https://chenq.site/qsight/index.xml","2024-07-09"
+"https://magiskxzy.cc/index.xml","2024-07-09"
+"https://laowang2023.cn/atom.xml","2024-07-09"
+"https://blog.yanyuteng.cn/atom.xml","2024-07-09"
+
