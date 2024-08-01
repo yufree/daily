@@ -1,6 +1,6 @@
 ---
 title: 厦门三日游
-date: '2024-07-19'
+date: '2024-07-31'
 linkTitle: https://yangzhang.site/Blog/2024/travel_to_xiamen/
 source: yangzhang's Site
 description: "<h1>厦门三日游</h1><blockquote><p>From 2024.7.12 to 2024.7.15 in Xiamen,
