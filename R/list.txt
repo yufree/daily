@@ -177,5 +177,5 @@
 "yuanfan.rbind.io/index.xml","2024-08-01"
 "https://www.r-bloggers.com/feed","2024-08-01"
 "dirk.eddelbuettel.com/blog/index.rss","2024-08-02"
-"statmodeling.stat.columbia.edu/feed/","2024-08-02"
-"andrewgelman.com/feed/","2024-08-02"
+"statmodeling.stat.columbia.edu/feed/","2024-08-03"
+"andrewgelman.com/feed/","2024-08-03"
