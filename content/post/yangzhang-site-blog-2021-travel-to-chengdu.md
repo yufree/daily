@@ -1,11 +1,11 @@
 ---
-title: Travel to chengdu
-date: '2024-08-08'
+title: 成都·夏天
+date: '2024-08-09'
 linkTitle: https://yangzhang.site/Blog/2021/travel_to_chengdu/
 source: yangzhang's Site
-description: <p>!!! chatgpt-summary "AI Summary powered by <a href="https://chat.openai.com/">ChatGPT</a>"
-  《成都·夏天》是一部中国电影，讲述了一个关于友谊和成长的故事。影片以成都这座城市为背景，展现了年轻人在夏天里面对爱情、亲情和友情的种种考验与挑战。故事情节紧凑，角色形象鲜明，既有幽默搞笑的桥段，也有温情感人的场景。影片通过主人公们之间的情感纠葛，探讨了现代都市青年在面对感情困境时的选择与成长。整体氛围轻松愉悦，让人感受到了成都这座城市独特的魅力与活力。《成都·夏天》以朴实的情节和真实的情感吸引了观众，成为一部倍受好评的影片...</p>
+description: <h1>成都·夏天</h1><blockquote><p>From 2021.7.2 to 2021.7.11 in Suining &amp;
+  Chengdu, Sichuan, China</p><p>这次旅行由管院的兴青计划独家赞助～</p></blockquote><figure markdown>![](/Blog/2021/assets/2024-08-09-22-27-22.png){width=500}<figurecaption>出发前的合影，8缺3</figurecaption></figure><h2>文字log</h2><p>有营养的内容仅有此节，此后的内容都是照片流水账，那些回忆大概只对身处其中的人有价值吧。</p><h3>感触</h3><blockquote><p>下面这些感触是...</p></blockquote>
   ...
 disable_comments: true
 ---
-<p>!!! chatgpt-summary "AI Summary powered by <a href="https://chat.openai.com/">ChatGPT</a>" 《成都·夏天》是一部中国电影，讲述了一个关于友谊和成长的故事。影片以成都这座城市为背景，展现了年轻人在夏天里面对爱情、亲情和友情的种种考验与挑战。故事情节紧凑，角色形象鲜明，既有幽默搞笑的桥段，也有温情感人的场景。影片通过主人公们之间的情感纠葛，探讨了现代都市青年在面对感情困境时的选择与成长。整体氛围轻松愉悦，让人感受到了成都这座城市独特的魅力与活力。《成都·夏天》以朴实的情节和真实的情感吸引了观众，成为一部倍受好评的影片...</p> ...
+<h1>成都·夏天</h1><blockquote><p>From 2021.7.2 to 2021.7.11 in Suining &amp; Chengdu, Sichuan, China</p><p>这次旅行由管院的兴青计划独家赞助～</p></blockquote><figure markdown>![](/Blog/2021/assets/2024-08-09-22-27-22.png){width=500}<figurecaption>出发前的合影，8缺3</figurecaption></figure><h2>文字log</h2><p>有营养的内容仅有此节，此后的内容都是照片流水账，那些回忆大概只对身处其中的人有价值吧。</p><h3>感触</h3><blockquote><p>下面这些感触是...</p></blockquote> ...
