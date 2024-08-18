@@ -177,5 +177,5 @@
 "dirk.eddelbuettel.com/blog/index.rss","2024-08-17"
 "https://asa-blog.netlify.app/index.xml","2024-08-17"
 "https://www.r-bloggers.com/feed","2024-08-17"
-"statmodeling.stat.columbia.edu/feed/","2024-08-17"
-"andrewgelman.com/feed/","2024-08-17"
+"statmodeling.stat.columbia.edu/feed/","2024-08-18"
+"andrewgelman.com/feed/","2024-08-18"
