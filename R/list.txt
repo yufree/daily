@@ -177,5 +177,5 @@
 "dirk.eddelbuettel.com/blog/index.rss","2024-08-31"
 "yinji.org/feed","2024-08-31"
 "https://www.r-bloggers.com/feed","2024-08-31"
-"statmodeling.stat.columbia.edu/feed/","2024-08-31"
-"andrewgelman.com/feed/","2024-08-31"
+"statmodeling.stat.columbia.edu/feed/","2024-09-01"
+"andrewgelman.com/feed/","2024-09-01"
