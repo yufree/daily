@@ -1,6 +1,6 @@
 ---
 title: Summer School in Warsow
-date: '2024-09-14'
+date: '2024-09-15'
 linkTitle: https://freakonometrics.hypotheses.org/75029
 source: Freakonometrics
 description: In a couple of days, I will be in Warsow for a Summer School, to give
