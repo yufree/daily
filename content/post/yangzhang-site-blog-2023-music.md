@@ -1,6 +1,6 @@
 ---
 title: 曲中有真意
-date: '2024-08-08'
+date: '2024-09-29'
 linkTitle: https://yangzhang.site/Blog/2023/music/
 source: yangzhang's Site
 description: <h1>曲中有真意</h1><blockquote><p>不定期更新</p></blockquote><p>!!! chatgpt-summary
