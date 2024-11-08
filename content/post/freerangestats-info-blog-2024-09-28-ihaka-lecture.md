@@ -1,6 +1,6 @@
 ---
 title: Git, peer review, tests and toil
-date: '2024-09-27'
+date: '2024-09-28'
 linkTitle: https://freerangestats.info/blog/2024/09/28/ihaka-lecture
 source: free range statistics
 description: I was honoured to give the third and final Ihaka Lecture in the 2024
