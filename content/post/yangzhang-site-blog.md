@@ -1,6 +1,6 @@
 ---
 title: 胡言乱语
-date: '2024-08-10'
+date: '2024-11-17'
 linkTitle: https://yangzhang.site/Blog/
 source: yangzhang's Site
 description: "<h1>博客\U0001F4D5</h1><p>我经历的一切累加起来就是我，所以欢迎进入我的精神世界。</p><h2>佛系小诗一首</h2><p>???
