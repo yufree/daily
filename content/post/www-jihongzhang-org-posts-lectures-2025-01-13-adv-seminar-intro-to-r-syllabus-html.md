@@ -4,9 +4,25 @@ date: '2025-01-13'
 linkTitle: https://www.jihongzhang.org/posts/Lectures/2025-01-13-Adv-Seminar-Intro-to-R/syllabus.html
 source: Jihong Z. - Play Harder and Learn Harder
 description: |2-
-   <div class="tabset-margin-container"></div><div class="panel-tabset">
-  <ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true">Web Books</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">R Community</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" aria-controls="tabset-1-3" ...
+   <div class="quarto-figure quarto-figure-center">
+  <figure class="figure">
+  <p><a href="images/clipboard-4222849525.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://www.jihongzhang.org/posts/Lectures/2025-01-13-Adv-Seminar-Intro-to-R/images/clipboard-4222849525.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:40.0%"></a></p>
+  </figure>
+  </div>
+  <section id="general-information" class="level1" data-number="1">
+  <h1 data-number="1"><span class="header-section-number">1</span> General Information</h1>
+  <hr>
+  <ul>
+  <li>Course Code: ESRM ...
 disable_comments: true
 ---
- <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true">Web Books</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">R Community</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" aria-controls="tabset-1-3" ...
+ <div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/clipboard-4222849525.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://www.jihongzhang.org/posts/Lectures/2025-01-13-Adv-Seminar-Intro-to-R/images/clipboard-4222849525.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:40.0%"></a></p>
+</figure>
+</div>
+<section id="general-information" class="level1" data-number="1">
+<h1 data-number="1"><span class="header-section-number">1</span> General Information</h1>
+<hr>
+<ul>
+<li>Course Code: ESRM ...
