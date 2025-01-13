@@ -13,7 +13,7 @@ description: |2-
   <h1 data-number="1"><span class="header-section-number">1</span> General Information</h1>
   <hr>
   <ul>
-  <li>Course Code: ESRM ...
+  <li>Course Code: ESRM 6990V - 001 ...
 disable_comments: true
 ---
  <div class="quarto-figure quarto-figure-center">
@@ -25,4 +25,4 @@ disable_comments: true
 <h1 data-number="1"><span class="header-section-number">1</span> General Information</h1>
 <hr>
 <ul>
-<li>Course Code: ESRM ...
+<li>Course Code: ESRM 6990V - 001 ...

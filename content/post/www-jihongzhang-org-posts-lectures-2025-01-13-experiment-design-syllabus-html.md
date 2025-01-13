@@ -15,8 +15,8 @@ description: |2-
   <li>Contact Information: <a href="mailto:jzhang@uark.edu">jzhang@uark.edu</a></li>
   <li>Personal Website: <a href="http://jihongzhang.org" class="uri">http://jihongzhang.org</a></li>
   <li>Office Location: GRAD 133B</li>
-  <li>Office Hours: Tu 1:30-4:30PM</li>
-  <li>Office Phone +1 ...
+  <li>Office Hours: Monday 2:00-5:00PM or by appointment</li>
+  <li> ...
 disable_comments: true
 ---
  <section id="general-information" class="level1" data-number="1">
@@ -30,5 +30,5 @@ disable_comments: true
 <li>Contact Information: <a href="mailto:jzhang@uark.edu">jzhang@uark.edu</a></li>
 <li>Personal Website: <a href="http://jihongzhang.org" class="uri">http://jihongzhang.org</a></li>
 <li>Office Location: GRAD 133B</li>
-<li>Office Hours: Tu 1:30-4:30PM</li>
-<li>Office Phone +1 ...
+<li>Office Hours: Monday 2:00-5:00PM or by appointment</li>
+<li> ...
