@@ -179,3 +179,4 @@
 "jihongzhang.org/index.xml","2025-01-13"
 "statmodeling.stat.columbia.edu/feed/","2025-01-13"
 "andrewgelman.com/feed/","2025-01-13"
+"https://wsdjeg.net/feed.xml" "2025-01-13"
