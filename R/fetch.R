@@ -53,10 +53,10 @@ if(NROW(x)>0){
 
 write.csv(m[order(m$update), , drop = FALSE], f, row.names = FALSE)
 
-# # only keep the recent n-day (i.e. n = 3) markdown files in post directory
-# n = 3
-# d = Sys.Date()
-# p2 = list.files('content/post/', '^\\d{4,}-\\d{2}-\\d{2}-\\d{1,}[.]md$')
-# z = as.Date(gsub('-\\d{1,}.md$', '', p2)) < (d-n)
-# m = length(z[z==TRUE])
-# file.remove(file.path('content/post/', p2[1:m])) 
+# only keep the recent n-day (i.e. n = 3) markdown files in post directory
+n = 10000
+d = Sys.Date()
+p2 = list.files('content/post/', '^\\d{4,}-\\d{2}-\\d{2}-\\d{1,}[.]md$')
+z = as.Date(gsub('-\\d{1,}.md$', '', p2)) < (d-n)
+m = length(z[z==TRUE])
+file.remove(file.path('content/post/', p2[1:m]))
