@@ -1,9 +1,0 @@
----
-title: 编程之道
-date: '2018-11-19'
-linkTitle: https://yihui.name/cn/2018/11/tao-of-programming/
-source: Homepage on Yihui Xie | 谢益辉
-description: ' <p>有好事之歪果仁用《道德经》和《论语》体写了一篇《<a href="http://www.mit.edu/~xela/tao.html">编程之道</a>》。这种中西结合的文风读起来很逗，用了不少中国文化里的典故，如庄生梦蝶、庖丁解牛，不知道老外们能否理解这些梗。作者也是故意要搞笑，经常在最后一句来个急转弯，让读者翻车。</p>  ...'
-disable_comments: true
----
- <p>有好事之歪果仁用《道德经》和《论语》体写了一篇《<a href="http://www.mit.edu/~xela/tao.html">编程之道</a>》。这种中西结合的文风读起来很逗，用了不少中国文化里的典故，如庄生梦蝶、庖丁解牛，不知道老外们能否理解这些梗。作者也是故意要搞笑，经常在最后一句来个急转弯，让读者翻车。</p>  ...
