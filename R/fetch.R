@@ -54,9 +54,29 @@ if(NROW(x)>0){
 write.csv(m[order(m$update), , drop = FALSE], f, row.names = FALSE)
 
 # only keep the recent n-day (i.e. n = 3) markdown files in post directory
-n = 10000
-d = Sys.Date()
-p2 = list.files('content/post/', '^\\d{4,}-\\d{2}-\\d{2}-\\d{1,}[.]md$')
-z = as.Date(gsub('-\\d{1,}.md$', '', p2)) < (d-n)
-m = length(z[z==TRUE])
-file.remove(file.path('content/post/', p2[1:m]))
+n_days <- 10000
+current_date <- Sys.Date()
+
+p2 <- list.files('content/post/', pattern = '\\.md$', full.names = TRUE)
+
+for (file_path in p2) {
+        file_content <- readLines(file_path, warn = FALSE)
+        yaml_start <- grep("^---$", file_content)[1]
+        yaml_end <- grep("^---$", file_content)[2]
+        
+        if (!is.na(yaml_start) && !is.na(yaml_end)) {
+                yaml_header <- file_content[(yaml_start + 1):(yaml_end - 1)]
+                
+                date_line <- grep("^date:", yaml_header, value = TRUE)
+                if (length(date_line) > 0) {
+                        date_str <- sub("^date:\\s*['\"]?(.*?)['\"]?\\s*$", "\\1", date_line)
+                        
+                        file_date <- as.Date(date_str)
+                        
+                        if (current_date - file_date > n_days) {
+                                file.remove(file_path)
+                                cat("Deleted:", file_path, "(Date:", date_str, ")\n")
+                        }
+                }
+        }
+}
