@@ -33,9 +33,6 @@ jobs:
       - name: Fetch RSS
         run: |
           Rscript R/fetch.R
-      - name: Clean up old updates
-        run: |
-          find content/post/ -type f -mtime +1096 -delete
       - name: Push results
         run: |
           git add --all *
