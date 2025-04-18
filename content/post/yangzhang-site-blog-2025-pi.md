@@ -1,6 +1,6 @@
 ---
 title: Happy Pi Day
-date: '2025-03-14'
+date: '2025-04-17'
 linkTitle: https://yangzhang.site/Blog/2025/pi/
 source: yangzhang's Site
 description: <h1>Happy Pi Day</h1><p>又是一年一度的Pi Day了。</p><p>看了一下今日的Google Doodle，居然不是Pi
