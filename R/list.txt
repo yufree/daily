@@ -181,3 +181,4 @@
 "www.robinlovelace.net/index.xml","2025-06-19"
 "statmodeling.stat.columbia.edu/feed/","2025-06-19"
 "andrewgelman.com/feed/","2025-06-19"
+"blog.0xd00.com/rss.xml","2025-06-19"
