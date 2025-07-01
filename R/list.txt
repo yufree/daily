@@ -182,3 +182,4 @@
 "www.robinlovelace.net/index.xml","2025-07-01"
 "statmodeling.stat.columbia.edu/feed/","2025-07-01"
 "andrewgelman.com/feed/","2025-07-01"
+"https://lhasa.icu/rss.xml","2025-07-01"
