@@ -1,5 +1,5 @@
 ---
-title: Kyoto (京都), Japan, vs. Montréal, Canada
+title: Kyoto (京都), Japan, vs. Montréal, Canada, a first comparison
 date: '2025-08-13'
 linkTitle: https://freakonometrics.hypotheses.org/83057
 source: Freakonometrics
