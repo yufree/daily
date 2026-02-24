@@ -1,6 +1,6 @@
 ---
 title: 关于诗涛
-date: '2025-04-19'
+date: '2026-02-13'
 linkTitle: https://shitao5.org/about/
 source: 首页 on Shitao Wu | 吴诗涛
 description: |2-
