@@ -1,0 +1,28 @@
+---
+title: 'logrittr: A Verbose Pipe Operator for Logging dplyr Pipelines'
+date: '2026-04-29'
+linkTitle: https://www.r-bloggers.com/2026/04/logrittr-a-verbose-pipe-operator-for-logging-dplyr-pipelines-2/
+source: R-bloggers
+description: |-
+  <div style = "width:60%; display: inline-block; float:left; ">
+  <p> dplyr verbs are descriptive: let’s make them more verbose!</p>
+  <p> Yet another pipe for R.</p>
+  <p>Repost for better image handling on r-bloggers.</p>
+  <p>Motivation</p>
+  <p>In SAS, every DATA step prints a log:</p>
+  <p>NOTE: There were 120000 observations read f...</p></div>
+  <div style = "width: 40%; display: inline-block; float:right;"></div>
+  <div style="clear: both;"></div>
+  <strong>Continue reading</strong>: <a href="https://www.r-bloggers.com/2026/04/logrittr-a-verbose-pipe-operator-for-logging-dplyr-pipelines-2/">logrittr: A Verbose ...
+disable_comments: true
+---
+<div style = "width:60%; display: inline-block; float:left; ">
+<p> dplyr verbs are descriptive: let’s make them more verbose!</p>
+<p> Yet another pipe for R.</p>
+<p>Repost for better image handling on r-bloggers.</p>
+<p>Motivation</p>
+<p>In SAS, every DATA step prints a log:</p>
+<p>NOTE: There were 120000 observations read f...</p></div>
+<div style = "width: 40%; display: inline-block; float:right;"></div>
+<div style="clear: both;"></div>
+<strong>Continue reading</strong>: <a href="https://www.r-bloggers.com/2026/04/logrittr-a-verbose-pipe-operator-for-logging-dplyr-pipelines-2/">logrittr: A Verbose ...
