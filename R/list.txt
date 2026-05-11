@@ -181,5 +181,5 @@
 "dirk.eddelbuettel.com/blog/index.rss","2026-05-10"
 "yuanfan.rbind.io/index.xml","2026-05-10"
 "https://www.r-bloggers.com/feed","2026-05-10"
-"andrewgelman.com/feed/","2026-05-10"
-"statmodeling.stat.columbia.edu/feed/","2026-05-10"
+"andrewgelman.com/feed/","2026-05-11"
+"statmodeling.stat.columbia.edu/feed/","2026-05-11"
