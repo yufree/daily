@@ -1,0 +1,13 @@
+---
+title: APOE E4 Alzheimer’s Risk Converges on an Oligodendrocyte Subtype in the Human
+  Entorhinal Cortex
+date: '2025-11-20'
+linkTitle: https://lcolladotor.github.io/publication/preprint_lff_erc/
+source: L. Collado-Torres
+description: |-
+  <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:kfflbco44d6dfcs7gatyeve4/app.bsky.feed.post/3m7pkckfzrc2d" data-bluesky-cid="bafyreibbwe4tzax3gw2nzhbm4kofb37fi2vju5cfxtkdtphfkqfcdp2hc4" data-bluesky-embed-color-mode="system"><p lang="en">Excited to share our latest preprint from @lieberinstitute.bsky.social spatial + single-cell RNA-seq map the ERC &amp; explore how AD risk shapes gene expression doi.org/10.1101/2025...
+  Our major finding: “APOE E4 Alzheimer’s Risk Converges on an Oligodendrocyte Subtype in the Human Entorhinal Cortex”<br><br><a href="https://bsky.app/profile/di ...
+disable_comments: true
+---
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:kfflbco44d6dfcs7gatyeve4/app.bsky.feed.post/3m7pkckfzrc2d" data-bluesky-cid="bafyreibbwe4tzax3gw2nzhbm4kofb37fi2vju5cfxtkdtphfkqfcdp2hc4" data-bluesky-embed-color-mode="system"><p lang="en">Excited to share our latest preprint from @lieberinstitute.bsky.social spatial + single-cell RNA-seq map the ERC &amp; explore how AD risk shapes gene expression doi.org/10.1101/2025...
+Our major finding: “APOE E4 Alzheimer’s Risk Converges on an Oligodendrocyte Subtype in the Human Entorhinal Cortex”<br><br><a href="https://bsky.app/profile/di ...
