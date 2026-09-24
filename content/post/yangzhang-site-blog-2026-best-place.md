@@ -1,6 +1,6 @@
 ---
 title: 最好的地方II
-date: '2026-09-17'
+date: '2026-09-18'
 linkTitle: https://yangzhang.site/Blog/2026/best_place/
 source: yangzhang's Site
 description: NA ...
