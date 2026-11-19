@@ -7,10 +7,10 @@ description: 'Deux personnes achètent la même garantie d’assurance automobil
   paie davantage que l’autre. Est-ce injuste ? On pourrait répondre que tout dépend
   de leur risque d’accident. Mais cette réponse en appelle aussitôt une autre : quelles
   différences de risque une société accepte-t-elle de faire payer aux individus ?
-  L’assurance a toujours eu deux visages. Elle permet à une personne de transférer
-  les conséquences financières d’un sinistre à un assureur. Elle organise aussi une
-  mutualisation : les primes d’un grand nombre financent les pertes d’un &#8230; <a
-  href="https://freakonometrics.hypoth ...'
+  L’assurance a toujours eu deux visages, à la fois un transfert et un partage de
+  risque. Elle permet à une personne de transférer les conséquences financières d’un
+  sinistre à un assureur. Elle organise aussi une mutualisation &#8230; <a href="https://freakonometrics.hypotheses.org/
+  ...'
 disable_comments: true
 ---
-Deux personnes achètent la même garantie d’assurance automobile. L’une paie davantage que l’autre. Est-ce injuste ? On pourrait répondre que tout dépend de leur risque d’accident. Mais cette réponse en appelle aussitôt une autre : quelles différences de risque une société accepte-t-elle de faire payer aux individus ? L’assurance a toujours eu deux visages. Elle permet à une personne de transférer les conséquences financières d’un sinistre à un assureur. Elle organise aussi une mutualisation : les primes d’un grand nombre financent les pertes d’un &#8230; <a href="https://freakonometrics.hypoth ...
+Deux personnes achètent la même garantie d’assurance automobile. L’une paie davantage que l’autre. Est-ce injuste ? On pourrait répondre que tout dépend de leur risque d’accident. Mais cette réponse en appelle aussitôt une autre : quelles différences de risque une société accepte-t-elle de faire payer aux individus ? L’assurance a toujours eu deux visages, à la fois un transfert et un partage de risque. Elle permet à une personne de transférer les conséquences financières d’un sinistre à un assureur. Elle organise aussi une mutualisation &#8230; <a href="https://freakonometrics.hypotheses.org/ ...
