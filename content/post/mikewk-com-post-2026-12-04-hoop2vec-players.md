@@ -4,9 +4,9 @@ date: '2026-12-04'
 linkTitle: https://mikewk.com/post/2026-12-04-hoop2vec-players/
 source: Michael W. Kearney
 description: |-
-  <p>Florida is playing without Boogie Fland, who&rsquo;s out with a shoulder injury. He&rsquo;d been playing about 25 minutes a game, and as long as he&rsquo;s listed as out, <a href="https://mkearney.github.io/hoop2vec/#/players">hoop2vec</a> takes about two points off Florida in every forecast. That adjustment comes from the Players page, which rates every D-I player.</p>
-  <figure><img src="https://mikewk.com/post/2026-12-04-hoop2vec-players/players_hu352395930147238745.png" alt="The hoop2vec Players page, with lists of the best and most important players" width="1400" height="723" ...
+  <p>When a team&rsquo;s best player is ruled out, the forecast for its next game should move. How much it moves depends on how good that player is, how much they usually play, and who&rsquo;d take their minutes. That&rsquo;s what the Players page on <a href="https://mkearney.github.io/hoop2vec/">hoop2vec</a> is for. It rates every player in all four leagues, and those ratings feed the game forecasts.</p>
+  <p>Each player gets two numbers. Value is how many points per 100 possessions better their team is with them on the floor than it would be with an average player. Impact adds playing time. ...
 disable_comments: true
 ---
-<p>Florida is playing without Boogie Fland, who&rsquo;s out with a shoulder injury. He&rsquo;d been playing about 25 minutes a game, and as long as he&rsquo;s listed as out, <a href="https://mkearney.github.io/hoop2vec/#/players">hoop2vec</a> takes about two points off Florida in every forecast. That adjustment comes from the Players page, which rates every D-I player.</p>
-<figure><img src="https://mikewk.com/post/2026-12-04-hoop2vec-players/players_hu352395930147238745.png" alt="The hoop2vec Players page, with lists of the best and most important players" width="1400" height="723" ...
+<p>When a team&rsquo;s best player is ruled out, the forecast for its next game should move. How much it moves depends on how good that player is, how much they usually play, and who&rsquo;d take their minutes. That&rsquo;s what the Players page on <a href="https://mkearney.github.io/hoop2vec/">hoop2vec</a> is for. It rates every player in all four leagues, and those ratings feed the game forecasts.</p>
+<p>Each player gets two numbers. Value is how many points per 100 possessions better their team is with them on the floor than it would be with an average player. Impact adds playing time. ...
